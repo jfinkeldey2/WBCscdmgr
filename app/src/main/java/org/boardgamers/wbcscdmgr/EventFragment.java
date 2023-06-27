@@ -183,7 +183,8 @@ public class EventFragment extends Fragment {
 
 			noteET.setEnabled(false);
 			clearButton.setEnabled(false);
-			shareButton.setEnabled(true);
+			// shareButton.setEnabled(true);
+			shareButton.setEnabled(false);
 
 			hideNonTournamentViews();
 		} else {
@@ -247,7 +248,8 @@ public class EventFragment extends Fragment {
 			noteET.setText(event.note);
 			noteET.setEnabled(true);
 			clearButton.setEnabled(true);
-			shareButton.setEnabled(true);
+			//shareButton.setEnabled(true);
+			shareButton.setEnabled(false);
 
 			long hoursIntoConvention = Helpers.getHoursIntoConvention();
 			boolean started = event.day * 24 + event.hour <= hoursIntoConvention;
