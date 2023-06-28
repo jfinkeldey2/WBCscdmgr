@@ -33,9 +33,10 @@ public class UserDataListFragment extends DefaultListFragment {
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 							 Bundle savedInstanceState) {
 		View view = super.onCreateView(inflater, container, savedInstanceState);
+		Log.d(TAG, " View in onCreateView " + view);
 
 		if (view != null) {
-			/* Commenting out removed add event button
+
 			Button addEvent = view.findViewById(R.id.add_event);
 			addEvent.setOnClickListener(new View.OnClickListener() {
 				@Override
@@ -44,7 +45,7 @@ public class UserDataListFragment extends DefaultListFragment {
 				}
 			});
 
-			 */
+			addEvent.setEnabled(false);
 
 			Button deleteAll = view.findViewById(R.id.delete_all);
 			deleteAll.setOnClickListener(new View.OnClickListener() {
@@ -56,6 +57,7 @@ public class UserDataListFragment extends DefaultListFragment {
 		}
 
 		finishStrings = getResources().getStringArray(R.array.finish_strings);
+		Log.d(TAG, "in dbhelper on create " + R.array.finish_strings);
 
 		new PopulateUserDataAdapterTask(getActivity(), 3).execute(0, 0, 0);
 		return view;
@@ -70,13 +72,15 @@ public class UserDataListFragment extends DefaultListFragment {
 		for (Event event : listAdapter.events.get(NOTES_INDEX)) {
 			if (e.id == event.id) {
 				noteInList = true;
-				if (e.note.equalsIgnoreCase("")) {
+				if (e.note.equalsIgnoreCase("") || e.note.isEmpty()) {
 					listAdapter.events.get(NOTES_INDEX).remove(event);
 				} else {
 					event.title = event.title.substring(0, event.title.length() - event.note.length());
 					event.note = e.note;
 					event.title += e.note;
 				}
+				//below added 6/27
+				listAdapter.notifyDataSetChanged();
 
 				break;
 			}
@@ -219,6 +223,16 @@ public class UserDataListFragment extends DefaultListFragment {
 
 			events = new ArrayList<>();
 			events.add(dbHelper.getUserEvents(MainActivity.userId));
+			/*experiment 6/27
+			List<Event> eventjf = dbHelper.getUserEvents(MainActivity.userId);
+
+			for (Event event : eventjf) {
+				event.title += " jf";
+			}
+			events.add(eventjf);
+			end experiment
+			*/
+
 			List<Event> eventNotes = dbHelper.getEventsWithNotes(MainActivity.userId);
 			List<Tournament> tournamentFinishes = dbHelper.getTournamentsWithFinishes(MainActivity.userId);
 
@@ -229,16 +243,20 @@ public class UserDataListFragment extends DefaultListFragment {
 
 			List<Event> eventFinishes = new ArrayList<>();
 			for (Tournament tournament : tournamentFinishes) {
+				Log.d(TAG, "pop userid " + MainActivity.userId + " tourney id " + tournament.id);
 				Tournament tournamentFinish = dbHelper.getTournament(MainActivity.userId, tournament.id);
 				Event eventFinish = dbHelper.getFinalEvent(MainActivity.userId, tournamentFinish.id);
+				Log.d(TAG, "in populateuserdataadapter " +  tournamentFinish.finish);
 
 				if (eventFinish != null) {
 					eventFinish.title += ": " + finishStrings[tournamentFinish.finish - 1];
 					eventFinish.note = String.valueOf(tournamentFinish.finish);
 
-//					eventFinishes.add(eventFinish);
+					eventFinishes.add(eventFinish);
+
 				}
 			}
+
 			dbHelper.close();
 
 			events.add(eventFinishes);
