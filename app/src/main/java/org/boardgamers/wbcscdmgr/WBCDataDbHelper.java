@@ -418,6 +418,7 @@ class WBCDataDbHelper extends SQLiteOpenHelper {
 		Event event;
 		List<Event> events = new ArrayList<>();
 
+		Log.d(TAG, "getEvents query " + query);
 
 		Cursor cursor = sqLiteDatabase.rawQuery(query, null);
 		cursor.moveToFirst();
