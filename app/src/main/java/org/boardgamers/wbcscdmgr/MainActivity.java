@@ -28,6 +28,7 @@ import android.util.Patterns;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+import android.widget.Adapter;
 import android.widget.Toast;
 
 import java.io.File;
@@ -145,12 +146,38 @@ public class MainActivity extends AppCompatActivity {
 		int numStarredEvents = dbHelper.getStarredEvents(userId).size();
 		String scheduleName = dbHelper.getUser(userId).name;
 		setTitle("WBC: " + scheduleName);
+
+
+
+		// new stuff 6/27
+		Log.d(TAG, "There are currently " + String.valueOf(dbHelper.getNumUserNoncreatedEvents()) + " events in User DB");
+		List<Event> events = dbHelper.getUserEvents(1);
+		for (Event event : events) {
+			Log.d(TAG, "User event loading " + event.id + " " + event.title);
+		}
+		Log.d(TAG, "There are currently " + String.valueOf(numStarredEvents) + " starred events in User DB");
+		List<Event> events2 = dbHelper.getStarredEvents(1);
+		for (Event event : events2) {
+			Log.d(TAG, "User event with star loading " + event.id + " " + event.title);
+		}
+		Log.d(TAG, "There are currently " + String.valueOf(dbHelper.getEventsWithNotes(1).stream().count()) + " events with notes in User DB");
+		List<Event> events3 = dbHelper.getEventsWithNotes(1);
+		for (Event event : events3) {
+			Log.d(TAG, "User event with notes loading " + event.id + " " + event.title);
+		}
+		Log.d(TAG, "There are currently " + String.valueOf(dbHelper.getTournamentsWithFinishes(1).stream().count()) + " tournaments with finishes in User DB");
+		List<Tournament> tourns = dbHelper.getTournamentsWithFinishes(1);
+		for (Tournament tourn : tourns ) {
+			Log.d(TAG, "User event with notes loading " + tourn.id + " " + tourn.title);
+		}
+
 		dbHelper.close();
 
 		if (numStarredEvents == 0) {
+			// sets default tab to schedule if no starred events
 			viewPager.setCurrentItem(1);
 		}
-		Log.d(TAG, "Loading complete");
+		Log.d(TAG, "Loading complete for schedule " + scheduleName);
 	}
 
 	@Override
@@ -175,6 +202,7 @@ public class MainActivity extends AppCompatActivity {
 						.updateUserEventData(event, tournament.finish);
 			}
 		}
+		Log.d(TAG, "in resume");
 
 
 		super.onResume();

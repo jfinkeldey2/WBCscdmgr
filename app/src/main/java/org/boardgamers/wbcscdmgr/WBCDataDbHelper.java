@@ -564,6 +564,18 @@ class WBCDataDbHelper extends SQLiteOpenHelper {
 
 	}
 
+	int getNumUserNoncreatedEvents() {
+		Cursor cursor =
+				sqLiteDatabase.rawQuery("SELECT COUNT (*) FROM " + UserEventDataEntry.TABLE_NAME, null);
+		cursor.moveToFirst();
+		int count = cursor.getInt(0);
+		cursor.close();
+
+		return count;
+
+	}
+
+
 	long insertUserEvent(long uId, String title, int day, int hour, float duration, String location) {
 		ContentValues values = new ContentValues();
 		values.put(UserCreatedEventEntry.COLUMN_USER_ID, uId);
@@ -715,8 +727,9 @@ class WBCDataDbHelper extends SQLiteOpenHelper {
 				UserTournamentDataEntry.COLUMN_TOURNAMENT_ID + "=" + String.valueOf(tournamentId) + " AND " +
 						UserTournamentDataEntry.COLUMN_USER_ID + "=" + String.valueOf(userId);
 
-		Log.d(TAG, "insertUTourn " + finish + where + "-end of delete");
+
 		long result = sqLiteDatabase.update(UserTournamentDataEntry.TABLE_NAME, values, where, null);
+		Log.d(TAG, "update UTourn " + values + " " + where + " " + result);
 
 		if (result == 0) {
 			values.put(UserTournamentDataEntry.COLUMN_USER_ID, userId);
@@ -725,6 +738,7 @@ class WBCDataDbHelper extends SQLiteOpenHelper {
 			result = sqLiteDatabase
 					.insert(UserTournamentDataEntry.TABLE_NAME, UserTournamentDataEntry.COLUMN_NULLABLE,
 							values);
+			Log.d(TAG, "insert UTourn " + values + " " + where + " " + result);
 		}
 		return result;
 	}
@@ -738,8 +752,9 @@ class WBCDataDbHelper extends SQLiteOpenHelper {
 
 			String where = UserEventDataEntry.COLUMN_EVENT_ID + "=" + String.valueOf(eventId) + " AND " +
 					UserEventDataEntry.COLUMN_USER_ID + "=" + String.valueOf(userId);
-			Log.d(TAG, "Event " + String.valueOf(eventId) + " " + values + " " + where);
+			Log.d(TAG, "Event " + String.valueOf(eventId) + " values " + values + " where " + where);
 			long result = sqLiteDatabase.update(UserEventDataEntry.TABLE_NAME, values, where, null);
+			Log.d(TAG, "update1 result " + result);
 
 			if (result == 0) {
 				values.put(UserEventDataEntry.COLUMN_USER_ID, userId);
@@ -747,7 +762,9 @@ class WBCDataDbHelper extends SQLiteOpenHelper {
 
 				result = sqLiteDatabase
 						.insert(UserEventDataEntry.TABLE_NAME, UserEventDataEntry.COLUMN_NULLABLE, values);
+				Log.d(TAG, "insert1 result " + result);
 			}
+			Log.d(TAG,"There are " + getNumUserNoncreatedEvents() + " in the user database");
 			return result;
 	}
 
@@ -760,6 +777,7 @@ class WBCDataDbHelper extends SQLiteOpenHelper {
 
 			result += insertUserEventData(userId, event.id, event.starred, event.note);
 		}
+		Log.d(TAG, "insert2 result " + result);
 		return result;
 
 	}

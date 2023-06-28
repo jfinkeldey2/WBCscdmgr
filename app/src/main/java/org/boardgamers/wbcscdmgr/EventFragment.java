@@ -368,10 +368,15 @@ public class EventFragment extends Fragment {
 			// save data
 			WBCDataDbHelper dbHelper = new WBCDataDbHelper(getActivity());
 			dbHelper.getWritableDatabase();
-			dbHelper.insertUserEventData(MainActivity.userId, event.id, event.starred, note);
+			// debug insert
+			long resultUE;
+			resultUE = dbHelper.insertUserEventData(MainActivity.userId, event.id, event.starred, note);
+			Log.d(TAG," resultUE " + resultUE);
 			if (finish > -1 && finish != initialFinish) {
 				dbHelper.insertUserTournamentData(MainActivity.userId, event.tournamentID, finish);
 			}
+			Log.d(TAG, "There are currently " + String.valueOf(dbHelper.getNumEvents()) + " events in main DB");
+			Log.d(TAG, "There are currently " + dbHelper.getNumUserNoncreatedEvents() + " events in user DB");
 			dbHelper.close();
 
 			if (getActivity() instanceof MainActivity) {

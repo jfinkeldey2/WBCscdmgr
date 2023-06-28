@@ -20,6 +20,14 @@
 		android:orientation="horizontal">
 
 		<Button
+			android:id="@+id/add_event"
+			style="?android:attr/buttonBarButtonStyle"
+			android:layout_width="0dip"
+			android:layout_height="match_parent"
+			android:layout_weight="1"
+			android:text="@string/add_event"/>
+
+		<Button
 			android:id="@+id/delete_all"
 			style="?android:attr/buttonBarButtonStyle"
 			android:layout_width="0dip"
