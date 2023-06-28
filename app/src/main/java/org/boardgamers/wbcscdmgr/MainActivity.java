@@ -150,6 +150,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 		// new stuff 6/27
+		//Log.d(TAG, "There are currently " + String.valueOf(dbHelper.getUserEvents()).stream().count() + " events in User DB");
 		Log.d(TAG, "There are currently " + String.valueOf(dbHelper.getNumUserNoncreatedEvents()) + " events in User DB");
 		List<Event> events = dbHelper.getUserEvents(1);
 		for (Event event : events) {

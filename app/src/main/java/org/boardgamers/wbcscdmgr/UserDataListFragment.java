@@ -222,7 +222,8 @@ public class UserDataListFragment extends DefaultListFragment {
 			dbHelper.getReadableDatabase();
 
 			events = new ArrayList<>();
-			events.add(dbHelper.getUserEvents(MainActivity.userId));
+			events.add(dbHelper.getStarredEvents(MainActivity.userId));
+			//events.add(dbHelper.getUserEvents(MainActivity.userId));
 			/*experiment 6/27
 			List<Event> eventjf = dbHelper.getUserEvents(MainActivity.userId);
 

@@ -9,7 +9,7 @@ android {
 
 	defaultConfig {
 		vectorDrawables.useSupportLibrary = true
-		minSdkVersion 16
+		minSdkVersion 24
 		/* updated below for 2023 publishing
 		targetSdkVersion 27
 		*/
