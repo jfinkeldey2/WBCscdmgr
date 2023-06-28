@@ -242,10 +242,13 @@ public class UserDataListFragment extends DefaultListFragment {
 			events.add(eventNotes);
 
 			List<Event> eventFinishes = new ArrayList<>();
+			long temptourney;
 			for (Tournament tournament : tournamentFinishes) {
 				Log.d(TAG, "pop userid " + MainActivity.userId + " tourney id " + tournament.id);
-				Tournament tournamentFinish = dbHelper.getTournament(MainActivity.userId, tournament.id);
-				Event eventFinish = dbHelper.getFinalEvent(MainActivity.userId, tournamentFinish.id);
+				temptourney = dbHelper.getTournamentID(tournament.title);
+				Tournament tournamentFinish = dbHelper.getTournament(MainActivity.userId, temptourney);
+				Log.d(TAG, "temptourney " + temptourney);
+				Event eventFinish = dbHelper.getFinalEvent(MainActivity.userId, temptourney);
 				Log.d(TAG, "in populateuserdataadapter " +  tournamentFinish.finish);
 
 				if (eventFinish != null) {
