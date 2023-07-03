@@ -40,6 +40,7 @@
 7/22/2023~13~San Juan R4/4~~B~SwEl~1~~L. Shea ~Seasons~SJN~
 7/22/2023~13~The Russian Campaign R1/7~~A~SwEl~5~~B. Schoose ~Winterberry~TRC~
 7/22/2023~14~Agricola H1/3~~A~HMW-P~2~~R. Murray ~Seasons~AGR~
+7/22/2023~14~Cascadia D1/1~~--~--~1~~P. Klayder ~Exhibit Hall Annex #5~CAS~
 7/22/2023~14~Dominion H1/3~~B~HMW-P~1~~R. Bielefeldt ~Seasons~DOM~
 7/22/2023~14~Great Western Trail H1/3~~A~HMW-P~3~~S. Saccenti ~Wintergreen~GWT~
 7/22/2023~14~Hannibal: Rome vs Carthage R1/5~~A~SW~5~~S. Tucker ~Maple~HRC~
@@ -48,14 +49,13 @@
 7/22/2023~15~7 Wonders H1/3~~B~HMW-P~2~~P. Shea ~Grand Ballroom~7WS~
 7/22/2023~15~Azul D1/1~~--~--~1~~P. Klayder ~Exhibit Hall Annex #3~AZL~
 7/22/2023~15~Catan R2/3~~B~HMW-P~2~~E. McNay ~Snowflake~CTN~
-7/22/2023~15~Monsters Menace America D1/1~~--~--~1~~M. Love ~Exhibit Hall Annex #1~MMA~
+7/22/2023~15~Monsters Menace America D1/1~~--~--~1~~D. Pack ~Exhibit Hall Annex #1~MMA~
 7/22/2023~15~Russian Railroads H1/2~~B~HMW-T~2~~I. Collins II ~Sunburst~RRR~
 7/22/2023~15~San Juan SF~~B~SwEl~1~~L. Shea ~Seasons~SJN~
 7/22/2023~16~Agricola H2/3~~A~HMW-P~2~~R. Murray ~Seasons~AGR~
 7/22/2023~16~Age of Renaissance D1/1~~--~--~1~~J. Spencer ~Exhibit Hall Annex #7~AOR~
-7/22/2023~16~Cascadia D1/1~~--~--~1~~P. Klayder ~Exhibit Hall Annex #5~CAS~
 7/22/2023~16~John Company D1/1~~--~--~1~~J. Burdett ~Exhibit Hall Annex #6~JCY~
-7/22/2023~16~Monsters Menace America H1/4~~C~HMW-T~2~~M. Love ~Grand Ballroom~MMA~
+7/22/2023~16~Monsters Menace America H1/4~~C~HMW-T~2~~D. Pack ~Grand Ballroom~MMA~
 7/22/2023~16~Paths of Glory R1M~~A~SEM~6~~T. Gregorio ~Winterberry~POG~
 7/22/2023~16~San Juan F~~B~SwEl~1~~L. Shea ~Laurel~SJN~
 7/22/2023~16~Juniors Meet and Greet --~~--~--~2~~M. Byrd ~Hemlock~NA~
@@ -165,7 +165,7 @@
 7/23/2023~15~Auction H2/4~~B~HWO~1~~V. Kyrkos ~Chestnut~AUC~
 7/23/2023~15~Beyond the Sun H2/3~~B~HMW-P~2~~C. Wildes ~Sunburst~BSN~
 7/23/2023~15~Football Strategy D1/1~~--~--~1~~B. Schoose ~Exhibit Hall Annex #1~FBS~
-7/23/2023~15~Monsters Menace America H2/4~~C~HMW-T~2~~M. Love ~Grand Ballroom~MMA~
+7/23/2023~15~Monsters Menace America H2/4~~C~HMW-T~2~~D. Pack ~Grand Ballroom~MMA~
 7/23/2023~15~Mr. Madison's War D1/1~~--~--~1~~D. Stifler ~Exhibit Hall Annex #2~MMW~
 7/23/2023~15~Small World F~~B~HMW-P~2~~T. O'Flynn ~Grand Ballroom~SMW~
 7/23/2023~15~Stone Age H1/3~~B~HMW-P~2~~R. Bacigalupo ~Wintergreen~STA~
@@ -224,7 +224,7 @@
 7/24/2023~9~Circus Maximus H1/4~~C~HMW-P~3~~J. Githens ~Wintergreen~CMS~
 7/24/2023~9~Evolution H2/3~~B~HWO~2~~T. O'Flynn ~Sunburst~EVL~
 7/24/2023~9~Kremlin H1/3~~B~HMW-P~3~~S. Cuccaro ~Grand Ballroom~KRM~
-7/24/2023~9~Monsters Menace America H3/4~~C~HMW-T~2~~M. Love ~Grand Ballroom~MMA~
+7/24/2023~9~Monsters Menace America H3/4~~C~HMW-T~2~~D. Pack ~Grand Ballroom~MMA~
 7/24/2023~9~Mr. Madison's War R1/6~~B~SEM~4~~D. Stifler ~Winterberry~MMW~
 7/24/2023~9~Paths of Glory R3/4~~A~SEM~6~~T. Gregorio ~Winterberry~POG~
 7/24/2023~9~Panzerblitz R3/7~~C~FF~5~~R. Northey ~Winterberry~PZB~
@@ -303,7 +303,7 @@
 7/24/2023~17~Dominion QF~~B~HMW-P~1~~R. Bielefeldt ~Seasons~DOM~
 7/24/2023~17~Empire Builder D1/1~~--~--~1~~B. Stribula ~Exhibit Hall Annex #1~EPB~
 7/24/2023~17~Mr. Madison's War R3/6~~B~SEM~4~~D. Stifler ~Winterberry~MMW~
-7/24/2023~17~Republic of Rome D1/1~~--~--~1~~F. McNally ~Exhibit Hall Annex #2~ROR~
+7/24/2023~17~Republic of Rome D1/2~~--~--~1~~F. McNally ~Exhibit Hall Annex #2~ROR~
 7/24/2023~17~Sekigahara R3/4~~B~SwEl~3~~D. Mishler ~First Tracks Center~SKG~
 7/24/2023~17~Space Station Phoenix H1/2~~B~HMW-P~2~~A. Drummond ~Wintergreen~SSP~
 7/24/2023~17~The Napoleonic Wars D1/1~~--~--~1~~G. Williams ~Exhibit Hall Annex #6~TNW~
@@ -361,15 +361,13 @@
 7/25/2023~9~Auction Store --~~--~--~6~~K. Gutermuth ~Grand Ballroom~NA~
 7/25/2023~9~Open Gaming --~~--~--~15~~S. Buckwalter ~Exhibit Hall~NA~
 7/25/2023~9~Open Gaming Library --~~--~--~15~~S. Buckwalter ~Exhibit Hall~NA~
-7/25/2023~9~Juniors Event TBD --~~C~Jr SE~2~~ ~Hemlock~NA~
 7/25/2023~9~Sushi Go! Juniors --~~C~Jr SE~2~~N. Coussis ~Hemlock~NA~
 7/25/2023~10~A World at War R1/1~~B~SE~12~~J. Sparks ~Winterberry~WAW~
 7/25/2023~10~Auction --~~--~--~7~~K. Gutermuth ~Grand Ballroom~NA~
 7/25/2023~11~Juniors Event TBD --~~C~Jr SE~2~~ ~Hemlock~NA~
 7/25/2023~12~Through the Ages F~~B~HMW-P~4~~R. Buehler ~Laurel~AGE~
-7/25/2023~12~Wingspan D1/1~~--~--~1~~C. Bizzell ~Exhibit Hall Annex #2~WSN~
+7/25/2023~12~Wingspan D1/1~~--~--~2~~C. Bizzell ~Exhibit Hall Annex #2~WSN~
 7/25/2023~12~Ingenious Juniors --~~C~Jr SE~2~~S. LeWinter ~Hemlock~NA~
-7/25/2023~14~Mr. Madison's War F~~B~SEM~4~~D. Stifler ~First Tracks Poolside~MMW~
 7/25/2023~14~Mr. Madison's War F~~B~SEM~4~~D. Stifler ~Winterberry~MMW~
 7/25/2023~14~Sagrada D1/1~~--~--~1~~D. Schreier ~Exhibit Hall Annex #3~SAG~
 7/25/2023~15~Golf'n Goofs ~~--~Demo~1~~ ~Exhibit Hall~--~
@@ -557,7 +555,6 @@
 7/26/2023~18~Root H2/3~~B~HMW-P~3~~J. Tamburo ~Grand Ballroom~ROT~
 7/26/2023~18~Star Wars Rebellion R1/3~~B~SEM~4~~C. Kizer ~Wintergreen~SWR~
 7/26/2023~18~The Napoleonic Wars H3/3~~B~HWO~6~~G. Williams ~Rathskeller~TNW~
-7/26/2023~18~Juniors Event TBD --~~C~Jr SE~2~~ ~Hemlock~NA~
 7/26/2023~18~Ticket to Ride Juniors --~~C~Jr SE~2~~A. Byrd ~Hemlock~NA~
 7/26/2023~19~Alhambra H1/2~~B~HMW-T~2~~D. Gutermuth ~Sunburst~ALH~
 7/26/2023~19~Breakout Normandy R3/3~~B~SEM~5~~M. Gutfreund ~Maple~BKN~
@@ -623,7 +620,7 @@
 7/27/2023~9~Wooden Ships & Iron Men R6/8~~B~SwEl~2~~T. Hitchings ~Winterberry~WSM~
 7/27/2023~9~Open Gaming --~~--~--~15~~S. Buckwalter ~Exhibit Hall~NA~
 7/27/2023~9~Open Gaming Library --~~--~--~15~~S. Buckwalter ~Exhibit Hall~NA~
-7/27/2023~9~Juniors Event TBD --~~C~Jr SE~2~~ ~Hemlock~NA~
+7/27/2023~9~Liar's Dice Juniors --~~C~Jr SE~2~~J. Justice ~Hemlock~NA~
 7/27/2023~10~John Company F~~C~HMW-P~5~~J. Burdett ~Laurel~JCY~
 7/27/2023~10~Puerto Rico D1/1~~--~--~1~~R. Shay ~Exhibit Hall Annex #1~PRO~
 7/27/2023~10~Splendor H3/3~~B~HMW-P~1~~R. Murray ~Seasons~SPD~
@@ -681,10 +678,11 @@
 7/27/2023~16~Nutz ~~--~Demo~1~~ ~Exhibit Hall~--~
 7/27/2023~16~Alhambra H2/2~~B~HMW-T~2~~D. Gutermuth ~Sunburst~ALH~
 7/27/2023~16~Barrage H3/3~~C~HWO~4~~T. Brown ~Seasons~BRG~
-7/27/2023~16~Monsters Menace America H4/4~~C~HMW-T~2~~M. Love ~Grand Ballroom~MMA~
+7/27/2023~16~Monsters Menace America H4/4~~C~HMW-T~2~~D. Pack ~Grand Ballroom~MMA~
 7/27/2023~17~Benjamin's Journal ~~--~Demo~1~~ ~Exhibit Hall~--~
 7/27/2023~17~Navegador H3/3~~B~HMW-P~2~~M. Kaltman ~Seasons~NVG~
 7/27/2023~17~Root SF~~B~HMW-P~3~~J. Tamburo ~Grand Ballroom~ROT~
+7/24/2023~17~Republic of Rome D2/2~~--~--~1~~F. McNally ~Exhibit Hall Annex #2~ROR~
 7/27/2023~17~Robo Rally H3/3~~C~HWO~4~~M. Houde ~Grand Ballroom~RRY~
 7/27/2023~17~Stone Age F~~B~HMW-P~2~~R. Bacigalupo ~Laurel~STA~
 7/27/2023~17~Star Wars Rebellion SF~~B~SEM~4~~C. Kizer ~First Tracks Center~SWR~
@@ -701,7 +699,6 @@
 7/27/2023~18~Republic of Rome H2/2~~B~HMW-P~6~~F. McNally ~Alpine~ROR~
 7/27/2023~18~Titan 2-Player F~~A~HMSE~3~~D. desJardins ~First Tracks Poolside~TT2~
 7/27/2023~18~Underwater Cities H2/2~~B~HMW-P~2~~J. Spencer ~Grand Ballroom~UWC~
-7/27/2023~18~Juniors Event TBD --~~C~Jr SE~2~~ ~Hemlock~NA~
 7/27/2023~18~Lost Cities Juniors --~~C~Jr SE~2~~M. Byrd ~Hemlock~NA~
 7/27/2023~19~Ace of Aces R4/4~~C~FF~2~~M. Chestnut ~Chestnut~AOA~
 7/27/2023~19~Conquest of Paradise D1/1~~--~--~1~~K. McPartland ~Exhibit Hall Annex #4~CQP~
@@ -771,7 +768,6 @@
 7/28/2023~9~Wooden Ships & Iron Men R7/8~~B~SwEl~2~~T. Hitchings ~Winterberry~WSM~
 7/28/2023~9~Open Gaming --~~--~--~15~~S. Buckwalter ~Exhibit Hall~NA~
 7/28/2023~9~Open Gaming Library --~~--~--~15~~S. Buckwalter ~Exhibit Hall~NA~
-7/28/2023~9~Juniors Event TBD --~~C~Jr SE~2~~ ~Hemlock~NA~
 7/28/2023~9~Formula Motor Racing Juniors --~~C~Jr SE~2~~E. Schlosser ~Hemlock~NA~
 7/28/2023~10~Box Cars SF~~B~HMW-T~5~~J. Jackson ~Sunburst~BXC~
 7/28/2023~10~Charioteer H3/3~~B~HMW-T~2~~E. Rader ~First Tracks Poolside~CTR~
@@ -796,7 +792,7 @@
 7/28/2023~12~Power Grid SF~~A~HMW-P~3~~M. Munson ~Grand Ballroom~PGD~
 7/28/2023~12~Star Wars Queen's Gambit QF~~A~HWO~3~~B. Sinigaglio ~Winterberry~QGB~
 7/28/2023~12~Thurn & Taxis QF~~B~HWO~2~~A. Latto ~Seasons~T&T~
-7/28/2023~12~Juniors Event TBD --~~C~Jr SE~2~~ ~Hemlock~NA~
+7/28/2023~12~Splendor Juniors --~~C~Jr SE~2~~J. Shea ~Hemlock~NA~
 7/28/2023~13~Championship Formula Racing H2/3~~B~HMW-P~4~~C. Long ~Foggy Brews~CFR~
 7/28/2023~13~Concordia D1/1~~--~--~1~~R. Kircher ~Exhibit Hall Annex #2~CNC~
 7/28/2023~13~Memoir '44 R3/6~~B~SEM~2~~S. Edelston ~Maple~M44~
@@ -809,7 +805,6 @@
 7/28/2023~14~Barrage SF~~C~HWO~4~~T. Brown ~Seasons~BRG~
 7/28/2023~14~Conquest of Paradise H2/3~~B~HMW-P~3~~K. McPartland ~Sunburst~CQP~
 7/28/2023~14~Crokinole H2/4~~C~HMSE~2~~S. Brown ~Sunburst~CRK~
-7/28/2023~14~Dune Imperium R2/2~~B~HMW-P~3~~S. Tucker ~Wintergreen~DNI~
 7/28/2023~14~Dune Imperium H2/2~~B~HMW-P~3~~S. Tucker ~Wintergreen~DNI~
 7/28/2023~14~MBT R1/4~~B~SwEl~5~~R. Schoenen ~Snowflake~MBT~
 7/28/2023~14~Paydirt (NFC) H2/2~~B~HMSE~8~~R. Pisarz ~Evergreen~PDT~
@@ -829,7 +824,7 @@
 7/28/2023~15~Gaia Project SF~~B~HMW-P~3~~F. El-Riachi ~Seasons~GAP~
 7/28/2023~15~Lords of Waterdeep H3/3~~B~HMW-P~2~~P. St. Pierre ~Seasons~LWD~
 7/28/2023~15~Memoir '44 R4/6~~B~SEM~2~~S. Edelston ~Maple~M44~
-7/28/2023~15~Monsters Menace America SF~~C~HMW-T~2~~M. Love ~Grand Ballroom~MMA~
+7/28/2023~15~Monsters Menace America SF~~C~HMW-T~2~~D. Pack ~Grand Ballroom~MMA~
 7/28/2023~15~Power Grid F~~A~HMW-P~3~~M. Munson ~Laurel~PGD~
 7/28/2023~15~Robo Rally SF~~C~HWO~3~~M. Houde ~Grand Ballroom~RRY~
 7/28/2023~15~Space Station Phoenix SF~~B~HMW-P~2~~A. Drummond ~Seasons~SSP~
@@ -844,7 +839,7 @@
 7/28/2023~17~Castles of Mad King Ludwig H2/3~~B~HMW-P~2~~J. Corrado ~Wintergreen~CMK~
 7/28/2023~17~Diplomacy D1/1~~--~--~1~~T. Haver ~Exhibit Hall Annex #4~DIP~
 7/28/2023~17~Memoir '44 R5/6~~B~SEM~2~~S. Edelston ~Maple~M44~
-7/28/2023~17~Monsters Menace America F~~C~HMW-T~2~~M. Love ~Grand Ballroom~MMA~
+7/28/2023~17~Monsters Menace America F~~C~HMW-T~2~~D. Pack ~Grand Ballroom~MMA~
 7/28/2023~17~Sagrada SF~~B~HMW-P~1~~D. Schreier ~Seasons~SAG~
 7/28/2023~17~Saint Petersburg SF~~B~HMW-P~2~~N. Rule ~Seasons~SPG~
 7/28/2023~17~Wilderness War R3/4~~B~SwEl~4~~G. LaDue ~Fox Den~WNW~
@@ -862,7 +857,7 @@
 7/28/2023~18~The Napoleonic Wars SF~~B~HWO~6~~G. Williams ~Rathskeller~TNW~
 7/28/2023~18~Union Pacific R3/3~~B~HMW-P~2~~C. Meyer ~Fox Den~UNP~
 7/28/2023~18~War of the Ring D1/1~~--~--~2~~C. Trimmer ~Exhibit Hall Annex #6~WOR~
-7/28/2023~18~Juniors Event TBD --~~C~Jr SE~2~~ ~Hemlock~NA~
+7/28/2023~18~King of Tokyo Juniors --~~C~Jr SE~2~~S. Scott ~Hemlock~NA~
 7/28/2023~19~Battle Line R1/2~~B~SwEl~1~~S. McCulloch ~Seasons~BAT~
 7/28/2023~19~Brass H3/3~~B~HMW-T~3~~A. Jiang ~Alpine~BRS~
 7/28/2023~19~Crokinole H3/4~~C~HMSE~2~~S. Brown ~Sunburst~CRK~
@@ -929,7 +924,6 @@
 7/29/2023~9~Washington's War R1/4~~A~HMW-P~2~~B. Peeck ~Maple~WWR~
 7/29/2023~9~Open Gaming --~~--~--~15~~S. Buckwalter ~Exhibit Hall~NA~
 7/29/2023~9~Open Gaming Library --~~--~--~14~~S. Buckwalter ~Exhibit Hall~NA~
-7/29/2023~9~Juniors Event TBD --~~C~Jr SE~2~~ ~Hemlock~NA~
 7/29/2023~9~Can't Stop Juniors --~~C~Jr SE~2~~T. Effinger ~Hemlock~NA~
 7/29/2023~10~M44 Overlord - Cape Torokina Landings ~~--~Demo~4~~S. Edelston ~First Tracks Slopeside~--~
 7/29/2023~10~Box Cars F~~B~HMW-T~5~~J. Jackson ~Laurel~BXC~
@@ -956,7 +950,7 @@
 7/29/2023~12~Titan the Arena H3/3~~B~HMW-P~1~~K. Breza ~Seasons~TTA~
 7/29/2023~12~Win, Place, & Show H4/4~~B~HWO~3~~B. Reiff ~Chestnut~WPS~
 7/29/2023~12~Washington's War R2/4~~A~HMW-P~2~~B. Peeck ~Maple~WWR~
-7/29/2023~12~Juniors Event TBD --~~C~Jr SE~2~~ ~Hemlock~NA~
+7/29/2023~12~Here to Slay Juniors --~~C~Jr SE~2~~K. Warrender ~Hemlock~NA~
 7/29/2023~13~Nutz ~~--~Demo~1~~ ~Exhibit Hall~--~
 7/29/2023~13~Battle Cry R3/4~~B~SEM~2~~G. Heintzelman ~Fox Den~BCY~
 7/29/2023~13~Championship Formula Racing H3/3~~B~HMW-P~4~~C. Long ~Foggy Brews~CFR~
@@ -1019,7 +1013,7 @@
 7/29/2023~18~Ra: The Dice Game SF~~B~HWO~1~~S. Roy ~Seasons~RDG~
 7/29/2023~18~Superstar Baseball F~~B~FF~3~~R. Lee ~Fox Den~SSB~
 7/29/2023~18~The Napoleonic Wars F~~B~HWO~6~~G. Williams ~Laurel~TNW~
-7/29/2023~18~Juniors Event TBD --~~C~Jr SE~2~~M. Yoshikawa ~Hemlock~NA~
+7/29/2023~18~Leaping Lemmings Juniors --~~C~Jr SE~2~~M. Yoshikawa ~Hemlock~NA~
 7/29/2023~19~M44 Overlord - Bastogne ~~--~Demo~5~~S. Edelston ~First Tracks Slopeside~--~
 7/29/2023~19~Acquire F~~B~SWEL~2~~C. Ackman ~Laurel~ACQ~
 7/29/2023~19~Ace of Aces F~~C~FF~2~~M. Chestnut ~Evergreen~AOA~
