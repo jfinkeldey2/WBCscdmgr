@@ -230,7 +230,7 @@ public class SplashScreen extends AppCompatActivity {
 					} else {
 						// prize
 						tempString = rowData[3];
-						if (tempString.equalsIgnoreCase("") || tempString.equalsIgnoreCase("-")) {
+						if (tempString.equalsIgnoreCase("") || tempString.equalsIgnoreCase("--")) {
 							tempString = "0";
 						}
 						prize = Integer.valueOf(tempString);
@@ -242,7 +242,7 @@ public class SplashScreen extends AppCompatActivity {
 						format = rowData[5];
 
 						// duration
-						if (rowData[6].equalsIgnoreCase("") || rowData[6].equalsIgnoreCase("-")) {
+						if (rowData[6].equalsIgnoreCase("") || rowData[6].equalsIgnoreCase("--")) {
 							duration = 0;
 						} else {
 							duration = (float) Math.round(Float.valueOf(rowData[6]) * 100) / 100;
