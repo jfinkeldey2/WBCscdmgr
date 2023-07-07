@@ -309,14 +309,14 @@ public class EventFragment extends Fragment {
 	private void openPreviewLink() {
 		if (tournament != null && tournament.isTournament) {
 			getActivity().startActivity(new Intent(Intent.ACTION_VIEW,
-					Uri.parse("http://boardgamers.org/wbc17/previews/" + tournament.label + ".html")));
+					Uri.parse("http://boardgamers.org/wbc23/previews/" + tournament.label + ".html")));
 		}
 	}
 
 	private void openReportLink() {
 		if (tournament != null && tournament.isTournament) {
 			getActivity().startActivity(new Intent(Intent.ACTION_VIEW,
-					Uri.parse("http://boardgamers.org/yearbook16/" + tournament.label + ".html")));
+					Uri.parse("http://boardgamers.org/yearbook19/" + tournament.label + ".html")));
 		}
 	}
 
