@@ -72,7 +72,9 @@ public class UserDataListFragment extends DefaultListFragment {
 		for (Event event : listAdapter.events.get(NOTES_INDEX)) {
 			if (e.id == event.id) {
 				noteInList = true;
-				if (e.note.equalsIgnoreCase("") || e.note.isEmpty()) {
+				//  original caused crashes, replaced 7/10
+//				if (e.note.equalsIgnoreCase("") || e.note.isEmpty()) {
+				if (e.note != null && e.note.equalsIgnoreCase("")) {
 					listAdapter.events.get(NOTES_INDEX).remove(event);
 				} else {
 					event.title = event.title.substring(0, event.title.length() - event.note.length());
