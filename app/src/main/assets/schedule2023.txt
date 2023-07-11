@@ -7,7 +7,7 @@
 7/22/2023~9~Afrika Korps R1/7~3~A~FF~15~Y~B. Sinigaglio ~Winterberry~AFK~
 7/22/2023~9~Through the Ages D1/1~--~--~--~1~N~R. Buehler ~Sunburst~AGE~
 7/22/2023~9~Age of Renaissance H1/2~1~B~HMW-P~6~N~J. Spencer ~Dogwood~AOR~
-7/22/2023~9~Bitter Woods R1/7~3~B~FF~15~Y~B. Sinigaglio ~Winterberry~BWD~
+7/22/2023~9~Bitter Woods R1/7~3~A~FF~15~Y~B. Sinigaglio ~Winterberry~BWD~
 7/22/2023~9~Panzerblitz D1/1~--~--~--~2~N~R. Northey ~Exhibit Hall Annex #1~PZB~
 7/22/2023~9~San Juan D1/1~--~--~--~1~N~L. Shea ~Exhibit Hall Annex #2~SJN~
 7/22/2023~9~Small World D1/1~--~--~--~1~N~T. O'Flynn ~Exhibit Hall Annex #3~SMW~
@@ -33,7 +33,7 @@
 7/22/2023~12~Stock Car Championship Racing D1/1~--~--~--~1~N~D. Wolfe ~Exhibit Hall Annex #3~SCC~
 7/22/2023~12~San Juan R3/4~3~B~SwEl~1~Y~L. Shea ~Seasons~SJN~
 7/22/2023~12~Small World H2/3~3~B~HMW-P~2~N~T. O'Flynn ~Grand Ballroom~SMW~
-7/22/2023~12~Union Pacific D1/1~--~--~--~1~N~C. Meyer ~Exhibit Hall Annex #3~UNP~
+7/22/2023~12~Union Pacific D1/1~--~--~--~1~N~C. Meyer ~Exhibit Hall Annex #5~UNP~
 7/22/2023~12~Open Gaming Library Opens --~--~--~--~6~N~S. Buckwalter ~Exhibit Hall~NA~
 7/22/2023~12~Shuttle from Pittsburgh Airport ($50 per person) --~--~--~--~2~N~ ~Airport~NA~
 7/22/2023~13~Catan H1/3~4~B~HMW-P~2~Y~E. McNay ~Snowflake~CTN~
@@ -107,7 +107,7 @@
 7/23/2023~9~Afrika Korps R2/7~3~A~FF~15~Y~B. Sinigaglio ~Winterberry~AFK~
 7/23/2023~9~Agricola SF~3~A~HMW-P~2~N~R. Murray ~Seasons~AGR~
 7/23/2023~9~Azul H1/3~3~B~HMW-P~1~N~P. Klayder ~Seasons~AZL~
-7/23/2023~9~Bitter Woods R2/7~3~B~FF~15~Y~B. Sinigaglio ~Winterberry~BWD~
+7/23/2023~9~Bitter Woods R2/7~3~A~FF~15~Y~B. Sinigaglio ~Winterberry~BWD~
 7/23/2023~9~Great Western Trail H2/3~3~A~HMW-P~3~N~S. Saccenti ~Wintergreen~GWT~
 7/23/2023~9~Hannibal: Rome vs Carthage R3/5~5~A~SW~5~Y~S. Tucker ~Maple~HRC~
 7/23/2023~9~March Madness D1/1~--~--~--~1~N~B. Reiff ~Exhibit Hall Annex #2~MMS~
@@ -220,7 +220,7 @@
 7/24/2023~9~Amun-Re H2/3~3~B~HMW-P~2~N~A. Bove ~Sunburst~AMR~
 7/24/2023~9~Azul H3/3~3~B~HMW-P~1~N~P. Klayder ~Seasons~AZL~
 7/24/2023~9~Brass D1/1~--~--~--~1~N~A. Jiang ~Exhibit Hall Annex #1~BRS~
-7/24/2023~9~Bitter Woods R3/7~3~B~FF~15~Y~B. Sinigaglio ~Winterberry~BWD~
+7/24/2023~9~Bitter Woods R3/7~3~A~FF~15~Y~B. Sinigaglio ~Winterberry~BWD~
 7/24/2023~9~Circus Maximus H1/4~4~C~HMW-P~3~N~J. Githens ~Wintergreen~CMS~
 7/24/2023~9~Evolution H2/3~1~B~HWO~2~N~T. O'Flynn ~Sunburst~EVL~
 7/24/2023~9~Kremlin H1/3~2~B~HMW-P~3~N~S. Cuccaro ~Grand Ballroom~KRM~
@@ -241,7 +241,7 @@
 7/24/2023~9~Open Gaming --~--~--~--~15~N~S. Buckwalter ~Exhibit Hall~NA~
 7/24/2023~9~Open Gaming Library --~--~--~--~15~N~S. Buckwalter ~Exhibit Hall~NA~
 7/24/2023~10~1775: Age of Rebellion R1/4~3~B~SEM~2~Y~J. Lange ~First Tracks Slopeside~775~
-7/24/2023~10~Brass H1/3~3~B~HMW-T~3~N~A. Jiang ~Alpine~BRS~
+7/24/2023~10~Brass H1/3~3~B~HMW-P~3~N~A. Jiang ~Alpine~BRS~
 7/24/2023~10~Box Cars H2/3~1~B~HMW-T~5~N~J. Jackson ~Snowflake~BXC~
 7/24/2023~10~Sagrada H1/3~3~B~HMW-P~1~N~D. Schreier ~Seasons~SAG~
 7/24/2023~10~A World at War R1/1~1~B~SE~12~N~J. Sparks ~Winterberry~WAW~
@@ -340,12 +340,13 @@
 7/24/2023~22~Ingenious D1/1~--~--~--~1~N~M. DuBoff ~Exhibit Hall Annex #1~ING~
 7/24/2023~23~Egizia H3/3~3~B~HMW-P~2~N~A. Emerick ~Seasons~EGZ~
 7/24/2023~23~Ingenious H1/3~3~B~HMW-P~1~N~M. DuBoff ~Seasons~ING~
+7/24/2023~23~Sekigahara F~4~B~SwEl~3~Y~D. Mishler ~Laurel~SKG~
 7/25/2023~8~Registration --~--~--~--~12~N~K. Gutermuth ~Stag Pass~NA~
 7/25/2023~9~Mega Civilization --~--~--~--~12~N~N. Barhorst ~Wintergreen~--~
 7/25/2023~9~Border Reivers --~--~--~--~4~N~E. Beach ~Rathskeller~--~
 7/25/2023~9~Afrika Korps R4/7~3~A~FF~15~Y~B. Sinigaglio ~Winterberry~AFK~
 7/25/2023~9~Battles of the American Revolution R1/6~4~B~SwEl~3~Y~M. Miklos ~Winterberry~BAR~
-7/25/2023~9~Bitter Woods R4/7~3~B~FF~15~Y~B. Sinigaglio ~Winterberry~BWD~
+7/25/2023~9~Bitter Woods R4/7~3~A~FF~15~Y~B. Sinigaglio ~Winterberry~BWD~
 7/25/2023~9~Mr. Madison's War R5/6~1~B~SEM~4~Y~D. Stifler ~Winterberry~MMW~
 7/25/2023~9~Power Grid D1/1~--~--~--~1~N~M. Munson ~Exhibit Hall Annex #1~PGD~
 7/25/2023~9~Paths of Glory F~4~A~SEM~6~Y~T. Gregorio ~Winterberry~POG~
@@ -391,7 +392,7 @@
 7/25/2023~18~Acquire H2/3~4~B~SWEL~2~N~C. Ackman ~Seasons~ACQ~
 7/25/2023~18~Atlantic Storm H2/4~3~B~HWO~2~N~S. Nerney ~Grand Ballroom~ACS~
 7/25/2023~18~Auction H3/4~2~B~HWO~1~N~V. Kyrkos ~Chestnut~AUC~
-7/25/2023~18~Breakout Normandy R1M~3~B~SEM~5~Y~M. Gutfreund ~Maple~BKN~
+7/25/2023~18~Breakout Normandy R1M~3~A~SEM~5~Y~M. Gutfreund ~Maple~BKN~
 7/25/2023~18~Circus Maximus H2/4~4~C~HMW-P~3~N~J. Githens ~Wintergreen~CMS~
 7/25/2023~18~El Grande H3/3~2~B~HMW-P~2~N~R. Flowers ~Alpine~ELG~
 7/25/2023~18~Empire Builder H2/3~5~B~HMW-P~4~N~B. Stribula ~Wintergreen~EPB~
@@ -428,7 +429,6 @@
 7/25/2023~22~Stone Age H3/3~4~B~HMW-P~2~N~R. Bacigalupo ~Seasons~STA~
 7/25/2023~23~Dominion F~4~B~HMW-P~1~N~R. Bielefeldt ~Laurel~DOM~
 7/25/2023~23~Ra: The Dice Game H2/4~3~B~HWO~1~N~S. Roy ~Seasons~RDG~
-7/25/2023~23~Sekigahara F~4~B~SwEl~3~Y~D. Mishler ~Laurel~SKG~
 7/25/2023~23~Win, Place, & Show H3/4~3~B~HWO~3~N~B. Reiff ~Chestnut~WPS~
 7/26/2023~8~Registration --~--~--~--~12~N~K. Gutermuth ~Stag Pass~NA~
 7/26/2023~9~7 Wonders Duel R2/2~3~B~HWO~2~N~C. Wildes ~Sunburst~7WD~
@@ -438,8 +438,8 @@
 7/26/2023~9~Afrika Korps R5/7~3~A~FF~15~Y~B. Sinigaglio ~Winterberry~AFK~
 7/26/2023~9~Ark Nova QF~1~B~HMW-P~3~N~C. Weaver ~Seasons~AKN~
 7/26/2023~9~Battles of the American Revolution R3/6~4~B~SwEl~3~Y~M. Miklos ~Winterberry~BAR~
-7/26/2023~9~Breakout Normandy R1/3~3~B~SEM~5~Y~M. Gutfreund ~Maple~BKN~
-7/26/2023~9~Bitter Woods R5/7~3~B~FF~15~Y~B. Sinigaglio ~Winterberry~BWD~
+7/26/2023~9~Breakout Normandy R1/3~3~A~SEM~5~Y~M. Gutfreund ~Maple~BKN~
+7/26/2023~9~Bitter Woods R5/7~3~A~FF~15~Y~B. Sinigaglio ~Winterberry~BWD~
 7/26/2023~9~Combat Commander R1/4~3~A~SwEl~3~Y~S. Myszak ~First Tracks Poolside~CBC~
 7/26/2023~9~Commands & Colors: Napoleonics R1/3~3~B~SwEl~2~Y~T. Hitchings ~Fox Den~CCN~
 7/26/2023~9~Great Campaigns of the ACW D1/1~--~--~--~1~N~D. Cross ~Exhibit Hall Annex #1~GCA~
@@ -491,7 +491,7 @@
 7/26/2023~13~Storm over Jerusalem R2/3~1~B~SEM~4~N~S. Blanton ~Snowflake~SOJ~
 7/26/2023~13~Stone Age QF~4~B~HMW-P~2~N~R. Bacigalupo ~Sunburst~STA~
 7/26/2023~14~Adel Verpflichtet SF~1~C~HMW-P~2~N~A. Bender ~Alpine~ADV~
-7/26/2023~14~Breakout Normandy R2/3~3~B~SEM~5~Y~M. Gutfreund ~Maple~BKN~
+7/26/2023~14~Breakout Normandy R2/3~3~A~SEM~5~Y~M. Gutfreund ~Maple~BKN~
 7/26/2023~14~Formula Motor Racing H2/3~3~B~HMW-P~2~N~C. LeFevre ~Grand Ballroom~FMR~
 7/26/2023~14~Great Campaigns of the ACW R2/3~3~B~SwEl~3~Y~D. Cross ~First Tracks Center~GCA~
 7/26/2023~14~Innovation R2/5~3~B~SwEl~1~Y~R. Effinger ~Seasons~IOV~
@@ -547,7 +547,7 @@
 7/26/2023~18~The Napoleonic Wars H3/3~5~B~HWO~6~N~G. Williams ~Rathskeller~TNW~
 7/26/2023~18~Ticket to Ride Juniors --~1~C~--~2~N~A. Byrd ~Hemlock~NA~
 7/26/2023~19~Alhambra H1/2~3~B~HMW-T~2~N~D. Gutermuth ~Sunburst~ALH~
-7/26/2023~19~Breakout Normandy R3/3~3~B~SEM~5~Y~M. Gutfreund ~Maple~BKN~
+7/26/2023~19~Breakout Normandy R3/3~3~A~SEM~5~Y~M. Gutfreund ~Maple~BKN~
 7/26/2023~19~Beyond the Sun SF~1~B~HMW-P~2~N~C. Wildes ~Laurel~BSN~
 7/26/2023~19~Gaia Project H3/3~3~B~HMW-P~3~N~F. El-Riachi ~Seasons~GAP~
 7/26/2023~19~Innovation F~3~B~SwEl~1~Y~R. Effinger ~Seasons~IOV~
@@ -583,8 +583,8 @@
 7/27/2023~9~Afrika Korps R6/7~3~A~FF~15~Y~B. Sinigaglio ~Winterberry~AFK~
 7/27/2023~9~B-17 R1/3~6~A~SW~3~Y~M. Yoshikawa ~Wintergreen~B-17~
 7/27/2023~9~Battles of the American Revolution R5/6~4~B~SwEl~3~Y~M. Miklos ~Winterberry~BAR~
-7/27/2023~9~Breakout Normandy SF~3~B~SEM~5~Y~M. Gutfreund ~Maple~BKN~
-7/27/2023~9~Bitter Woods R6/7~3~B~FF~15~Y~B. Sinigaglio ~Winterberry~BWD~
+7/27/2023~9~Breakout Normandy SF~3~A~SEM~5~Y~M. Gutfreund ~Maple~BKN~
+7/27/2023~9~Bitter Woods R6/7~3~A~FF~15~Y~B. Sinigaglio ~Winterberry~BWD~
 7/27/2023~9~Carcassonne H3/3~3~B~HMW-P~1~N~J. Visocnik ~Seasons~CAR~
 7/27/2023~9~Commands & Colors: Ancients R1/3~1~B~SE~3~Y~G. Heintzelman ~First Tracks Poolside~CCA~
 7/27/2023~9~Empire Builder SF~5~B~HMW-P~4~N~B. Stribula ~Alpine~EPB~
@@ -643,7 +643,7 @@
 7/27/2023~13~War at Sea R3/5~4~A~SwEl~2~Y~V. Meconi ~Fox Den~WAS~
 7/27/2023~14~M44 Overlord - Prokhorovka --~--~--~--~4~N~S. Edelston ~First Tracks Slopeside~--~
 7/27/2023~14~7 Wonders Duel F~3~B~HWO~1~N~C. Wildes ~Snowflake~7WD~
-7/27/2023~14~Breakout Normandy F~3~B~SEM~5~Y~M. Gutfreund ~Maple~BKN~
+7/27/2023~14~Breakout Normandy F~3~A~SEM~5~Y~M. Gutfreund ~Maple~BKN~
 7/27/2023~14~Empire Builder F~5~B~HMW-P~4~N~B. Stribula ~Alpine~EPB~
 7/27/2023~14~Formula Motor Racing F~3~B~HMW-P~2~N~C. LeFevre ~Grand Ballroom~FMR~
 7/27/2023~14~Leaping Lemmings H3/4~3~C~HWO~2~N~B. Powers ~Sunburst~LLM~
@@ -678,7 +678,7 @@
 7/27/2023~17~Benjamin's Journal --~--~--~--~1~N~ ~Exhibit Hall~NA~
 7/27/2023~18~Alhambra SF~3~B~HMW-T~2~N~D. Gutermuth ~Sunburst~ALH~
 7/27/2023~18~ASL Starter Kit D1/1~--~--~--~1~N~P. Cocke ~Exhibit Hall Annex #2~ASK~
-7/27/2023~18~Brass H2/3~3~B~HMW-T~3~N~A. Jiang ~Alpine~BRS~
+7/27/2023~18~Brass H2/3~3~B~HMW-P~3~N~A. Jiang ~Alpine~BRS~
 7/27/2023~18~Catan: Cities & Knights SF~3~B~HMW-P~3~Y~C. Gnech ~Snowflake~C&K~
 7/27/2023~18~Commands & Colors: Ancients SF~1~B~SE~3~Y~G. Heintzelman ~First Tracks Poolside~CCA~
 7/27/2023~18~Formula De H3/4~3~B~HMW-P~3~N~D. Galullo ~Alpine~FDE~
@@ -731,7 +731,7 @@
 7/28/2023~9~Automobile SF~1~B~HMW-P~3~N~D. Borton ~Laurel~AUT~
 7/28/2023~9~Battles of the American Revolution QF~4~B~SwEl~5~Y~M. Miklos ~Winterberry~BAR~
 7/28/2023~9~Britannia H3/3~4~B~HMW-P~5~N~J. Jordan ~Rathskeller~BRI~
-7/28/2023~9~Bitter Woods R7/7~3~B~FF~8~Y~B. Sinigaglio ~Winterberry~BWD~
+7/28/2023~9~Bitter Woods R7/7~3~A~FF~8~Y~B. Sinigaglio ~Winterberry~BWD~
 7/28/2023~9~Castles of Burgundy H3/3~3~B~HMW-P~3~N~R. Irving ~Snowflake~COB~
 7/28/2023~9~Crokinole H1/4~1~C~HMSE~2~N~S. Brown ~Sunburst~CRK~
 7/28/2023~9~Dune H3/3~3~A~HE~5~N~B. Johnson ~Alpine~DUN~
@@ -830,7 +830,7 @@
 7/28/2023~18~Afrika Korps SF~3~A~FF~7~Y~B. Sinigaglio ~Winterberry~AFK~
 7/28/2023~18~ASL Starter Kit SF~1~B~SEM~3~Y~P. Cocke ~First Tracks Center~ASK~
 7/28/2023~18~Battle Line D1/1~--~--~--~1~N~S. McCulloch ~Exhibit Hall Annex #5~BAT~
-7/28/2023~18~Bitter Woods SF~3~B~FF~7~Y~B. Sinigaglio ~Winterberry~BWD~
+7/28/2023~18~Bitter Woods SF~3~A~FF~7~Y~B. Sinigaglio ~Winterberry~BWD~
 7/28/2023~18~Catan: Cities & Knights F~3~B~HMW-P~3~Y~C. Gnech ~Wintergreen~C&K~
 7/28/2023~18~Circus Maximus H4/4~4~C~HMW-P~3~N~J. Githens ~Wintergreen~CMS~
 7/28/2023~18~Gaia Project F~3~B~HMW-P~3~N~F. El-Riachi ~Laurel~GAP~
@@ -843,7 +843,7 @@
 7/28/2023~18~King of Tokyo Juniors --~1~C~--~2~N~S. Scott ~Hemlock~NA~
 7/28/2023~18~International Battlefield Visits --~--~--~--~1~N~A. Birkett ~Dogwood~NA~
 7/28/2023~19~Battle Line R1/2~3~B~SwEl~1~Y~S. McCulloch ~Seasons~BAT~
-7/28/2023~19~Brass H3/3~3~B~HMW-T~3~N~A. Jiang ~Alpine~BRS~
+7/28/2023~19~Brass H3/3~3~B~HMW-P~3~N~A. Jiang ~Alpine~BRS~
 7/28/2023~19~Crokinole H3/4~1~C~HMSE~2~N~S. Brown ~Sunburst~CRK~
 7/28/2023~19~Diplomacy R1/3~1~B~SW~4~N~T. Haver ~Alpine~DIP~
 7/28/2023~19~Enemy in Sight H4/4~1~B~HMW-P~3~N~M. Evinger ~Alpine~EIS~
@@ -884,8 +884,8 @@
 7/29/2023~9~Battles of the American Revolution F~4~B~SwEl~8~Y~M. Miklos ~Winterberry~BAR~
 7/29/2023~9~Battle Cry R1/4~1~B~SEM~2~Y~G. Heintzelman ~Fox Den~BCY~
 7/29/2023~9~Britannia F~4~B~HMW-P~5~N~J. Jordan ~Rathskeller~BRI~
-7/29/2023~9~Brass SF~3~B~HMW-T~3~N~A. Jiang ~Alpine~BRS~
-7/29/2023~9~Bitter Woods F~3~B~FF~7~Y~B. Sinigaglio ~Winterberry~BWD~
+7/29/2023~9~Brass SF~3~B~HMW-P~3~N~A. Jiang ~Alpine~BRS~
+7/29/2023~9~Bitter Woods F~3~A~FF~7~Y~B. Sinigaglio ~Winterberry~BWD~
 7/29/2023~9~Combat Commander F~3~A~SwEl~3~Y~S. Myszak ~Laurel~CBC~
 7/29/2023~9~Conquest of Paradise H3/3~1~B~HMW-P~3~N~K. McPartland ~Wintergreen~CQP~
 7/29/2023~9~Charioteer SF~1~B~HMW-T~2~N~E. Rader ~First Tracks Center~CTR~
@@ -999,7 +999,7 @@
 7/29/2023~19~Acquire F~4~B~SWEL~2~N~C. Ackman ~Laurel~ACQ~
 7/29/2023~19~Ace of Aces F~1~C~FF~2~N~M. Chestnut ~Evergreen~AOA~
 7/29/2023~19~Battle Cry F~1~B~SEM~2~Y~G. Heintzelman ~Fox Den~BCY~
-7/29/2023~19~Brass F~3~B~HMW-T~3~N~A. Jiang ~Alpine~BRS~
+7/29/2023~19~Brass F~3~B~HMW-P~3~N~A. Jiang ~Alpine~BRS~
 7/29/2023~19~Diplomacy R3/3~1~B~SW~4~N~T. Haver ~Alpine~DIP~
 7/29/2023~19~Euphrat & Tigris F~2~B~HWO~2~N~C. Moffitt ~Seasons~E&T~
 7/29/2023~19~Enemy in Sight SF~1~B~HMW-P~3~N~M. Evinger ~Alpine~EIS~
