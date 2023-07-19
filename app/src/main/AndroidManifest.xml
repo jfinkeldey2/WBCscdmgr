@@ -2,8 +2,8 @@
 <manifest
 	xmlns:android="http://schemas.android.com/apk/res/android"
 	package="org.boardgamers.wbcscdmgr"
-	android:versionCode="20230107"
-	android:versionName="2023.107">
+	android:versionCode="20230108"
+	android:versionName="2023.108">
 
 	<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
 	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
