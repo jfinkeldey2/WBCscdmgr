@@ -58,7 +58,6 @@
 7/22/2023~16~Monsters Menace America H1/4~3~C~HMW-T~2~N~D. Pack ~Grand Ballroom~MMA~
 7/22/2023~16~Paths of Glory R1M~4~A~SEM~6~Y~T. Gregorio ~Winterberry~POG~
 7/22/2023~16~San Juan F~3~B~SwEl~1~Y~L. Shea ~Laurel~SJN~
-7/22/2023~16~Juniors Meet and Greet --~--~--~--~2~N~M. Byrd ~Hemlock~NA~
 7/22/2023~17~7 Wonders D1/1~--~--~--~1~N~P. Shea ~Exhibit Hall Annex #1~7WS~
 7/22/2023~17~878 Vikings D1/1~--~--~--~1~N~S. Beall ~Exhibit Hall Annex #5~878~
 7/22/2023~17~Age of Renaissance H2/2~1~B~HMW-P~6~N~J. Spencer ~Dogwood~AOR~
@@ -184,6 +183,7 @@
 7/23/2023~17~War of the Ring R1M~3~B~SEM~4~Y~C. Trimmer ~First Tracks Poolside~WOR~
 7/23/2023~17~Shuttle from Pittsburgh Airport ($50 per person) --~--~--~--~2~N~ ~Airport~NA~
 7/23/2023~18~878 Vikings R1M~1~B~SEM~3~Y~S. Beall ~First Tracks Slopeside~878~
+7/23/2023~18~Juniors Meet and Greet --~--~--~--~2~N~M. Byrd ~Hemlock~NA~
 7/23/2023~18~Amun-Re H1/3~3~B~HMW-P~2~N~A. Bove ~Wintergreen~AMR~
 7/23/2023~18~Cascadia H2/3~1~B~HMW-P~2~N~P. Klayder ~Seasons~CAS~
 7/23/2023~18~Dominion H2/3~4~B~HMW-P~1~N~R. Bielefeldt ~Seasons~DOM~
