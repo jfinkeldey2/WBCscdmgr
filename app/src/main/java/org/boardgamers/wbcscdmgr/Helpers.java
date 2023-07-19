@@ -96,7 +96,8 @@ class Helpers {
 			PendingIntent serviceScheduleIntent = PendingIntent.getService(context,
 					1324,
 					checkEventServiceIntent,
-					PendingIntent.FLAG_CANCEL_CURRENT);
+ 					PendingIntent.FLAG_CANCEL_CURRENT | PendingIntent.FLAG_MUTABLE);
+//					PendingIntent.FLAG_CANCEL_CURRENT);  Replaced 2023
 
 			alarmManager.setRepeating(AlarmManager.RTC_WAKEUP
 					, calendar.getTimeInMillis()

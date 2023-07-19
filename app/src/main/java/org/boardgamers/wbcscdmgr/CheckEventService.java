@@ -89,7 +89,8 @@ public class CheckEventService extends IntentService {
 		stackBuilder.addNextIntent(resultIntent);
 
 		PendingIntent resultPendingIntent =
-				stackBuilder.getPendingIntent(0, PendingIntent.FLAG_UPDATE_CURRENT);
+				stackBuilder.getPendingIntent(0, PendingIntent.FLAG_UPDATE_CURRENT | PendingIntent.FLAG_MUTABLE);
+//				stackBuilder.getPendingIntent(0, PendingIntent.FLAG_UPDATE_CURRENT);  Replaced 2023
 		mBuilder.setContentIntent(resultPendingIntent);
 		mNotificationManager.notify(0, mBuilder.build());
 	}
