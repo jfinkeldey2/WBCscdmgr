@@ -1,0 +1,1111 @@
+7/19/2024~19~Registration --~~--~--~2~~K. Gutermuth ~Stag Pass~--~
+7/19/2024~20~Shuttle from Pittsburgh Airport --~~--~--~2~~ ~Airport~--~
+7/19/2024~23~Shuttle from Pittsburgh Airport --~~--~--~2~~ ~Airport~--~
+7/20/2024~8~Registration --~~--~--~12~~K. Gutermuth ~Stag Pass~--~
+7/20/2024~9~Open Gaming --~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~
+7/20/2024~9~18xx D1/1~~--~--~1~~T. McCorry ~Exhibit Hall Annex #7~8XX~
+7/20/2024~9~Age of Renaissance D1/1~~--~--~1~~J. Spencer ~Exhibit Hall Annex #8~AOR~
+7/20/2024~9~Beyond the Sun D1/1~~--~--~1~~J. Wu ~Exhibit Hall Annex #1~BSN~
+7/20/2024~9~Cascadia D1/1~~--~--~1~~P. Klayder ~Exhibit Hall Annex #2~CAS~
+7/20/2024~9~Five Tribes D1/1~~--~--~1~~C. Wildes ~Exhibit Hall Annex #3~5TR~
+7/20/2024~9~San Juan D1/1~~--~--~1~~L. Sheaburns ~Exhibit Hall Annex #4~SJN~
+7/20/2024~9~Small World D1/1~~--~--~1~~T. O'Flynn ~Exhibit Hall Annex #5~SMW~
+7/20/2024~9~Stock Car Championship Racing D1/1~~--~--~1~~D. Wolfe ~Exhibit Hall Annex #9~SCC~
+7/20/2024~9~Through the Ages D1/1~~--~--~1~~R. Buehler ~Sunburst~AGE~
+7/20/2024~9~Thunder Alley D1/1~~--~--~1~~I. Collins II ~Exhibit Hall Annex #6~THA~
+7/20/2024~9~Afrika Korps R1/7~~A~SwEl~7~~B. Sinigaglio ~Winterberry~AFK~
+7/20/2024~9~Bitter Woods R1/7~~A~SwEl~7~~B. Sinigaglio ~Winterberry~BWD~
+7/20/2024~9~Monsters Menace America H1/4~~C~HMW-P~2~~D. Pack ~Grand Ballroom~MMA~
+7/20/2024~9~Panzerblitz R1/7~~C~SwEl~6~~R. Northey ~Winterberry~PZB~
+7/20/2024~9~Squad Leader R1/7~~A~SwEl~4~~P. Pollard ~Winterberry~SQL~
+7/20/2024~9~Wooden Ships & Iron Men R1/8~~B~SwEl~2~~T. Hitchings ~Winterberry~WSM~
+7/20/2024~10~Advanced Civilization D1/2~~--~--~1~~ ~Exhibit Hall Annex #8~ACV~
+7/20/2024~10~Egizia D1/1~~--~--~1~~A. Emerick ~Exhibit Hall Annex #2~EGZ~
+7/20/2024~10~Hannibal: Rome vs Carthage D1/1~~--~--~1~~S. Tucker ~Exhibit Hall Annex #5~HRC~
+7/20/2024~10~Panzerblitz D1/1~~--~--~1~~R. Northey ~Exhibit Hall Annex #6~PZB~
+7/20/2024~10~Beyond the Sun H1/3~~B~HMW-P~3~~J. Wu ~Wintergreen~BSN~
+7/20/2024~10~Cascadia H1/3~~B~HWO~2~~P. Klayder ~Snowflake~CAS~
+7/20/2024~10~Lost Ruins of Arnak H1/3~~B~HMW-P~2~~M. Kaltman ~Wintergreen~LRA~
+7/20/2024~10~San Juan R1/4~~B~SwEl~1~~L. Sheaburns ~Seasons~SJN~
+7/20/2024~10~Small World H1/3~~B~HMW-P~2~~T. O'Flynn ~Grand Ballroom~SMW~
+7/20/2024~10~Through the Ages H1/2~~B~HMW-P~4~~R. Buehler ~Sunburst~AGE~
+7/20/2024~10~Waterloo R1/6~~A~SwEl~7~~M. Musella ~Winterberry~WAT~
+7/20/2024~11~18xx H1/4~~B~HMW-T~6~~T. McCorry ~Alpine~8XX~
+7/20/2024~11~San Juan R2/4~~B~SwEl~1~~L. Sheaburns ~Seasons~SJN~
+7/20/2024~12~Open Gaming Library Opens --~~--~--~6~~S. Buckwalter ~Exhibit Hall~--~
+7/20/2024~12~Shuttle from Pittsburgh Airport --~~--~--~2~~ ~Airport~--~
+7/20/2024~12~Automobile D1/1~~--~--~1~~D. Borton ~Exhibit Hall Annex #1~AUT~
+7/20/2024~12~Age of Renaissance H1/3~~B~HMW-P~7~~J. Spencer ~Dogwood~AOR~
+7/20/2024~12~Cascadia H2/3~~B~HWO~2~~P. Klayder ~Snowflake~CAS~
+7/20/2024~12~San Juan R3/4~~B~SwEl~1~~L. Sheaburns ~Seasons~SJN~
+7/20/2024~12~Small World H2/3~~B~HMW-P~2~~T. O'Flynn ~Grand Ballroom~SMW~
+7/20/2024~13~7 Wonders D1/1~~--~--~1~~P. Shea ~Exhibit Hall Annex #6~7WS~
+7/20/2024~13~Afrika Korps D1/1~~--~--~1~~B. Sinigaglio ~Exhibit Hall Annex #1~AFK~
+7/20/2024~13~Amun Re D1/1~~--~--~1~~A. Bove ~Exhibit Hall Annex #3~AMR~
+7/20/2024~13~Catan D1/1~~--~--~1~~I. Gitzen II ~Exhibit Hall Annex #4~CTN~
+7/20/2024~13~Titan 2-Player D1/1~~--~--~1~~D. desJardins ~Exhibit Hall Annex #5~TT2~
+7/20/2024~13~Vegas Showdown D1/1~~--~--~1~~E. Freeman ~Exhibit Hall Annex #2~VSD~
+7/20/2024~13~San Juan R4/4~~B~SwEl~1~~L. Sheaburns ~Seasons~SJN~
+7/20/2024~13~The Russian Campaign R1/7~~A~SwEl~5~~B. Schoose ~Winterberry~TRC~
+7/20/2024~13~Thunder Alley H1/3~~B~HMW-T~3~~I. Collins II ~Grand Ballroom~THA~
+7/20/2024~14~Agricola H1/3~~A~HMW-P~2~~R. Murray ~Seasons~AGR~
+7/20/2024~14~Dominion H1/3~~B~HWO~1~~R. Bielefeldt ~Seasons~DOM~
+7/20/2024~14~Great Western Trail H1/3~~A~HMW-P~3~~D. Versak ~Wintergreen~GWT~
+7/20/2024~14~Hannibal: Rome vs Carthage R1/5~~A~SW~5~~S. Tucker ~Fox Den~HRC~
+7/20/2024~14~San Juan SF~~B~SwEl~1~~L. Sheaburns ~Seasons~SJN~
+7/20/2024~15~Azul D1/1~~--~--~1~~P. Klayder ~Exhibit Hall Annex #2~AZL~
+7/20/2024~15~Evolution D1/1~~--~--~1~~T. O'Flynn ~Exhibit Hall Annex #5~EVL~
+7/20/2024~15~Gangsters D1/2~~--~--~1~~D. Galullo ~Exhibit Hall Annex #6~GSR~
+7/20/2024~15~7 Wonders H1/3~~B~HMW-P~2~~P. Shea ~Grand Ballroom~7WS~
+7/20/2024~15~Formula De H1/4~~C~HMW-T~3~~E. Meader ~Alpine~FDE~
+7/20/2024~15~Union Pacific H1/3~~B~HMW-P~2~~C. Meyer ~Wintergreen~UNP~
+7/20/2024~15~San Juan F~~B~SwEl~1~~L. Sheaburns ~Seasons~SJN~
+7/20/2024~16~John Company D1/1~~--~--~1~~J. Burdett ~Exhibit Hall Annex #2~JCY~
+7/20/2024~16~Russian Railroads D1/1~~--~--~1~~I. Collins II ~Exhibit Hall Annex #5~RRR~
+7/20/2024~16~Agricola H2/3~~A~HMW-P~2~~R. Murray ~Seasons~AGR~
+7/20/2024~16~Catan H1/3~~B~HMW-P~2~~I. Gitzen II ~Grand Ballroom~CTN~
+7/20/2024~16~Paths of Glory R1M~~A~SEM~6~~T. Gregorio ~Winterberry~POG~
+7/20/2024~17~Shuttle from Pittsburgh Airport --~~--~--~2~~ ~Airport~--~
+7/20/2024~17~Star Wars Outer Rim D1/1~~--~--~1~~M. Sample ~Exhibit Hall Annex #6~SRM~
+7/20/2024~17~7 Wonders Duel H1/2~~B~HWO~2~~C. Wildes ~Sunburst~7WD~
+7/20/2024~17~Alhambra H1/2~~B~HWO~2~~ ~Wintergreen~ALH~
+7/20/2024~17~Gangsters H1/4~~B~HWO~3~~D. Galullo ~Grand Ballroom~GSR~
+7/20/2024~17~Russian Railroads H1/3~~B~HMW-T~2~~I. Collins II ~Snowflake~RRR~
+7/20/2024~17~Titan H1/4~~A~HMW-P~5~~D. desJardins ~First Tracks Center~TTN~
+7/20/2024~18~Medici D1/1~~--~--~1~~J. Cornett ~Exhibit Hall Annex #2~MED~
+7/20/2024~18~Victory in the Pacific D1/1~~--~--~1~~T. Drozd ~Exhibit Hall Annex #6~VIP~
+7/20/2024~18~18xx H2/4~~B~HMW-T~6~~T. McCorry ~Alpine~8XX~
+7/20/2024~18~Auction H1/4~~B~HWO~1~~V. Kyrkos ~Chestnut~AUC~
+7/20/2024~18~Catan H2/3~~B~HMW-P~2~~I. Gitzen II ~Grand Ballroom~CTN~
+7/20/2024~18~John Company H1/2~~B~HMW-P~5~~J. Burdett ~Alpine~JCY~
+7/20/2024~18~The Napoleonic Wars H1/3~~B~HWO~6~~G. Williams ~Rathskeller~TNW~
+7/20/2024~19~El Grande D1/1~~--~--~1~~R. Flowers ~Exhibit Hall Annex #2~ELG~
+7/20/2024~19~7 Wonders H2/3~~B~HMW-P~2~~P. Shea ~Grand Ballroom~7WS~
+7/20/2024~19~Agricola H3/3~~A~HMW-P~2~~R. Murray ~Seasons~AGR~
+7/20/2024~19~Five Tribes H1/3~~B~HMW-P~2~~C. Wildes ~Sunburst~5TR~
+7/20/2024~19~Hannibal: Rome vs Carthage R2/5~~A~SW~5~~S. Tucker ~Fox Den~HRC~
+7/20/2024~19~Medici H1/3~~B~HWO~2~~J. Cornett ~Seasons~MED~
+7/20/2024~19~Stock Car Championship Racing H1/3~~B~HMW-P~2~~D. Wolfe ~Foggy Brews~SCC~
+7/20/2024~20~Shuttle from Pittsburgh Airport --~~--~--~2~~ ~Airport~--~
+7/20/2024~20~Ace of Aces R1/4~~C~SwEl~1~~M. Chesnut ~Chestnut~AOA~
+7/20/2024~20~Star Wars Outer Rim H1/3~~B~HMW-T~3~~M. Sample ~Alpine~SRM~
+7/20/2024~20~Catan H3/3~~B~HMW-P~2~~I. Gitzen II ~Grand Ballroom~CTN~
+7/20/2024~21~Automobile H1/2~~B~HMW-P~3~~D. Borton ~Sunburst~AUT~
+7/20/2024~21~Egizia H1/3~~B~HMW-P~2~~A. Emerick ~Sunburst~EGZ~
+7/20/2024~21~Evolution H1/3~~B~HMW-P~2~~T. O'Flynn ~Snowflake~EVL~
+7/20/2024~23~Werewolf ~~--~Demo~2~~S. Buckwalter ~First Tracks Poolside~--~
+7/20/2024~23~Las Vegas R1/2~~C~SE~1~~A. Hurd ~Grand Ballroom~LAS~
+7/20/2024~24~Las Vegas R2/2~~C~SE~1~~A. Hurd ~Grand Ballroom~LAS~
+7/21/2024~1~Las Vegas SF~~C~SE~1~~A. Hurd ~Grand Ballroom~LAS~
+7/21/2024~2~Las Vegas F~~C~SE~1~~A. Hurd ~Grand Ballroom~LAS~
+7/21/2024~8~Christian Worship Service --~~--~--~1~~G. Petroski ~Sunburst~--~
+7/21/2024~8~Registration --~~--~--~12~~K. Gutermuth ~Stag Pass~--~
+7/21/2024~9~Open Gaming --~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~
+7/21/2024~9~Open Gaming Library --~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~
+7/21/2024~9~A World at War D1/1~~--~--~1~~P. Lewis ~Exhibit Hall Annex #2~WAW~
+7/21/2024~9~March Madness D1/1~~--~--~1~~B. Reiff ~Exhibit Hall Annex #5~MMS~
+7/21/2024~9~Space Station: Phoenix D1/1~~--~--~1~~B. Buchanan ~Exhibit Hall Annex #6~SSP~
+7/21/2024~9~Star Wars Rebellion D1/1~~--~--~1~~C. Kizer ~Exhibit Hall Annex #1~SWR~
+7/21/2024~9~18xx H3/4~~B~HMW-T~6~~T. McCorry ~Alpine~8XX~
+7/21/2024~9~Advanced Civilization H1/2~~B~HMW-P~9~~ ~Timberstone~ACV~
+7/21/2024~9~Afrika Korps R2/7~~A~SwEl~7~~B. Sinigaglio ~Winterberry~AFK~
+7/21/2024~9~Azul H1/3~~B~HWO~1~~P. Klayder ~Seasons~AZL~
+7/21/2024~9~Bitter Woods R2/7~~A~SwEl~7~~B. Sinigaglio ~Winterberry~BWD~
+7/21/2024~9~Great Western Trail H2/3~~A~HMW-P~3~~D. Versak ~Wintergreen~GWT~
+7/21/2024~9~Hannibal: Rome vs Carthage R3/5~~A~SW~5~~S. Tucker ~Fox Den~HRC~
+7/21/2024~9~Panzerblitz R2/7~~C~SwEl~6~~R. Northey ~Winterberry~PZB~
+7/21/2024~9~Paths of Glory R1/2~~A~SEM~6~~T. Gregorio ~Winterberry~POG~
+7/21/2024~9~Small World H3/3~~B~HMW-P~2~~T. O'Flynn ~Grand Ballroom~SMW~
+7/21/2024~9~Squad Leader R2/7~~A~SwEl~4~~P. Pollard ~Winterberry~SQL~
+7/21/2024~9~Thunder Alley H2/3~~B~HMW-T~3~~I. Collins II ~Timberstone~THA~
+7/21/2024~9~Vegas Showdown H1/3~~B~HMW-P~2~~E. Freeman ~Grand Ballroom~VSD~
+7/21/2024~9~Victory in the Pacific R1/5~~B~SwEl~5~~T. Drozd ~Snowflake~VIP~
+7/21/2024~9~Wooden Ships & Iron Men R2/8~~B~SwEl~2~~T. Hitchings ~Winterberry~WSM~
+7/21/2024~9~Agricola SF~~A~HMW-P~2~~R. Murray ~Laurel~AGR~
+7/21/2024~10~Catholic Mass --~~--~--~1~~ ~Sunburst~--~
+7/21/2024~10~1775 D1/1~~--~--~1~~S. Lange Sr ~Exhibit Hall Annex #1~775~
+7/21/2024~10~Adel Verpflichtet D1/1~~--~--~1~~A. Bender ~Exhibit Hall Annex #2~ADV~
+7/21/2024~10~Virgin Queen D1/1~~--~--~1~~M. Kiefte ~Exhibit Hall Annex #7~VGQ~
+7/21/2024~10~7 Wonders H3/3~~B~HMW-P~2~~P. Shea ~Grand Ballroom~7WS~
+7/21/2024~10~A World at War R1/1~~B~SE~60~~P. Lewis ~Winterberry~WAW~
+7/21/2024~10~March Madness H1/4~~B~HMSE~1~~B. Reiff ~Evergreen~MMS~
+7/21/2024~10~Star Wars Outer Rim H2/3~~B~HMW-T~3~~M. Sample ~Alpine~SRM~
+7/21/2024~10~Titan 2-Player H1/2~~B~HMSE~5~~D. desJardins ~First Tracks Center~TT2~
+7/21/2024~10~Waterloo R2/6~~A~SwEl~7~~M. Musella ~Winterberry~WAT~
+7/21/2024~11~Boxcars D1/1~~--~--~1~~J. Jackson ~Exhibit Hall Annex #2~BXC~
+7/21/2024~11~Commands & Colors: Samurai Battles D1/1~~--~--~1~~G. Heintzelman ~Exhibit Hall Annex #5~CCS~
+7/21/2024~11~Ace of Aces R2/4~~C~SwEl~1~~M. Chesnut ~Chestnut~AOA~
+7/21/2024~11~Adel Verpflichtet H1/3~~C~HMW-P~2~~A. Bender ~Alpine~ADV~
+7/21/2024~11~Amun Re H1/2~~B~HMW-P~2~~A. Bove ~Alpine~AMR~
+7/21/2024~11~Robo Rally H1/3~~C~HWO~3~~M. Houde ~Grand Ballroom~RRY~
+7/21/2024~11~Santa Fe Rails H1/3~~B~HMW-P~2~~A. Drummond ~Wintergreen~SFR~
+7/21/2024~11~Space Station: Phoenix H1/2~~B~HMW-P~2~~B. Buchanan ~Wintergreen~SSP~
+7/21/2024~11~Wingspan H1/3~~B~HMW-P~2~~P. Swift ~Grand Ballroom~WSN~
+7/21/2024~11~Catan SF~~B~HMW-P~2~~I. Gitzen II ~Laurel~CTN~
+7/21/2024~12~Ark Nova D1/1~~--~--~1~~C. Weaver ~Exhibit Hall Annex #1~AKN~
+7/21/2024~12~Dominion D1/1~~--~--~1~~R. Bielefeldt ~Exhibit Hall Annex #5~DOM~
+7/21/2024~12~Ra: The Dice Game D1/1~~--~--~1~~S. Roy ~Exhibit Hall Annex #6~RDG~
+7/21/2024~12~Azul H2/3~~B~HWO~1~~P. Klayder ~Seasons~AZL~
+7/21/2024~12~Boxcars H1/3~~B~HMW-P~5~~J. Jackson ~Sunburst~BXC~
+7/21/2024~12~Enemy in Sight H1/4~~B~HWO~3~~M. Evinger ~Dogwood~EIS~
+7/21/2024~12~The Russian Campaign R2/7~~A~SwEl~5~~B. Schoose ~Winterberry~TRC~
+7/21/2024~12~Virgin Queen H1/2~~B~HMW-P~5~~M. Kiefte ~Rathskeller~VGQ~
+7/21/2024~13~Alhambra D1/1~~--~--~1~~ ~Exhibit Hall Annex #1~ALH~
+7/21/2024~13~Sagrada D1/1~~--~--~1~~D. Schreier ~Exhibit Hall Annex #5~SAG~
+7/21/2024~13~The Barracks Emperors D1/2~~--~--~1~~W. Ferrell ~Exhibit Hall Annex #6~TBE~
+7/21/2024~13~Commands & Colors: Samurai Battles H1/3~~B~HMW-P~2~~G. Heintzelman ~First Tracks Poolside~CCS~
+7/21/2024~13~El Grande H1/3~~B~HMW-P~2~~R. Flowers ~Grand Ballroom~ELG~
+7/21/2024~13~Everdell H1/3~~B~HMW-P~2~~N. Henning ~Seasons~EVD~
+7/21/2024~13~Five Tribes H2/3~~B~HMW-P~2~~C. Wildes ~Wintergreen~5TR~
+7/21/2024~13~Formula De H2/4~~C~HMW-T~3~~E. Meader ~Alpine~FDE~
+7/21/2024~13~Star Wars Rebellion R1M~~B~SEM~4~~C. Kizer ~First Tracks Slopeside~SWR~
+7/21/2024~13~7 Wonders QF~~B~HMW-P~2~~P. Shea ~Grand Ballroom~7WS~
+7/21/2024~13~Small World SF~~B~HMW-P~2~~T. O'Flynn ~Grand Ballroom~SMW~
+7/21/2024~13~Agricola F~~A~HMW-P~2~~R. Murray ~Laurel~AGR~
+7/21/2024~13~Catan F~~B~HMW-P~2~~I. Gitzen II ~Laurel~CTN~
+7/21/2024~14~Auction D1/1~~--~--~1~~V. Kyrkos ~Exhibit Hall Annex #2~AUC~
+7/21/2024~14~Merchant of Venus D1/1~~--~--~1~~R. Irving ~Exhibit Hall Annex #5~MOV~
+7/21/2024~14~1775 R1M~~B~SEM~3~~S. Lange Sr ~Maple~775~
+7/21/2024~14~Hannibal: Rome vs Carthage R4/5~~A~SW~5~~S. Tucker ~Fox Den~HRC~
+7/21/2024~14~The Barracks Emperors H1/3~~B~HMW-P~2~~W. Ferrell ~Sunburst~TBE~
+7/21/2024~14~Victory in the Pacific R2/5~~B~SwEl~5~~T. Drozd ~Snowflake~VIP~
+7/21/2024~15~Football Strategy D1/1~~--~--~1~~B. Schoose ~Exhibit Hall Annex #5~FBS~
+7/21/2024~15~Ark Nova H1/2~~B~HWO~3~~C. Weaver ~Seasons~AKN~
+7/21/2024~15~Auction H2/4~~B~HWO~1~~V. Kyrkos ~Chestnut~AUC~
+7/21/2024~15~Beyond the Sun H2/3~~B~HMW-P~3~~J. Wu ~Wintergreen~BSN~
+7/21/2024~15~Monsters Menace America H2/4~~C~HMW-P~2~~D. Pack ~Grand Ballroom~MMA~
+7/21/2024~15~Navegador H1/3~~B~HMW-P~2~~C. Martin ~Wintergreen~NVG~
+7/21/2024~15~Through the Ages H2/2~~B~HMW-P~4~~R. Buehler ~Snowflake~AGE~
+7/21/2024~15~7 Wonders SF~~B~HMW-P~2~~P. Shea ~Grand Ballroom~7WS~
+7/21/2024~15~Small World F~~B~HMW-P~2~~T. O'Flynn ~Grand Ballroom~SMW~
+7/21/2024~16~Juniors Meet and Greet --~~--~--~2~~M. Byrd ~Hemlock~--~
+7/21/2024~16~Catan: Cities & Knights D1/1~~--~--~1~~C. Gnech ~Exhibit Hall Annex #1~C&K~
+7/21/2024~16~Football Strategy H1/2~~B~HMSE~7~~B. Schoose ~Chestnut~FBS~
+7/21/2024~16~Merchant of Venus H1/3~~B~HWO~3~~R. Irving ~Sunburst~MOV~
+7/21/2024~16~Paths of Glory R2/2~~A~SEM~6~~T. Gregorio ~Winterberry~POG~
+7/21/2024~17~Shuttle from Pittsburgh Airport --~~--~--~2~~ ~Airport~--~
+7/21/2024~17~7 Wonders Duel D1/1~~--~--~1~~C. Wildes ~Exhibit Hall Annex #1~7WD~
+7/21/2024~17~Air Baron D1/1~~--~--~1~~M. Jamelli ~Exhibit Hall Annex #2~ABN~
+7/21/2024~17~Ivanhoe D1/1~~--~--~1~~B. Roeper ~Exhibit Hall Annex #3~IVH~
+7/21/2024~17~Saint Petersburg D1/1~~--~--~1~~R. Feathers ~Exhibit Hall Annex #5~SPG~
+7/21/2024~17~Santa Fe Rails D1/2~~--~--~1~~A. Drummond ~Exhibit Hall Annex #6~SFR~
+7/21/2024~17~18xx H4/4~~B~HMW-T~6~~T. McCorry ~Alpine~8XX~
+7/21/2024~17~Catan: Cities & Knights H1/2~~B~HMW-P~3~~C. Gnech ~Sunburst~C&K~
+7/21/2024~17~War of the Ring R1M~~B~SEM~4~~C. Trimmer ~Maple~WOR~
+7/21/2024~18~Advanced Civilization D2/2~~--~--~1~~ ~Exhibit Hall Annex #8~ACV~
+7/21/2024~18~Union Pacific D1/1~~--~--~1~~C. Meyer ~Exhibit Hall Annex #3~UNP~
+7/21/2024~18~Win, Place, & Show D1/1~~--~--~1~~C. Fox ~Exhibit Hall Annex #5~WPS~
+7/21/2024~18~Battles of the American Revolution R1/8~~B~SwEl~4~~D. Stiffler ~Winterberry~BAR~
+7/21/2024~18~Dominion H2/3~~B~HWO~1~~R. Bielefeldt ~Seasons~DOM~
+7/21/2024~18~Ivanhoe H1/3~~B~HMW-P~2~~B. Roeper ~Grand Ballroom~IVH~
+7/21/2024~18~Saint Petersburg H1/3~~B~HWO~2~~R. Feathers ~Wintergreen~SPG~
+7/21/2024~18~Stone Age H1/3~~B~HMW-P~2~~D. Stufflet ~Seasons~STA~
+7/21/2024~18~Virgin Queen H2/2~~B~HMW-P~5~~M. Kiefte ~Rathskeller~VGQ~
+7/21/2024~19~Air Baron H1/4~~B~HMW-P~3~~M. Jamelli ~Grand Ballroom~ABN~
+7/21/2024~19~Hannibal: Rome vs Carthage R5/5~~A~SW~5~~S. Tucker ~Fox Den~HRC~
+7/21/2024~19~Ra: The Dice Game H1/4~~B~HWO~1~~S. Roy ~Seasons~RDG~
+7/21/2024~19~Star Wars: Queen's Gambit H1/3~~B~HMW-T~3~~C. Kizer ~First Tracks Slopeside~QGB~
+7/21/2024~19~Victory in the Pacific R3/5~~B~SwEl~5~~T. Drozd ~Snowflake~VIP~
+7/21/2024~19~Win, Place, & Show H1/4~~B~HWO~3~~C. Fox ~Evergreen~WPS~
+7/21/2024~20~Twilight Struggle D1/1~~--~--~1~~R. MacInnis ~Exhibit Hall Annex #2~TWS~
+7/21/2024~20~Egizia H2/3~~B~HMW-P~2~~A. Emerick ~Wintergreen~EGZ~
+7/21/2024~20~Medici H2/3~~B~HWO~2~~J. Cornett ~Seasons~MED~
+7/21/2024~20~Russian Railroads H2/3~~B~HMW-T~2~~I. Collins II ~Sunburst~RRR~
+7/21/2024~20~Terraforming Mars H1/2~~A~HWO~4~~B. Crenshaw ~Seasons~TFM~
+7/21/2024~20~Union Pacific H2/3~~B~HMW-P~2~~C. Meyer ~Wintergreen~UNP~
+7/21/2024~20~Through the Ages SF~~B~HMW-P~4~~R. Buehler ~Snowflake~AGE~
+7/21/2024~22~7 Wonders Duel H2/2~~B~HWO~2~~C. Wildes ~Sunburst~7WD~
+7/21/2024~22~Alhambra H2/2~~B~HWO~2~~ ~Wintergreen~ALH~
+7/21/2024~22~Ra! H1/4~~B~HWO~2~~S. Scott ~Grand Ballroom~RA!~
+7/21/2024~22~Thunder Alley H3/3~~B~HMW-T~3~~I. Collins II ~Timberstone~THA~
+7/21/2024~23~Werewolf ~~--~Demo~2~~S. Buckwalter ~First Tracks Poolside~--~
+7/22/2024~8~Registration --~~--~--~12~~K. Gutermuth ~Stag Pass~--~
+7/22/2024~9~Open Gaming --~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~
+7/22/2024~9~Open Gaming Library --~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~
+7/22/2024~9~Love Letter Juniors --~~C~Jr SE~2~~E. Evinger ~Hemlock~--~
+7/22/2024~9~Brass D1/1~~--~--~1~~A. Jiang ~Exhibit Hall Annex #1~BRS~
+7/22/2024~9~Power Grid D1/1~~--~--~2~~M. Munson ~Exhibit Hall Annex #2~PGD~
+7/22/2024~9~The Barracks Emperors D2/2~~--~--~1~~W. Ferrell ~Exhibit Hall Annex #5~TBE~
+7/22/2024~9~Wingspan D1/1~~--~--~1~~P. Swift ~Exhibit Hall Annex #6~WSN~
+7/22/2024~9~Acquire H1/3~~B~HMW-P~2~~C. Ackman ~Wintergreen~ACQ~
+7/22/2024~9~Afrika Korps R3/7~~A~SwEl~7~~B. Sinigaglio ~Winterberry~AFK~
+7/22/2024~9~Age of Renaissance H2/3~~B~HMW-P~7~~J. Spencer ~Alpine~AOR~
+7/22/2024~9~Air Baron H2/4~~B~HMW-P~3~~M. Jamelli ~Timberstone~ABN~
+7/22/2024~9~Amun Re H2/2~~B~HMW-P~2~~A. Bove ~Alpine~AMR~
+7/22/2024~9~Azul H3/3~~B~HWO~1~~P. Klayder ~Seasons~AZL~
+7/22/2024~9~Battles of the American Revolution R2/8~~B~SwEl~4~~D. Stiffler ~Winterberry~BAR~
+7/22/2024~9~Bitter Woods R3/7~~A~SwEl~7~~B. Sinigaglio ~Winterberry~BWD~
+7/22/2024~9~Bleeding Kansas R1/2~~A~SE~3~~D. Cummins ~Winterberry~BKS~
+7/22/2024~9~Commands & Colors: Samurai Battles H2/3~~B~HMW-P~2~~G. Heintzelman ~First Tracks Poolside~CCS~
+7/22/2024~9~Evolution H2/3~~B~HMW-P~2~~T. O'Flynn ~Wintergreen~EVL~
+7/22/2024~9~Formula De H3/4~~C~HMW-T~3~~E. Meader ~Alpine~FDE~
+7/22/2024~9~Kremlin H1/3~~B~HMW-P~3~~S. Cuccaro ~Timberstone~KRM~
+7/22/2024~9~Panzerblitz R3/7~~C~SwEl~6~~R. Northey ~Winterberry~PZB~
+7/22/2024~9~Scythe H1/2~~A~HMW-P~3~~S. LeWinter ~Timberstone~SCY~
+7/22/2024~9~Space Station: Phoenix H2/2~~B~HMW-P~2~~B. Buchanan ~Sunburst~SSP~
+7/22/2024~9~Squad Leader R3/7~~A~SwEl~4~~P. Pollard ~Winterberry~SQL~
+7/22/2024~9~The Russian Campaign R3/7~~A~SwEl~5~~B. Schoose ~Winterberry~TRC~
+7/22/2024~9~Twilight Struggle R1/5~~B~SW~4~~R. MacInnis ~Fox Den~TWS~
+7/22/2024~9~Victory in the Pacific R4/5~~B~SwEl~5~~T. Drozd ~Snowflake~VIP~
+7/22/2024~9~Wooden Ships & Iron Men R3/8~~B~SwEl~2~~T. Hitchings ~Winterberry~WSM~
+7/22/2024~9~Paths of Glory QF~~A~SEM~6~~T. Gregorio ~Winterberry~POG~
+7/22/2024~9~18xx SF~~B~HMW-T~6~~T. McCorry ~Alpine~8XX~
+7/22/2024~9~Virgin Queen SF~~B~HMW-P~5~~M. Kiefte ~Rathskeller~VGQ~
+7/22/2024~9~7 Wonders F~~B~HMW-P~2~~P. Shea ~Laurel~7WS~
+7/22/2024~10~Charioteer D1/1~~--~--~1~~f~Exhibit Hall Annex #2~CTR~
+7/22/2024~10~Navegador D1/1~~--~--~1~~C. Martin ~Exhibit Hall Annex #5~NVG~
+7/22/2024~10~1775 R1/2~~B~SEM~3~~S. Lange Sr ~First Tracks~775~
+7/22/2024~10~A World at War R1/1~~B~SE~60~~P. Lewis ~Winterberry~WAW~
+7/22/2024~10~Boxcars H2/3~~B~HMW-P~5~~J. Jackson ~Sunburst~BXC~
+7/22/2024~10~Brass H1/2~~B~HMW-P~3~~A. Jiang ~Alpine~BRS~
+7/22/2024~10~Sagrada H1/3~~B~HMW-P~1~~D. Schreier ~Seasons~SAG~
+7/22/2024~10~The Barracks Emperors H2/3~~B~HMW-P~2~~W. Ferrell ~Sunburst~TBE~
+7/22/2024~10~Waterloo R3/6~~A~SwEl~7~~M. Musella ~Winterberry~WAT~
+7/22/2024~11~Enemy in Sight D1/1~~--~--~1~~M. Evinger ~Exhibit Hall Annex #2~EIS~
+7/22/2024~11~Pirate's Cove D1/1~~--~--~1~~J. Brown ~Exhibit Hall Annex #6~PRC~
+7/22/2024~11~Sekigahara D1/1~~--~--~1~~D. Mishler ~Exhibit Hall Annex #5~SKG~
+7/22/2024~11~Adel Verpflichtet H2/3~~C~HMW-P~2~~A. Bender ~Dogwood~ADV~
+7/22/2024~11~Navegador H2/3~~B~HMW-P~2~~C. Martin ~Wintergreen~NVG~
+7/22/2024~11~Ticket to Ride H1/4~~B~HMW-T~2~~K. Gray ~Seasons~TTR~
+7/22/2024~11~Space Station: Phoenix SF~~B~HMW-P~2~~B. Buchanan ~Sunburst~SSP~
+7/22/2024~12~Auction/Auction Store Check-in --~~--~--~6~~K. Gutermuth ~Grand Ballroom~--~
+7/22/2024~12~Azul Juniors --~~C~Jr SE~2~~L. Coussis ~Hemlock~--~
+7/22/2024~12~Carcassonne D1/1~~--~--~1~~J. Visocnik ~Exhibit Hall Annex #2~CAR~
+7/22/2024~12~Santa Fe Rails D2/2~~--~--~1~~A. Drummond ~Exhibit Hall Annex #6~SFR~
+7/22/2024~12~Bleeding Kansas R2/2~~A~SE~3~~D. Cummins ~Winterberry~BKS~
+7/22/2024~12~Pirate's Cove H1/3~~C~HMW-P~2~~J. Brown ~Timberstone~PRC~
+7/22/2024~13~Stone Age D1/1~~--~--~1~~D. Stufflet ~Exhibit Hall Annex #1~STA~
+7/22/2024~13~1775 R2/2~~B~SEM~3~~S. Lange Sr ~First Tracks~775~
+7/22/2024~13~Charioteer H1/3~~B~HMW-P~2~~E. Rader ~Wintergreen~CTR~
+7/22/2024~13~Dominion H3/3~~B~HWO~1~~R. Bielefeldt ~Seasons~DOM~
+7/22/2024~13~Five Tribes H3/3~~B~HMW-P~2~~C. Wildes ~Sunburst~5TR~
+7/22/2024~13~Sekigahara R1/3~~B~SwEl~3~~D. Mishler ~First Tracks Slopeside~SKG~
+7/22/2024~13~The Barracks Emperors H3/3~~B~HMW-P~2~~W. Ferrell ~Sunburst~TBE~
+7/22/2024~13~Twilight Struggle R2/5~~B~SW~4~~R. MacInnis ~Fox Den~TWS~
+7/22/2024~13~Vegas Showdown H2/3~~B~HMW-P~2~~E. Freeman ~Alpine~VSD~
+7/22/2024~14~Castles of Burgundy D1/1~~--~--~1~~R. Irving ~Exhibit Hall Annex #2~COB~
+7/22/2024~14~Versailles 1919 D1/1~~--~--~1~~R. Flowers ~Exhibit Hall Annex #5~V19~
+7/22/2024~14~Carcassonne H1/3~~B~HMW-P~1~~J. Visocnik ~Seasons~CAR~
+7/22/2024~14~Victory in the Pacific R5/5~~B~SwEl~5~~T. Drozd ~Snowflake~VIP~
+7/22/2024~15~Las Vegas Juniors --~~C~Jr SE~2~~L. Heinz ~Hemlock~--~
+7/22/2024~15~Battles of the American Revolution D1/1~~--~--~1~~D. Stiffler ~Exhibit Hall Annex #2~BAR~
+7/22/2024~15~Innovation D1/1~~--~--~1~~R. Effinger ~Exhibit Hall Annex #5~IOV~
+7/22/2024~15~Egizia H3/3~~B~HMW-P~2~~A. Emerick ~Wintergreen~EGZ~
+7/22/2024~15~El Grande H2/3~~B~HMW-P~2~~R. Flowers ~Timberstone~ELG~
+7/22/2024~15~Santa Fe Rails H2/3~~B~HMW-P~2~~A. Drummond ~Wintergreen~SFR~
+7/22/2024~15~Titan 2-Player H2/2~~B~HMSE~5~~D. desJardins ~First Tracks Center~TT2~
+7/22/2024~15~Wingspan H2/3~~B~HMW-P~2~~P. Swift ~Seasons~WSN~
+7/22/2024~15~Bleeding Kansas SF~~A~SE~3~~D. Cummins ~Winterberry~BKS~
+7/22/2024~16~Empire Builder D1/1~~--~--~1~~B. Stribula ~Exhibit Hall Annex #2~EPB~
+7/22/2024~16~Superstar Baseball D1/1~~--~--~1~~J. Beckman ~Exhibit Hall Annex #5~SSB~
+7/22/2024~16~Up Front D1/1~~--~--~1~~K. Whitesell ~Exhibit Hall Annex #6~UPF~
+7/22/2024~16~Castles of Burgundy H1/3~~B~HMW-P~3~~R. Irving ~Sunburst~COB~
+7/22/2024~16~Sekigahara H2/3~~B~SwEl~3~~D. Mishler ~First Tracks Slopeside~SKG~
+7/22/2024~16~1775 QF~~B~SEM~3~~S. Lange Sr ~First Tracks~775~
+7/22/2024~16~Paths of Glory SF~~A~SEM~6~~T. Gregorio ~Winterberry~POG~
+7/22/2024~16~18xx F~~B~HMW-T~6~~T. McCorry ~Laurel~8XX~
+7/22/2024~17~Galaxy Trucker D1/1~~--~--~1~~D. Finberg ~Exhibit Hall Annex #1~GXT~
+7/22/2024~17~Republic of Rome D1/1~~--~--~1~~F. McNally ~Exhibit Hall Annex #2~ROR~
+7/22/2024~17~The Napoleonic Wars D1/1~~--~--~1~~G. Williams ~Exhibit Hall Annex #7~TNW~
+7/22/2024~17~Wooden Ships & Iron Men D1/1~~--~--~1~~T. Hitchings ~Exhibit Hall Annex #5~WSM~
+7/22/2024~17~Beyond the Sun H3/3~~B~HMW-P~3~~J. Wu ~Wintergreen~BSN~
+7/22/2024~17~Scythe H2/2~~A~HMW-P~3~~S. LeWinter ~Timberstone~SCY~
+7/22/2024~17~Stone Age H2/3~~B~HMW-P~2~~D. Stufflet ~Seasons~STA~
+7/22/2024~17~Twilight Struggle R3/5~~B~SW~4~~R. MacInnis ~Fox Den~TWS~
+7/22/2024~17~Dominion QF~~B~HWO~1~~R. Bielefeldt ~Seasons~DOM~
+7/22/2024~17~Thunder Alley SF~~B~HMW-T~3~~I. Collins II ~Dogwood~THA~
+7/22/2024~18~Just One Juniors --~~C~Jr SE~2~~A. Bruck ~Hemlock~--~
+7/22/2024~18~Gangsters D2/2~~--~--~1~~D. Galullo ~Exhibit Hall Annex #2~GSR~
+7/22/2024~18~Atlantic Storm H1/3~~A~HMW-P~2~~S. Nerney ~Alpine~ACS~
+7/22/2024~18~Empire Builder H1/3~~B~HMW-P~4~~B. Stribula ~Wintergreen~EPB~
+7/22/2024~18~Galaxy Trucker H1/3~~B~HMW-P~2~~D. Finberg ~First Tracks Center~GXT~
+7/22/2024~18~History of the World H1/2~~B~HMW-P~6~~R. Fournier ~Alpine~HWD~
+7/22/2024~18~Republic of Rome H1/2~~B~HMW-P~6~~F. McNally ~Alpine~ROR~
+7/22/2024~18~The Napoleonic Wars H2/3~~B~HWO~6~~G. Williams ~Rathskeller~TNW~
+7/22/2024~18~Dominion SF~~B~HWO~1~~R. Bielefeldt ~Seasons~DOM~
+7/22/2024~18~Bleeding Kansas F~~A~SE~3~~D. Cummins ~Winterberry~BKS~
+7/22/2024~18~Virgin Queen F~~B~HMW-P~5~~M. Kiefte ~Rathskeller~VGQ~
+7/22/2024~19~Battle Cry D1/1~~--~--~1~~G. Heintzelman ~Exhibit Hall Annex #5~BCY~
+7/22/2024~19~Star Wars: Queen's Gambit D1/1~~--~--~1~~C. Kizer ~Exhibit Hall Annex #6~QGB~
+7/22/2024~19~Ark Nova H2/2~~B~HWO~3~~C. Weaver ~Sunburst~AKN~
+7/22/2024~19~Battles of the American Revolution R3/8~~B~SwEl~4~~D. Stiffler ~Winterberry~BAR~
+7/22/2024~19~Cascadia H3/3~~B~HWO~2~~P. Klayder ~Seasons~CAS~
+7/22/2024~19~Gangsters H2/4~~B~HWO~3~~D. Galullo ~Timberstone~GSR~
+7/22/2024~19~Orleans H1/3~~A~HMW-P~2~~R. Feathers ~Snowflake~ORL~
+7/22/2024~19~Sekigahara R3/3~~B~SwEl~3~~D. Mishler ~First Tracks Slopeside~SKG~
+7/22/2024~19~1775 SF~~B~SEM~3~~S. Lange Sr ~First Tracks~775~
+7/22/2024~19~Victory in the Pacific SF~~B~SwEl~5~~T. Drozd ~Snowflake~VIP~
+7/22/2024~20~Imperial Struggle D1/1~~--~--~1~~T. Drueding ~Exhibit Hall Annex #2~IMS~
+7/22/2024~20~Superstar Baseball Draft~~B~--~2~~J. Beckman ~Chestnut~SSB~
+7/22/2024~20~Battle Cry R1M~~B~SEM~2~~G. Heintzelman ~First Tracks Poolside~BCY~
+7/22/2024~20~Power Grid H1/3~~A~HMW-P~3~~M. Munson ~Timberstone~PGD~
+7/22/2024~20~Star Wars Outer Rim H3/3~~B~HMW-T~3~~M. Sample ~Alpine~SRM~
+7/22/2024~20~Thunder Alley F~~B~HMW-T~3~~I. Collins II ~Dogwood~THA~
+7/22/2024~21~Star Wars: Queen's Gambit H2/3~~B~HMW-T~3~~C. Kizer ~First Tracks Center~QGB~
+7/22/2024~21~Ticket to Ride H2/4~~B~HMW-T~2~~K. Gray ~Seasons~TTR~
+7/22/2024~21~Twilight Struggle R4/5~~B~SW~4~~R. MacInnis ~Fox Den~TWS~
+7/22/2024~21~Five Tribes SF~~B~HMW-P~2~~C. Wildes ~Snowflake~5TR~
+7/22/2024~22~Ra! D1/1~~--~--~1~~S. Scott ~Exhibit Hall Annex #2~RA!~
+7/22/2024~22~Automobile H2/2~~B~HMW-P~3~~D. Borton ~Wintergreen~AUT~
+7/22/2024~22~Sekigahara SF~~B~SwEl~3~~D. Mishler ~First Tracks Slopeside~SKG~
+7/22/2024~22~1775 F~~B~SEM~3~~S. Lange Sr ~First Tracks~775~
+7/22/2024~23~Werewolf ~~--~Demo~2~~S. Buckwalter ~First Tracks Poolside~--~
+7/22/2024~23~Quirky Quarks H1/3~~B~HMW-P~1~~A. Jiang ~Wintergreen~QQK~
+7/22/2024~23~Ra! H2/4~~B~HWO~2~~S. Scott ~Seasons~RA!~
+7/22/2024~23~Ingenious H1/3~~B~HWO~1~~M. DuBoff ~Seasons~ING~
+7/23/2024~8~Registration --~~--~--~12~~K. Gutermuth ~Stag Pass~--~
+7/23/2024~9~Auction Store Auction~~--~--~15~~K. Gutermuth ~Grand Ballroom~--~
+7/23/2024~9~Open Gaming Library --~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~
+7/23/2024~9~Open Gaming Library --~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~
+7/23/2024~9~Mega Civilization ~~--~Demo~9~~N. Barhorst ~First Tracks Poolside~--~
+7/23/2024~9~Sushi Go Juniors --~~C~Jr SE~2~~N. Coussis ~Hemlock~--~
+7/23/2024~9~Lost Ruins of Arnak D1/1~~--~--~1~~M. Kaltman ~Exhibit Hall Annex #2~LRA~
+7/23/2024~9~Afrika Korps R4/7~~A~SwEl~7~~B. Sinigaglio ~Winterberry~AFK~
+7/23/2024~9~Battles of the American Revolution R4/8~~B~SwEl~4~~D. Stiffler ~Winterberry~BAR~
+7/23/2024~9~Bitter Woods R4/7~~A~SwEl~7~~B. Sinigaglio ~Winterberry~BWD~
+7/23/2024~9~Panzerblitz R4/7~~C~SwEl~6~~R. Northey ~Winterberry~PZB~
+7/23/2024~9~Squad Leader R4/7~~A~SwEl~4~~P. Pollard ~Winterberry~SQL~
+7/23/2024~9~The Russian Campaign R4/7~~A~SwEl~5~~B. Schoose ~Winterberry~TRC~
+7/23/2024~9~Twilight Struggle R5/5~~B~SW~4~~R. MacInnis ~Fox Den~TWS~
+7/23/2024~9~Wooden Ships & Iron Men R4/8~~B~SwEl~2~~T. Hitchings ~Winterberry~WSM~
+7/23/2024~9~Paths of Glory F~~A~SEM~6~~T. Gregorio ~Winterberry~POG~
+7/23/2024~9~Sekigahara F~~B~SwEl~3~~D. Mishler ~Laurel~SKG~
+7/23/2024~9~Victory in the Pacific F~~B~SwEl~5~~T. Drozd ~Laurel~VIP~
+7/23/2024~10~Auction Auction~~--~--~15~~K. Gutermuth ~Grand Ballroom~--~
+7/23/2024~10~Puerto Rico D1/1~~--~--~1~~R. Shay ~Exhibit Hall Annex #5~PRO~
+7/23/2024~10~A World at War R1/1~~B~SE~60~~P. Lewis ~Winterberry~WAW~
+7/23/2024~10~Waterloo R4/6~~A~SwEl~7~~M. Musella ~Winterberry~WAT~
+7/23/2024~11~Battles in the East Update Seminar~~--~--~2~~D. Cummins ~Fox Den~--~
+7/23/2024~12~Ingenious Juniors --~~C~Jr SE~2~~S. LeWinter ~Hemlock~--~
+7/23/2024~12~Through the Ages F~~B~HMW-P~4~~R. Buehler ~Laurel~AGE~
+7/23/2024~15~BPA Annual Meeting --~~--~--~1~~A. Lewis ~Grand Ballroom~--~
+7/23/2024~15~Incan Gold Juniors --~~C~Jr SE~2~~E. Shea ~Hemlock~--~
+7/23/2024~15~Battles of the American Revolution R5/8~~B~SwEl~4~~D. Stiffler ~Winterberry~BAR~
+7/23/2024~16~Cold War Navy ~~--~Demo~1~~E. Welsh ~Fox Den~--~
+7/23/2024~16~Acquire D1/1~~--~--~1~~C. Ackman ~Exhibit Hall Annex #5~ACQ~
+7/23/2024~16~For the People D1/1~~--~--~1~~J. Pei ~Exhibit Hall Annex #2~FTP~
+7/23/2024~16~Splendor D1/1~~--~--~1~~D. Doughan ~Exhibit Hall Annex #6~SPD~
+7/23/2024~16~Storm over Jerusalem D1/1~~--~--~1~~S. Blanton ~Exhibit Hall Annex #1~SOJ~
+7/23/2024~17~878 Vikings D1/1~~--~--~1~~D. Schneider ~Exhibit Hall Annex #1~878~
+7/23/2024~17~Commands & Colors: Napoleonics D1/1~~--~--~1~~T. Hitchings ~Exhibit Hall Annex #2~CCN~
+7/23/2024~17~Everdell D1/1~~--~--~1~~N. Henning ~Exhibit Hall Annex #5~EVD~
+7/23/2024~17~Heat D1/1~~--~--~1~~D. Smith ~Exhibit Hall Annex #7~HET~
+7/23/2024~17~Here I Stand D1/1~~--~--~1~~J. Rice ~Exhibit Hall Annex #8~HIS~
+7/23/2024~17~Kremlin D1/1~~--~--~1~~S. Cuccaro ~Exhibit Hall Annex #3~KRM~
+7/23/2024~17~Naval War D1/1~~--~--~1~~J. Kramer Jr ~Exhibit Hall Annex #9~NVW~
+7/23/2024~17~Quirky Quarks D1/1~~--~--~1~~A. Jiang ~Exhibit Hall Annex #4~QQK~
+7/23/2024~17~Thurn & Taxis D1/1~~--~--~1~~A. Latto ~Exhibit Hall Annex #6~T&T~
+7/23/2024~18~Facts in Four Juniors --~~C~Jr SE~1~~A. Drummond ~Fox Den~--~
+7/23/2024~18~Lords of Waterdeep D1/1~~--~--~1~~P. St. Pierre ~Exhibit Hall Annex #2~LWD~
+7/23/2024~18~Ticket to Ride D1/1~~--~--~1~~K. Gray ~Exhibit Hall Annex #1~TTR~
+7/23/2024~18~878 Vikings R1/4~~B~SwEl~3~~D. Schneider ~Snowflake~878~
+7/23/2024~18~Acquire H2/3~~B~HMW-P~2~~C. Ackman ~Seasons~ACQ~
+7/23/2024~18~Air Baron H3/4~~B~HMW-P~3~~M. Jamelli ~Grand Ballroom~ABN~
+7/23/2024~18~Atlantic Storm H2/3~~A~HMW-P~2~~S. Nerney ~Grand Ballroom~ACS~
+7/23/2024~18~Auction H3/4~~B~HWO~1~~V. Kyrkos ~Chestnut~AUC~
+7/23/2024~18~Breakout Normandy R1M~~A~SEM~6~~M. Gutfreund ~First Tracks Slopeside~BKN~
+7/23/2024~18~Circus Maximus H1/3~~C~HMW-P~4~~J. Githens ~Wintergreen~CMS~
+7/23/2024~18~El Grande H3/3~~B~HMW-P~2~~R. Flowers ~Grand Ballroom~ELG~
+7/23/2024~18~Empire Builder H2/3~~B~HMW-P~4~~B. Stribula ~Sunburst~EPB~
+7/23/2024~18~Enemy in Sight H2/4~~B~HWO~3~~M. Evinger ~Grand Ballroom~EIS~
+7/23/2024~18~Everdell H2/3~~B~HMW-P~2~~N. Henning ~Wintergreen~EVD~
+7/23/2024~18~For the People R1M~~C~SEM~6~~J. Pei ~Maple~FTP~
+7/23/2024~18~Galaxy Trucker H2/3~~B~HMW-P~2~~D. Finberg ~First Tracks Center~GXT~
+7/23/2024~18~John Company H2/2~~B~HMW-P~5~~J. Burdett ~Alpine~JCY~
+7/23/2024~18~Quirky Quarks H2/3~~B~HMW-P~1~~A. Jiang ~Sunburst~QQK~
+7/23/2024~18~Splendor H1/3~~B~HMW-P~1~~D. Doughan ~Seasons~SPD~
+7/23/2024~18~Storm over Jerusalem R1M~~B~SEM~4~~S. Blanton ~Snowflake~SOJ~
+7/23/2024~18~Titan H2/4~~A~HMW-P~5~~D. desJardins ~First Tracks Center~TTN~
+7/23/2024~18~Versailles 1919 H1/2~~B~HWO~3~~P. Stein ~Alpine~V19~
+7/23/2024~18~Space Station: Phoenix F~~B~HMW-P~2~~B. Buchanan ~Laurel~SSP~
+7/23/2024~19~Juniors Movie Night --~~--~--~2~~M. Byrd ~Fox Den~--~
+7/23/2024~19~Ace of Aces R3/4~~C~SwEl~1~~M. Chesnut ~Dogwood~AOA~
+7/23/2024~19~Here I Stand H1/2~~B~HMW-P~6~~J. Rice ~Rathskeller~HIS~
+7/23/2024~19~Ivanhoe H2/3~~B~HMW-P~2~~B. Roeper ~Grand Ballroom~IVH~
+7/23/2024~19~March Madness H2/4~~B~HMSE~1~~B. Reiff ~Evergreen~MMS~
+7/23/2024~19~Splendor H2/3~~B~HMW-P~1~~D. Doughan ~Seasons~SPD~
+7/23/2024~19~Stock Car Championship Racing H2/3~~B~HMW-P~2~~D. Wolfe ~Foggy Brews~SCC~
+7/23/2024~19~Superstar Baseball R1/3~~B~SwEl~6~~J. Beckman ~Chestnut~SSB~
+7/23/2024~19~Star Wars Outer Rim SF~~B~HMW-T~3~~M. Sample ~Alpine~SRM~
+7/23/2024~20~Commands & Colors: Samurai Battles H3/3~~B~HMW-P~2~~G. Heintzelman ~First Tracks Poolside~CCS~
+7/23/2024~20~Lost Ruins of Arnak H2/3~~B~HMW-P~2~~M. Kaltman ~Seasons~LRA~
+7/23/2024~20~Naval War H1/3~~B~HWO~3~~J. Kramer Jr ~Grand Ballroom~NVW~
+7/23/2024~20~Santa Fe Rails H3/3~~B~HMW-P~2~~A. Drummond ~Sunburst~SFR~
+7/23/2024~20~Splendor H3/3~~B~HMW-P~1~~D. Doughan ~Seasons~SPD~
+7/23/2024~20~Stone Age H3/3~~B~HMW-P~2~~D. Stufflet ~Seasons~STA~
+7/23/2024~20~Egizia SF~~B~HMW-P~2~~A. Emerick ~Laurel~EGZ~
+7/23/2024~21~Ingenious D1/1~~--~--~1~~M. DuBoff ~Exhibit Hall Annex #2~ING~
+7/23/2024~21~Leaping Lemmings H1/4~~C~HWO~2~~B. Powers ~Wintergreen~LLM~
+7/23/2024~21~Kremlin H2/3~~B~HMW-P~3~~S. Cuccaro ~Grand Ballroom~KRM~
+7/23/2024~21~Power Grid H2/3~~A~HMW-P~3~~M. Munson ~Grand Ballroom~PGD~
+7/23/2024~22~Heat H1/3~~B~HWO~2~~D. Smith ~Timberstone~HET~
+7/23/2024~22~Ingenious H2/3~~B~HWO~1~~M. DuBoff ~Seasons~ING~
+7/23/2024~22~Ra! H3/4~~B~HWO~2~~S. Scott ~Grand Ballroom~RA!~
+7/23/2024~22~Russian Railroads H3/3~~B~HMW-T~2~~I. Collins II ~Wintergreen~RRR~
+7/23/2024~22~Saint Petersburg H2/3~~B~HWO~2~~R. Feathers ~Seasons~SPG~
+7/23/2024~22~Splendor SF~~B~SwEl~1~~D. Doughan ~Seasons~SPD~
+7/23/2024~22~Egizia F~~B~HMW-P~2~~A. Emerick ~Laurel~EGZ~
+7/23/2024~23~Werewolf ~~--~Demo~2~~S. Buckwalter ~First Tracks Poolside~--~
+7/23/2024~23~King of Tokyo R1/1~~C~SE~1~~N. Drummond ~Grand Ballroom~KOT~
+7/23/2024~23~Win, Place, & Show H2/4~~B~HWO~3~~C. Fox ~Evergreen~WPS~
+7/23/2024~23~Dominion F~~B~HWO~1~~R. Bielefeldt ~Laurel~DOM~
+7/23/2024~23~Splendor F~~B~SwEl~1~~D. Doughan ~Seasons~SPD~
+7/23/2024~24~King of Tokyo SF~~C~SE~1~~N. Drummond ~Grand Ballroom~KOT~
+7/24/2024~1~King of Tokyo F~~C~SE~1~~N. Drummond ~Grand Ballroom~KOT~
+7/24/2024~8~Registration --~~--~--~12~~K. Gutermuth ~Stag Pass~--~
+7/24/2024~9~Open Gaming --~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~
+7/24/2024~9~Open Gaming Library --~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~
+7/24/2024~9~Ra: the Dice Game Juniors --~~C~Jr SE~2~~ ~Hemlock~--~
+7/24/2024~9~Cold War Navy ~~--~Demo~1~~E. Welsh ~Evergreen~--~
+7/24/2024~9~Great Campaigns of the American Civil War D1/1~~--~--~1~~D. Cross ~Exhibit Hall Annex #2~GCA~
+7/24/2024~9~878 Vikings R2/4~~B~SwEl~3~~D. Schneider ~Wintergreen~878~
+7/24/2024~9~Advanced Civilization H2/2~~B~HMW-P~9~~ ~Grand Ballroom~ACV~
+7/24/2024~9~Afrika Korps R5/7~~A~SwEl~7~~B. Sinigaglio ~Winterberry~AFK~
+7/24/2024~9~Battles of the American Revolution R6/8~~B~SwEl~4~~D. Stiffler ~Winterberry~BAR~
+7/24/2024~9~Bitter Woods R5/7~~A~SwEl~7~~B. Sinigaglio ~Winterberry~BWD~
+7/24/2024~9~Breakout Normandy R1/3~~A~SEM~6~~M. Gutfreund ~First Tracks Slopeside~BKN~
+7/24/2024~9~Combat Commander R1/5~~A~SwEl~3~~S. Myszak ~Fox Den~CBC~
+7/24/2024~9~Commands & Colors: Napoleonics R1/4~~B~SwEl~2~~T. Hitchings ~First Tracks Center~CCN~
+7/24/2024~9~Enemy in Sight H3/4~~B~HWO~3~~M. Evinger ~Grand Ballroom~EIS~
+7/24/2024~9~Imperial Struggle R1/4~~B~SwEl~4~~T. Drueding ~Maple~IMS~
+7/24/2024~9~Leaping Lemmings H2/4~~C~HWO~2~~B. Powers ~Wintergreen~LLM~
+7/24/2024~9~Lords of Waterdeep H1/3~~B~HMW-P~2~~P. St. Pierre ~Seasons~LWD~
+7/24/2024~9~Merchant of Venus H2/3~~B~HWO~3~~R. Irving ~Snowflake~MOV~
+7/24/2024~9~Orleans H2/3~~A~HMW-P~2~~R. Feathers ~Seasons~ORL~
+7/24/2024~9~Panzerblitz R5/7~~C~SwEl~6~~R. Northey ~Winterberry~PZB~
+7/24/2024~9~Power Grid H3/3~~A~HMW-P~3~~M. Munson ~Grand Ballroom~PGD~
+7/24/2024~9~Squad Leader R5/7~~A~SwEl~4~~P. Pollard ~Winterberry~SQL~
+7/24/2024~9~Storm over Jerusalem R1/2~~B~SEM~4~~S. Blanton ~Snowflake~SOJ~
+7/24/2024~9~The Russian Campaign R5/7~~A~SwEl~5~~B. Schoose ~Winterberry~TRC~
+7/24/2024~9~Wooden Ships & Iron Men R5/8~~B~SwEl~2~~T. Hitchings ~Winterberry~WSM~
+7/24/2024~9~Ark Nova QF~~B~HWO~3~~C. Weaver ~Seasons~AKN~
+7/24/2024~9~Russian Railroads SF~~B~HMW-T~2~~I. Collins II ~Sunburst~RRR~
+7/24/2024~9~The Barracks Emperors F~~B~HMW-P~2~~W. Ferrell ~Laurel~TBE~
+7/24/2024~10~Britannia D1/1~~--~--~1~~J. Jordan ~Exhibit Hall Annex #2~BRI~
+7/24/2024~10~Dune Imperium D1/1~~--~--~1~~T. Cannon ~Exhibit Hall Annex #5~DNI~
+7/24/2024~10~History of the World D1/1~~--~--~1~~R. Fournier ~Exhibit Hall Annex #1~HWD~
+7/24/2024~10~A World at War R1/1~~B~SE~60~~P. Lewis ~Winterberry~WAW~
+7/24/2024~10~Across Suez R1/2~~A~SE~2~~D. Cummins ~Winterberry~ASZ~
+7/24/2024~10~Boxcars H3/3~~B~HMW-P~5~~J. Jackson ~Wintergreen~BXC~
+7/24/2024~10~Star Wars: Queen's Gambit H3/3~~B~HMW-T~3~~C. Kizer ~Sunburst~QGB~
+7/24/2024~10~Waterloo R5/6~~A~SwEl~7~~M. Musella ~Winterberry~WAT~
+7/24/2024~10~John Company SF~~B~HMW-P~5~~J. Burdett ~Alpine~JCY~
+7/24/2024~11~Railways of the World D1/1~~--~--~1~~P. LeBoeuf ~Exhibit Hall Annex #2~ROW~
+7/24/2024~11~Root D1/1~~--~--~1~~L. McKinness ~Exhibit Hall Annex #6~ROT~
+7/24/2024~11~Titan the Arena D1/1~~--~--~1~~K. Breza ~Exhibit Hall Annex #5~TTA~
+7/24/2024~11~Adel Verpflichtet H3/3~~C~HMW-P~2~~A. Bender ~Alpine~ADV~
+7/24/2024~11~Castles of Mad King Ludwig H1/3~~A~HWO~2~~J. Corrado ~Seasons~CMK~
+7/24/2024~11~Commands & Colors: Napoleonics R2/4~~B~SwEl~2~~T. Hitchings ~First Tracks Center~CCN~
+7/24/2024~11~Great Campaigns of the American Civil War R1/3~~B~SwEl~3~~D. Cross ~First Tracks Poolside~GCA~
+7/24/2024~11~Wingspan H3/3~~B~HMW-P~2~~P. Swift ~Grand Ballroom~WSN~
+7/24/2024~12~Vendor Setup --~~--~--~6~~K. Gutermuth ~Timberstone~--~
+7/24/2024~12~Paydirt D1/1~~--~--~1~~R. Pisarz ~Exhibit Hall Annex #2~PDT~
+7/24/2024~12~878 Vikings R3/4~~B~SwEl~3~~D. Schneider ~Wintergreen~878~
+7/24/2024~12~Across Suez R2/2~~A~SE~2~~D. Cummins ~Winterberry~ASZ~
+7/24/2024~12~Britannia H1/3~~B~HMW-P~5~~J. Jordan ~Rathskeller~BRI~
+7/24/2024~12~Combat Commander R2/5~~A~SwEl~3~~S. Myszak ~Fox Den~CBC~
+7/24/2024~12~Root H1/3~~B~HWO~3~~L. McKinness ~Grand Ballroom~ROT~
+7/24/2024~12~Titan H3/4~~A~HMW-P~5~~D. desJardins ~First Tracks Center~TTN~
+7/24/2024~12~Alhambra QF~~B~HWO~2~~ ~Wintergreen~ALH~
+7/24/2024~13~Guillotine Juniors --~~C~Jr SE~2~~R. Stakenas ~Hemlock~--~
+7/24/2024~13~Carcassonne H2/3~~B~HMW-P~1~~J. Visocnik ~Seasons~CAR~
+7/24/2024~13~Castles of Burgundy H2/3~~B~HMW-P~3~~R. Irving ~Seasons~COB~
+7/24/2024~13~Catan: Cities & Knights H2/2~~B~HMW-P~3~~C. Gnech ~Wintergreen~C&K~
+7/24/2024~13~Circus Maximus H2/3~~C~HMW-P~4~~J. Githens ~Snowflake~CMS~
+7/24/2024~13~Commands & Colors: Napoleonics R3/4~~B~SwEl~2~~T. Hitchings ~First Tracks Center~CCN~
+7/24/2024~13~Dune H1/3~~A~HE~5~~B. Johnson ~Alpine~DUN~
+7/24/2024~13~Fire in the Lake H1/2~~A~HMW-T~5~~E. Guttag ~Sunburst~FIL~
+7/24/2024~13~Imperial Struggle R2/4~~B~SwEl~4~~T. Drueding ~Maple~IMS~
+7/24/2024~13~Innovation R1/4~~B~SwEl~1~~R. Effinger ~Sunburst~IOV~
+7/24/2024~13~Paydirt H1/2~~B~HMSE~10~~R. Pisarz ~Evergreen~PDT~
+7/24/2024~13~Railways of the World R1/3~~B~SwEl~3~~P. LeBoeuf ~Alpine~ROW~
+7/24/2024~13~Storm over Jerusalem R2/2~~B~SEM~4~~S. Blanton ~Snowflake~SOJ~
+7/24/2024~13~Stone Age QF~~B~HMW-P~2~~D. Stufflet ~Seasons~STA~
+7/24/2024~13~Santa Fe Rails SF~~B~HMW-P~2~~A. Drummond ~Wintergreen~SFR~
+7/24/2024~14~Wabash Cannonball D1/1~~--~--~1~~S. Cameron ~Exhibit Hall Annex #2~WCB~
+7/24/2024~14~Great Campaigns of the American Civil War R2/3~~B~SwEl~3~~D. Cross ~First Tracks Poolside~GCA~
+7/24/2024~14~Innovation R2/4~~B~SwEl~1~~R. Effinger ~Sunburst~IOV~
+7/24/2024~14~Lost Cities R1/4~~B~SwEl~1~~R. Pettis ~Seasons~LST~
+7/24/2024~14~Across Suez SF~~A~SE~2~~D. Cummins ~Winterberry~ASZ~
+7/24/2024~14~Alhambra SF~~B~HWO~2~~ ~Laurel~ALH~
+7/24/2024~15~LiftOff 2.0 ~~--~Demo~3~~F. Bronner ~Exhibit Hall VR Games~--~
+7/24/2024~15~Swords & Sails ~~--~Demo~3~~J. Williams ~Exhibit Hall VR Games~--~
+7/24/2024~15~Ivanhoe Juniors --~~C~Jr SE~2~~B. Roeper ~Hemlock~--~
+7/24/2024~15~1930: The Golden Age of Airlines D1/1~~--~--~1~~S. Maloney ~Exhibit Hall Annex #6~930~
+7/24/2024~15~Monsters Menace America D1/1~~--~--~1~~D. Pack ~Exhibit Hall Annex #2~MMA~
+7/24/2024~15~878 Vikings R4/4~~B~SwEl~3~~D. Schneider ~Wintergreen~878~
+7/24/2024~15~Auction H4/4~~B~HWO~1~~V. Kyrkos ~Chestnut~AUC~
+7/24/2024~15~Breakout Normandy R2/3~~A~SEM~6~~M. Gutfreund ~First Tracks Slopeside~BKN~
+7/24/2024~15~Combat Commander R3/5~~A~SwEl~3~~S. Myszak ~Fox Den~CBC~
+7/24/2024~15~Commands & Colors: Napoleonics R4/4~~B~SwEl~2~~T. Hitchings ~First Tracks Center~CCN~
+7/24/2024~15~Innovation R3/4~~B~SwEl~1~~R. Effinger ~Sunburst~IOV~
+7/24/2024~15~Saint Petersburg H3/3~~B~HWO~2~~R. Feathers ~Seasons~SPG~
+7/24/2024~15~Wabash Cannonball H1/2~~B~HMW-P~2~~S. Cameron ~Wintergreen~WCB~
+7/24/2024~15~Adel Verpflichtet SF~~C~HMW-P~2~~A. Bender ~Dogwood~ADV~
+7/24/2024~15~Azul QF~~B~HWO~1~~P. Klayder ~Seasons~AZL~
+7/24/2024~15~El Grande SF~~B~HMW-P~2~~R. Flowers ~Grand Ballroom~ELG~
+7/24/2024~15~Santa Fe Rails F~~B~HMW-P~2~~A. Drummond ~Wintergreen~SFR~
+7/24/2024~16~Dune Imperium H1/3~~B~HMW-P~3~~T. Cannon ~Grand Ballroom~DNI~
+7/24/2024~16~Innovation R4/4~~B~SwEl~1~~R. Effinger ~Sunburst~IOV~
+7/24/2024~16~Kremlin H3/3~~B~HMW-P~3~~S. Cuccaro ~Grand Ballroom~KRM~
+7/24/2024~16~Naval War H2/3~~B~HWO~3~~J. Kramer Jr ~Grand Ballroom~NVW~
+7/24/2024~16~Auction SF~~B~HWO~1~~V. Kyrkos ~Chestnut~AUC~
+7/24/2024~16~Across Suez F~~A~SE~2~~D. Cummins ~Winterberry~ASZ~
+7/24/2024~16~Alhambra F~~B~HWO~2~~ ~Laurel~ALH~
+7/24/2024~17~Football Strategy H2/2~~B~HMSE~7~~B. Schoose ~Chestnut~FBS~
+7/24/2024~17~Great Campaigns of the American Civil War R3/3~~B~SwEl~3~~D. Cross ~First Tracks Poolside~GCA~
+7/24/2024~17~Imperial Struggle R3/4~~B~SwEl~4~~T. Drueding ~Maple~IMS~
+7/24/2024~17~Thurn & Taxis H1/3~~B~HWO~2~~A. Latto ~Seasons~T&T~
+7/24/2024~17~Vegas Showdown H3/3~~B~HMW-P~2~~E. Freeman ~Grand Ballroom~VSD~
+7/24/2024~17~Innovation QF~~B~SwEl~1~~R. Effinger ~Sunburst~IOV~
+7/24/2024~17~Azul SF~~B~HWO~1~~P. Klayder ~Seasons~AZL~
+7/24/2024~17~Power Grid SF~~A~HMW-P~3~~M. Munson ~Grand Ballroom~PGD~
+7/24/2024~17~Storm over Jerusalem SF~~B~SEM~4~~S. Blanton ~Snowflake~SOJ~
+7/24/2024~17~Adel Verpflichtet F~~C~HMW-P~2~~A. Bender ~Dogwood~ADV~
+7/24/2024~17~Auction F~~B~HWO~1~~V. Kyrkos ~Laurel~AUC~
+7/24/2024~17~El Grande F~~B~HMW-P~2~~R. Flowers ~Grand Ballroom~ELG~
+7/24/2024~18~Ticket to Ride Juniors --~~C~Jr SE~2~~A. Byrd ~Hemlock~--~
+7/24/2024~18~1930: The Golden Age of Airlines H1/2~~B~HMW-P~2~~S. Maloney ~Grand Ballroom~930~
+7/24/2024~18~Battles of the American Revolution R7/8~~B~SwEl~4~~D. Stiffler ~Winterberry~BAR~
+7/24/2024~18~Combat Commander R4/5~~A~SwEl~3~~S. Myszak ~Fox Den~CBC~
+7/24/2024~18~Empire Builder H3/3~~B~HMW-P~4~~B. Stribula ~Snowflake~EPB~
+7/24/2024~18~History of the World H2/2~~B~HMW-P~6~~R. Fournier ~Alpine~HWD~
+7/24/2024~18~Railways of the World R2/3~~B~SwEl~3~~P. LeBoeuf ~Alpine~ROW~
+7/24/2024~18~Star Wars Rebellion R1/3~~B~SEM~4~~C. Kizer ~First Tracks Center~SWR~
+7/24/2024~18~The Napoleonic Wars H3/3~~B~HWO~6~~G. Williams ~Rathskeller~TNW~
+7/24/2024~18~878 Vikings SF~~B~SwEl~3~~D. Schneider ~Laurel~878~
+7/24/2024~18~Commands & Colors: Napoleonics SF~~B~SwEl~2~~T. Hitchings ~First Tracks Center~CCN~
+7/24/2024~18~Innovation SF~~B~SwEl~1~~R. Effinger ~Sunburst~IOV~
+7/24/2024~18~Azul F~~B~HWO~1~~P. Klayder ~Seasons~AZL~
+7/24/2024~19~Border Reivers: A 15-Year Journey Seminar~~--~--~1~~R. Beach ~Dogwood~--~
+7/24/2024~19~Swords & Sails ~~--~Demo~3~~J. Williams ~Exhibit Hall VR Games~--~
+7/24/2024~19~Lost Cities D1/1~~--~--~1~~R. Pettis ~Exhibit Hall Annex #1~LST~
+7/24/2024~19~Medici H3/3~~B~HWO~2~~J. Cornett ~Seasons~MED~
+7/24/2024~19~Robo Rally H2/3~~C~HWO~3~~M. Houde ~Grand Ballroom~RRY~
+7/24/2024~19~Sagrada H2/3~~B~HMW-P~1~~D. Schreier ~Seasons~SAG~
+7/24/2024~19~Stock Car Championship Racing H3/3~~B~HMW-P~2~~D. Wolfe ~Foggy Brews~SCC~
+7/24/2024~19~Superstar Baseball R2/3~~B~SwEl~6~~J. Beckman ~Evergreen~SSB~
+7/24/2024~19~Terraforming Mars H2/2~~A~HWO~4~~B. Crenshaw ~Seasons~TFM~
+7/24/2024~19~Versailles 1919 H2/2~~B~HWO~3~~P. Stein ~Alpine~V19~
+7/24/2024~19~7 Wonders Duel QF~~B~HWO~2~~C. Wildes ~Sunburst~7WD~
+7/24/2024~19~Beyond the Sun SF~~B~HMW-P~3~~J. Wu ~Sunburst~BSN~
+7/24/2024~19~Innovation F~~B~SwEl~1~~R. Effinger ~Sunburst~IOV~
+7/24/2024~20~LiftOff 2.0 ~~--~Demo~3~~F. Bronner ~Exhibit Hall VR Games~--~
+7/24/2024~20~Brass H2/2~~B~HMW-P~3~~A. Jiang ~Grand Ballroom~BRS~
+7/24/2024~20~Pirate's Cove H2/3~~C~HMW-P~2~~J. Brown ~Grand Ballroom~PRC~
+7/24/2024~20~Titan the Arena H1/3~~B~HMW-P~1~~K. Breza ~Seasons~TTA~
+7/24/2024~20~Commands & Colors: Napoleonics F~~B~SwEl~2~~T. Hitchings ~First Tracks Center~CCN~
+7/24/2024~21~Charioteer H2/3~~B~HMW-P~2~~E. Rader ~Sunburst~CTR~
+7/24/2024~21~Combat Commander R5/5~~A~SwEl~3~~S. Myszak ~Fox Den~CBC~
+7/24/2024~21~Imperial Struggle R4/4~~B~SwEl~4~~T. Drueding ~Maple~IMS~
+7/24/2024~21~Ingenious H3/3~~B~HWO~1~~M. DuBoff ~Seasons~ING~
+7/24/2024~21~7 Wonders Duel SF~~B~HWO~1~~C. Wildes ~Sunburst~7WD~
+7/24/2024~21~Medici SF~~B~HWO~2~~J. Cornett ~Seasons~MED~
+7/24/2024~21~878 Vikings F~~B~SwEl~3~~D. Schneider ~Laurel~878~
+7/24/2024~22~Heat H2/3~~B~HWO~2~~D. Smith ~Alpine~HET~
+7/24/2024~22~Ingenious QF~~B~HWO~1~~M. DuBoff ~Seasons~ING~
+7/24/2024~22~7 Wonders Duel F~~B~HWO~1~~C. Wildes ~Sunburst~7WD~
+7/24/2024~22~Beyond the Sun F~~B~HMW-P~3~~J. Wu ~Laurel~BSN~
+7/24/2024~23~Werewolf ~~--~Demo~2~~S. Buckwalter ~First Tracks Poolside~--~
+7/24/2024~23~Can't Stop R1~~C~SE~1~~A. Drummond ~Grand Ballroom~CNS~
+7/24/2024~23~Medici F~~B~HWO~2~~J. Cornett ~Seasons~MED~
+7/24/2024~24~Can't Stop QF~~C~SE~1~~A. Drummond ~Grand Ballroom~CNS~
+7/25/2024~1~Can't Stop SF~~C~SE~1~~A. Drummond ~Grand Ballroom~CNS~
+7/25/2024~2~Can't Stop F~~C~SE~1~~A. Drummond ~Grand Ballroom~CNS~
+7/25/2024~8~Registration --~~--~--~12~~K. Gutermuth ~Stag Pass~--~
+7/25/2024~9~Open Gaming --~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~
+7/25/2024~9~Open Gaming Library --~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~
+7/25/2024~9~Liar's Dice Juniors --~~C~Jr SE~2~~J. Justice ~Hemlock~--~
+7/25/2024~9~Border Reivers D1/1~~--~--~1~~E. Beach ~Exhibit Hall Annex #7~BRV~
+7/25/2024~9~Afrika Korps R6/7~~A~SwEl~7~~B. Sinigaglio ~Winterberry~AFK~
+7/25/2024~9~B-17 R1/3~~A~SW~3~~M. Yoshikawa ~Snowflake~B17~
+7/25/2024~9~Battles of the American Revolution R8/8~~B~SwEl~4~~D. Stiffler ~Winterberry~BAR~
+7/25/2024~9~Bitter Woods R6/7~~A~SwEl~7~~B. Sinigaglio ~Winterberry~BWD~
+7/25/2024~9~Breakout Normandy R3/3~~A~SEM~6~~M. Gutfreund ~First Tracks Slopeside~BKN~
+7/25/2024~9~For the People R1/3~~C~SEM~6~~J. Pei ~Fox Den~FTP~
+7/25/2024~9~Great Western Trail H3/3~~A~HMW-P~3~~D. Versak ~Seasons~GWT~
+7/25/2024~9~Lost Cities R2/4~~B~SwEl~1~~R. Pettis ~Maple~LST~
+7/25/2024~9~March Madness H3/4~~B~HMSE~1~~B. Reiff ~Evergreen~MMS~
+7/25/2024~9~Panzerblitz R6/7~~C~SwEl~6~~R. Northey ~Winterberry~PZB~
+7/25/2024~9~Ra! H4/4~~B~HWO~2~~S. Scott ~Grand Ballroom~RA!~
+7/25/2024~9~Root H2/3~~B~HWO~3~~L. McKinness ~Grand Ballroom~ROT~
+7/25/2024~9~Squad Leader R6/7~~A~SwEl~4~~P. Pollard ~Winterberry~SQL~
+7/25/2024~9~Star Wars Rebellion R2/3~~B~SEM~4~~C. Kizer ~First Tracks Slopeside~SWR~
+7/25/2024~9~The Russian Campaign R6/7~~A~SwEl~5~~B. Schoose ~Winterberry~TRC~
+7/25/2024~9~Ticket to Ride H3/4~~B~HMW-T~2~~K. Gray ~Seasons~TTR~
+7/25/2024~9~Titan H4/4~~A~HMW-P~5~~D. desJardins ~First Tracks Center~TTN~
+7/25/2024~9~Up Front R1/5~~B~SwEl~2~~K. Whitesell ~Wintergreen~UPF~
+7/25/2024~9~War at Sea R1/6~~A~SwEl~2~~V. Meconi ~Sunburst~WAS~
+7/25/2024~9~Wooden Ships & Iron Men R6/8~~B~SwEl~2~~T. Hitchings ~Winterberry~WSM~
+7/25/2024~9~Commands & Colors: Samurai Battles QF~~B~HMW-P~2~~G. Heintzelman ~First Tracks Poolside~CCS~
+7/25/2024~9~Great Campaigns of the American Civil War QF~~B~SwEl~3~~D. Cross ~First Tracks Poolside~GCA~
+7/25/2024~9~Brass SF~~B~HMW-P~3~~A. Jiang ~Dogwood~BRS~
+7/25/2024~9~Empire Builder SF~~B~HMW-P~4~~B. Stribula ~Alpine~EPB~
+7/25/2024~9~Imperial Struggle SF~~B~SwEl~4~~T. Drueding ~Laurel~IMS~
+7/25/2024~9~Scythe SF~~A~HMW-P~3~~S. LeWinter ~Grand Ballroom~SCY~
+7/25/2024~9~Kremlin F~~B~HMW-P~3~~S. Cuccaro ~Laurel~KRM~
+7/25/2024~9~Russian Railroads F~~B~HMW-T~2~~I. Collins II ~Laurel~RRR~
+7/25/2024~10~Vendors --~~--~--~8~~K. Gutermuth ~Timberstone~--~
+7/25/2024~10~LiftOff 2.0 ~~--~Demo~2~~F. Bronner ~Exhibit Hall VR Games~--~
+7/25/2024~10~A World at War R1/1~~B~SE~60~~P. Lewis ~Winterberry~WAW~
+7/25/2024~10~Napoleon at Waterloo R1/2~~A~SE~2~~D. Cummins ~Winterberry~NAW~
+7/25/2024~10~Railways of the World R3/3~~B~SwEl~3~~P. LeBoeuf ~Alpine~ROW~
+7/25/2024~10~Waterloo R6/6~~A~SwEl~7~~M. Musella ~Winterberry~WAT~
+7/25/2024~10~John Company F~~B~HMW-P~5~~J. Burdett ~Alpine~JCY~
+7/25/2024~11~Air Baron H4/4~~B~HMW-P~3~~M. Jamelli ~Grand Ballroom~ABN~
+7/25/2024~11~Lords of Waterdeep H2/3~~B~HMW-P~2~~P. St. Pierre ~Seasons~LWD~
+7/25/2024~11~Up Front R2/5~~B~SwEl~2~~K. Whitesell ~Wintergreen~UPF~
+7/25/2024~11~War at Sea R2/6~~A~SwEl~2~~V. Meconi ~Sunburst~WAS~
+7/25/2024~11~Amun Re SF~~B~HMW-P~2~~A. Bove ~Alpine~AMR~
+7/25/2024~11~Commands & Colors: Samurai Battles SF~~B~HMW-P~2~~G. Heintzelman ~First Tracks Poolside~CCS~
+7/25/2024~12~Blokus Juniors --~~C~Jr SE~2~~P. Shea ~Hemlock~--~
+7/25/2024~12~B-17 R2/3~~A~SW~3~~M. Yoshikawa ~Snowflake~B17~
+7/25/2024~12~Britannia H2/3~~B~HMW-P~5~~J. Jordan ~Rathskeller~BRI~
+7/25/2024~12~Carcassonne H3/3~~B~HMW-P~1~~J. Visocnik ~Seasons~CAR~
+7/25/2024~12~Napoleon at Waterloo R2/2~~A~SE~2~~D. Cummins ~Winterberry~NAW~
+7/25/2024~12~Combat Commander SF~~A~SwEl~3~~S. Myszak ~Fox Den~CBC~
+7/25/2024~12~Scythe F~~A~HMW-P~3~~S. LeWinter ~Laurel~SCY~
+7/25/2024~13~Championship Formula Racing D1/1~~--~--~1~~C. Long ~Exhibit Hall Annex #7~CFR~
+7/25/2024~13~Border Reivers H1/2~~B~HMW-P~4~~E. Beach ~Rathskeller~BRV~
+7/25/2024~13~Dune H2/3~~A~HE~5~~B. Johnson ~Alpine~DUN~
+7/25/2024~13~Everdell H3/3~~B~HMW-P~2~~N. Henning ~Seasons~EVD~
+7/25/2024~13~Fire in the Lake H2/2~~A~HMW-T~5~~E. Guttag ~First Tracks Center~FIL~
+7/25/2024~13~Formula De H4/4~~C~HMW-T~3~~E. Meader ~Alpine~FDE~
+7/25/2024~13~Lost Ruins of Arnak H3/3~~B~HMW-P~2~~M. Kaltman ~Seasons~LRA~
+7/25/2024~13~Star Wars Rebellion R3/3~~B~SEM~4~~C. Kizer ~First Tracks Slopeside~SWR~
+7/25/2024~13~Thurn & Taxis H2/3~~B~HWO~2~~A. Latto ~Seasons~T&T~
+7/25/2024~13~Up Front R3/5~~B~SwEl~2~~K. Whitesell ~Wintergreen~UPF~
+7/25/2024~13~War at Sea R3/6~~A~SwEl~2~~V. Meconi ~Sunburst~WAS~
+7/25/2024~13~Great Campaigns of the American Civil War SF~~B~SwEl~3~~D. Cross ~First Tracks Poolside~GCA~
+7/25/2024~13~Stone Age SF~~B~HMW-P~2~~D. Stufflet ~Seasons~STA~
+7/25/2024~13~Commands & Colors: Samurai Battles F~~B~HMW-P~2~~G. Heintzelman ~First Tracks Poolside~CCS~
+7/25/2024~14~LiftOff 2.0 ~~--~Demo~4~~F. Bronner ~Exhibit Hall VR Games~--~
+7/25/2024~14~Memoir '44 Overlord - Peleliu Landings ~~--~Demo~2~~S. Edelston ~Maple~--~
+7/25/2024~14~Leaping Lemmings H3/4~~C~HWO~2~~B. Powers ~Wintergreen~LLM~
+7/25/2024~14~Napoleon at Waterloo SF~~A~SE~2~~D. Cummins ~Winterberry~NAW~
+7/25/2024~14~Railways of the World SF~~B~SwEl~3~~P. LeBoeuf ~Alpine~ROW~
+7/25/2024~14~Empire Builder F~~B~HMW-P~4~~B. Stribula ~Alpine~EPB~
+7/25/2024~14~Imperial Struggle F~~B~SwEl~4~~T. Drueding ~Laurel~IMS~
+7/25/2024~15~Decption: Murder in Hong Kong Juniors --~~C~Jr SE~2~~D. Doughan ~Hemlock~--~
+7/25/2024~15~B-17 R3/3~~A~SW~3~~M. Yoshikawa ~Snowflake~B17~
+7/25/2024~15~Championship Formula Racing H1/3~~B~HMW-P~4~~C. Long ~Foggy Brews~CFR~
+7/25/2024~15~For the People R2/3~~C~SEM~6~~J. Pei ~Fox Den~FTP~
+7/25/2024~15~Orleans H3/3~~A~HMW-P~2~~R. Feathers ~Seasons~ORL~
+7/25/2024~15~Puerto Rico H1/3~~B~HMW-P~2~~R. Shay ~Seasons~PRO~
+7/25/2024~15~Up Front R4/5~~B~SwEl~2~~K. Whitesell ~Wintergreen~UPF~
+7/25/2024~15~War at Sea R4/6~~A~SwEl~2~~V. Meconi ~Sunburst~WAS~
+7/25/2024~15~Breakout Normandy QF~~A~SEM~6~~M. Gutfreund ~First Tracks Slopeside~BKN~
+7/25/2024~15~Wingspan QF~~B~HMW-P~2~~P. Swift ~Grand Ballroom~WSN~
+7/25/2024~15~Ark Nova SF~~B~HWO~3~~C. Weaver ~Seasons~AKN~
+7/25/2024~16~Monsters Menace America H3/4~~C~HMW-P~2~~D. Pack ~Grand Ballroom~MMA~
+7/25/2024~16~Root H3/3~~B~HWO~3~~L. McKinness ~Grand Ballroom~ROT~
+7/25/2024~16~Napoleon at Waterloo F~~A~SE~2~~D. Cummins ~Winterberry~NAW~
+7/25/2024~17~Navegador H3/3~~B~HMW-P~2~~C. Martin ~Sunburst~NVG~
+7/25/2024~17~Robo Rally H3/3~~C~HWO~3~~M. Houde ~Grand Ballroom~RRY~
+7/25/2024~17~Ticket to Ride H4/4~~B~HMW-T~2~~K. Gray ~Seasons~TTR~
+7/25/2024~17~Up Front R5/5~~B~SwEl~2~~K. Whitesell ~Wintergreen~UPF~
+7/25/2024~17~War at Sea R5/6~~A~SwEl~2~~V. Meconi ~Sunburst~WAS~
+7/25/2024~17~Star Wars Rebellion QF~~B~SEM~4~~C. Kizer ~First Tracks Slopeside~SWR~
+7/25/2024~17~Stone Age F~~B~HMW-P~2~~D. Stufflet ~Laurel~STA~
+7/25/2024~17~Titan 2-Player F~~B~HMSE~5~~D. desJardins ~Laurel~TT2~
+7/25/2024~18~King of Tokyo Juniors --~~C~Jr SE~2~~L. Heinz ~Hemlock~--~
+7/25/2024~18~Advanced Squad Leader Starter Kit D1/1~~--~--~1~~P. Cocke ~Exhibit Hall Annex #2~ASK~
+7/25/2024~18~1930: The Golden Age of Airlines H2/2~~B~HMW-P~2~~S. Maloney ~Grand Ballroom~930~
+7/25/2024~18~Age of Renaissance H3/3~~B~HMW-P~7~~J. Spencer ~Dogwood~AOR~
+7/25/2024~18~Galaxy Trucker H3/3~~B~HMW-P~2~~D. Finberg ~First Tracks Center~GXT~
+7/25/2024~18~Quirky Quarks H3/3~~B~HMW-P~1~~A. Jiang ~Seasons~QQK~
+7/25/2024~18~Republic of Rome H2/2~~B~HMW-P~6~~F. McNally ~Alpine~ROR~
+7/25/2024~18~Battles of the American Revolution QF~~B~SwEl~4~~D. Stiffler ~Winterberry~BAR~
+7/25/2024~18~Catan: Cities & Knights SF~~B~HMW-P~3~~C. Gnech ~Wintergreen~C&K~
+7/25/2024~18~History of the World SF~~B~HMW-P~6~~R. Fournier ~Alpine~HWD~
+7/25/2024~19~Swords & Sails ~~--~Demo~3~~J. Williams ~Exhibit Hall VR Games~--~
+7/25/2024~19~Conquest of Paradise D1/1~~--~--~1~~K. McPartland ~Exhibit Hall Annex #5~CQP~
+7/25/2024~19~Race for the Galaxy D1/1~~--~--~1~~E. Freeman ~Exhibit Hall Annex #2~RFG~
+7/25/2024~19~Wilderness War D1/1~~--~--~1~~G. LaDue ~Exhibit Hall Annex #1~WNW~
+7/25/2024~19~Ace of Aces R4/4~~C~SwEl~1~~M. Chesnut ~Evergreen~AOA~
+7/25/2024~19~Dune Imperium H2/3~~B~HMW-P~3~~T. Cannon ~Wintergreen~DNI~
+7/25/2024~19~Here I Stand R2/2~~B~HMW-P~6~~J. Rice ~Rathskeller~HIS~
+7/25/2024~19~Sagrada H3/3~~B~HMW-P~1~~D. Schreier ~Seasons~SAG~
+7/25/2024~19~Superstar Baseball R3/3~~B~SwEl~6~~J. Beckman ~Chestnut~SSB~
+7/25/2024~19~War at Sea R6/6~~A~SwEl~2~~V. Meconi ~Sunburst~WAS~
+7/25/2024~19~Saint Petersburg QF~~B~HWO~2~~R. Feathers ~Seasons~SPG~
+7/25/2024~19~Up Front QF~~B~SwEl~2~~K. Whitesell ~Wintergreen~UPF~
+7/25/2024~19~Lost Ruins of Arnak SF~~B~HMW-P~2~~M. Kaltman ~Snowflake~LRA~
+7/25/2024~19~Railways of the World F~~B~SwEl~3~~P. LeBoeuf ~Laurel~ROW~
+7/25/2024~19~Star Wars Outer Rim F~~B~HMW-T~3~~M. Sample ~Laurel~SRM~
+7/25/2024~19~Stock Car Championship Racing F~~B~HMW-P~2~~D. Wolfe ~Foggy Brews~SCC~
+7/25/2024~19~Storm over Jerusalem F~~B~SEM~4~~S. Blanton ~Laurel~SOJ~
+7/25/2024~20~LiftOff 2.0 ~~--~Demo~3~~F. Bronner ~Exhibit Hall VR Games~--~
+7/25/2024~20~Memoir '44 D1/1~~--~--~1~~S. Edelston ~Exhibit Hall Annex #2~M44~
+7/25/2024~20~Advanced Squad Leader Starter Kit R1M~~B~SEM~3~~P. Cocke ~First Tracks Poolside~ASK~
+7/25/2024~20~Titan the Arena H2/3~~B~HMW-P~1~~K. Breza ~Snowflake~TTA~
+7/25/2024~20~Wilderness War R1/4~~B~SwEl~4~~G. LaDue ~First Tracks Center~WNW~
+7/25/2024~20~Terraforming Mars QF~~A~HWO~4~~B. Crenshaw ~Seasons~TFM~
+7/25/2024~21~Conquest of Paradise H1/3~~B~HMW-P~3~~K. McPartland ~Sunburst~CQP~
+7/25/2024~21~Evolution H3/3~~B~HMW-P~2~~T. O'Flynn ~Snowflake~EVL~
+7/25/2024~21~For the People R3/3~~C~SEM~6~~J. Pei ~Fox Den~FTP~
+7/25/2024~21~Ivanhoe H3/3~~B~HMW-P~2~~B. Roeper ~Grand Ballroom~IVH~
+7/25/2024~21~Memoir '44 R1M~~B~SEM~2~~S. Edelston ~Maple~M44~
+7/25/2024~21~Ra: The Dice Game H2/4~~B~HWO~1~~S. Roy ~Seasons~RDG~
+7/25/2024~21~Saint Petersburg SF~~B~HWO~2~~R. Feathers ~Seasons~SPG~
+7/25/2024~21~Up Front SF~~B~SwEl~2~~K. Whitesell ~Wintergreen~UPF~
+7/25/2024~21~War at Sea SF~~A~SwEl~2~~V. Meconi ~Sunburst~WAS~
+7/25/2024~22~Ingenious SF~~B~HWO~1~~M. DuBoff ~Seasons~ING~
+7/25/2024~22~Quirky Quarks SF~~B~HMW-P~1~~A. Jiang ~Seasons~QQK~
+7/25/2024~23~Werewolf ~~--~Demo~2~~S. Buckwalter ~First Tracks Poolside~--~
+7/25/2024~23~Pro Golf R1/1~~A~SE~2~~B. Monnin ~Grand Ballroom~PGF~
+7/25/2024~23~Ingenious F~~B~HWO~1~~M. DuBoff ~Seasons~ING~
+7/25/2024~23~Quirky Quarks F~~B~HMW-P~1~~A. Jiang ~Laurel~QQK~
+7/25/2024~23~Saint Petersburg F~~B~HWO~2~~R. Feathers ~Seasons~SPG~
+7/25/2024~23~Up Front F~~B~SwEl~2~~K. Whitesell ~Wintergreen~UPF~
+7/25/2024~23~War at Sea F~~A~SwEl~2~~V. Meconi ~Sunburst~WAS~
+7/26/2024~1~Pro Golf F~~A~SE~2~~B. Monnin ~Grand Ballroom~PGF~
+7/26/2024~8~Registration --~~--~--~12~~K. Gutermuth ~Stag Pass~--~
+7/26/2024~9~Open Gaming --~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~
+7/26/2024~9~Open Gaming Library --~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~
+7/26/2024~9~Formula Motor Racing Juniors --~~C~Jr SE~2~~D. Pack ~Hemlock~--~
+7/26/2024~9~Concordia D1/1~~--~--~1~~R. Kircher ~Exhibit Hall Annex #2~CNC~
+7/26/2024~9~Advanced Squad Leader Starter Kit R1/3~~B~SEM~3~~P. Cocke ~First Tracks Poolside~ASK~
+7/26/2024~9~Afrika Korps R7/7~~A~SwEl~7~~B. Sinigaglio ~Winterberry~AFK~
+7/26/2024~9~Battle for Germany R1/2~~A~SE~3~~D. Cummins ~Winterberry~BFG~
+7/26/2024~9~Bitter Woods R7/7~~A~SwEl~7~~B. Sinigaglio ~Winterberry~BWD~
+7/26/2024~9~Border Reivers H2/2~~B~HMW-P~4~~E. Beach ~Alpine~BRV~
+7/26/2024~9~Britannia H3/3~~B~HMW-P~5~~J. Jordan ~Rathskeller~BRI~
+7/26/2024~9~Castles of Burgundy H3/3~~B~HMW-P~3~~R. Irving ~Snowflake~COB~
+7/26/2024~9~Crokinole R1/4~~C~SwEl~2~~S. Brown ~Sunburst~CRK~
+7/26/2024~9~Gangsters H3/4~~B~HWO~3~~D. Galullo ~Grand Ballroom~GSR~
+7/26/2024~9~March Madness H4/4~~B~HMSE~1~~B. Reiff ~Chestnut~MMS~
+7/26/2024~9~Memoir '44 R1/4~~B~SEM~2~~S. Edelston ~Maple~M44~
+7/26/2024~9~Panzerblitz R7/7~~C~SwEl~6~~R. Northey ~Winterberry~PZB~
+7/26/2024~9~Squad Leader R7/7~~A~SwEl~4~~P. Pollard ~Winterberry~SQL~
+7/26/2024~9~The Russian Campaign R7/7~~A~SwEl~5~~B. Schoose ~Winterberry~TRC~
+7/26/2024~9~Thurn & Taxis H3/3~~B~HWO~2~~A. Latto ~Seasons~T&T~
+7/26/2024~9~Wilderness War R2/4~~B~SwEl~4~~G. LaDue ~First Tracks Center~WNW~
+7/26/2024~9~Win, Place, & Show H3/4~~B~HWO~3~~C. Fox ~Evergreen~WPS~
+7/26/2024~9~Wooden Ships & Iron Men R7/8~~B~SwEl~2~~T. Hitchings ~Winterberry~WSM~
+7/26/2024~9~Cascadia QF~~B~HWO~2~~P. Klayder ~Seasons~CAS~
+7/26/2024~9~1930: The Golden Age of Airlines SF~~B~HMW-P~2~~S. Maloney ~Grand Ballroom~930~
+7/26/2024~9~Battles of the American Revolution SF~~B~SwEl~4~~D. Stiffler ~Winterberry~BAR~
+7/26/2024~9~Breakout Normandy SF~~A~SEM~6~~M. Gutfreund ~First Tracks Slopeside~BKN~
+7/26/2024~9~For the People SF~~C~SEM~6~~J. Pei ~Fox Den~FTP~
+7/26/2024~9~Great Western Trail SF~~A~HMW-P~3~~D. Versak ~Seasons~GWT~
+7/26/2024~9~Here I Stand SF~~B~HMW-P~6~~J. Rice ~Rathskeller~HIS~
+7/26/2024~9~Orleans SF~~A~HMW-P~2~~R. Feathers ~Snowflake~ORL~
+7/26/2024~9~Star Wars Rebellion SF~~B~SEM~4~~C. Kizer ~First Tracks Slopeside~SWR~
+7/26/2024~9~Advanced Civilization F~~B~HMW-P~9~~ ~Dogwood~ACV~
+7/26/2024~9~Amun Re F~~B~HMW-P~2~~A. Bove ~Laurel~AMR~
+7/26/2024~9~Great Campaigns of the American Civil War F~~B~SwEl~3~~D. Cross ~Laurel~GCA~
+7/26/2024~9~Lost Ruins of Arnak F~~B~HMW-P~2~~M. Kaltman ~Laurel~LRA~
+7/26/2024~10~Vendors --~~--~--~8~~K. Gutermuth ~Timberstone~--~
+7/26/2024~10~LiftOff 2.0 ~~--~Demo~2~~F. Bronner ~Exhibit Hall VR Games~--~
+7/26/2024~10~A World at War R1/1~~B~SE~60~~P. Lewis ~Winterberry~WAW~
+7/26/2024~10~Naval War H3/3~~B~HWO~3~~J. Kramer Jr ~Grand Ballroom~NVW~
+7/26/2024~10~Pirate's Cove H3/3~~C~HMW-P~2~~J. Brown ~Grand Ballroom~PRC~
+7/26/2024~10~Boxcars SF~~B~HMW-P~5~~J. Jackson ~Wintergreen~BXC~
+7/26/2024~10~Titan SF~~A~HMW-P~5~~D. desJardins ~First Tracks Center~TTN~
+7/26/2024~10~Versailles 1919 SF~~B~HWO~3~~P. Stein ~Alpine~V19~
+7/26/2024~11~MBT D1/1~~--~--~1~~J. Squibb ~Exhibit Hall Annex #5~MBT~
+7/26/2024~11~Euphrat & Tigris H1/2~~B~HWO~2~~C. Moffitt ~Wintergreen~E&T~
+7/26/2024~11~Memoir '44 R2/4~~B~SEM~2~~S. Edelston ~Maple~M44~
+7/26/2024~11~Star Wars: Queen's Gambit QF~~B~HMW-T~3~~C. Kizer ~First Tracks Slopeside~QGB~
+7/26/2024~11~Cascadia SF~~B~HWO~2~~P. Klayder ~Seasons~CAS~
+7/26/2024~11~1930: The Golden Age of Airlines F~~B~HMW-P~2~~S. Maloney ~Grand Ballroom~930~
+7/26/2024~12~Splendor Juniors --~~C~Jr SE~2~~J. Shea ~Hemlock~--~
+7/26/2024~12~Advanced Squad Leader Starter Kit R2/3~~B~SEM~3~~P. Cocke ~First Tracks Poolside~ASK~
+7/26/2024~12~Battle for Germany R2/2~~A~SE~3~~D. Cummins ~Winterberry~BFG~
+7/26/2024~12~JamSumo R1/2~~C~SwEl~2~~S. Brown ~Sunburst~JAM~
+7/26/2024~12~Ra: The Dice Game H3/4~~B~HWO~1~~S. Roy ~Seasons~RDG~
+7/26/2024~12~Thurn & Taxis QF~~B~HWO~2~~A. Latto ~Wintergreen~T&T~
+7/26/2024~12~Air Baron SF~~B~HMW-P~3~~M. Jamelli ~Grand Ballroom~ABN~
+7/26/2024~12~Root SF~~B~HWO~3~~L. McKinness ~Grand Ballroom~ROT~
+7/26/2024~12~Ark Nova F~~B~HWO~3~~C. Weaver ~Laurel~AKN~
+7/26/2024~13~Championship Formula Racing H2/3~~B~HMW-P~4~~C. Long ~Foggy Brews~CFR~
+7/26/2024~13~Dune H3/3~~A~HE~5~~B. Johnson ~Alpine~DUN~
+7/26/2024~13~Enemy in Sight H4/4~~B~HWO~3~~M. Evinger ~Grand Ballroom~EIS~
+7/26/2024~13~Heat H3/3~~B~HWO~2~~D. Smith ~Alpine~HET~
+7/26/2024~13~Memoir '44 R3/4~~B~SEM~2~~S. Edelston ~Maple~M44~
+7/26/2024~13~Merchant of Venus H3/3~~B~HWO~3~~R. Irving ~Snowflake~MOV~
+7/26/2024~13~Paydirt H2/2~~B~HMSE~10~~R. Pisarz ~Evergreen~PDT~
+7/26/2024~13~Union Pacific H3/3~~B~HMW-P~2~~C. Meyer ~Snowflake~UNP~
+7/26/2024~13~Wilderness War R3/4~~B~SwEl~4~~G. LaDue ~First Tracks Center~WNW~
+7/26/2024~13~Automobile SF~~B~HMW-P~3~~D. Borton ~Snowflake~AUT~
+7/26/2024~13~Formula De SF~~C~HMW-T~3~~E. Meader ~Alpine~FDE~
+7/26/2024~13~Wingspan SF~~B~HMW-P~2~~P. Swift ~Grand Ballroom~WSN~
+7/26/2024~13~Star Wars Rebellion F~~B~SEM~4~~C. Kizer ~First Tracks Slopeside~SWR~
+7/26/2024~13~Versailles 1919 F~~B~HWO~3~~P. Stein ~Alpine~V19~
+7/26/2024~14~LiftOff 2.0 ~~--~Demo~4~~F. Bronner ~Exhibit Hall VR Games~--~
+7/26/2024~14~Conquest of Paradise H2/3~~B~HMW-P~3~~K. McPartland ~Seasons~CQP~
+7/26/2024~14~Dune Imperium H3/3~~B~HMW-P~3~~T. Cannon ~Wintergreen~DNI~
+7/26/2024~14~MBT R1/3~~B~SwEl~5~~J. Squibb ~Fox Den~MBT~
+7/26/2024~14~Monsters Menace America H4/4~~C~HMW-P~2~~D. Pack ~Grand Ballroom~MMA~
+7/26/2024~14~Fire in the Lake SF~~A~HMW-T~5~~E. Guttag ~Fox Den~FIL~
+7/26/2024~14~Star Wars: Queen's Gambit SF~~B~HMW-T~3~~C. Kizer ~First Tracks Slopeside~QGB~
+7/26/2024~14~Thurn & Taxis SF~~B~HWO~2~~A. Latto ~Wintergreen~T&T~
+7/26/2024~14~Waterloo SF~~A~SwEl~7~~M. Musella ~Winterberry~WAT~
+7/26/2024~15~Sleeping Queens Juniors --~~C~Jr SE~2~~S. Raszewski ~Hemlock~--~
+7/26/2024~15~Advanced Squad Leader Starter Kit R3/3~~B~SEM~3~~P. Cocke ~First Tracks Poolside~ASK~
+7/26/2024~15~Charioteer H3/3~~B~HMW-P~2~~E. Rader ~Seasons~CTR~
+7/26/2024~15~Concordia H1/2~~B~HMW-P~2~~R. Kircher ~Seasons~CNC~
+7/26/2024~15~Memoir '44 R4/4~~B~SEM~2~~S. Edelston ~Maple~M44~
+7/26/2024~15~Battle for Germany SF~~A~SE~3~~D. Cummins ~Winterberry~BFG~
+7/26/2024~15~Britannia SF~~B~HMW-P~5~~J. Jordan ~Rathskeller~BRI~
+7/26/2024~15~Robo Rally SF~~C~HWO~3~~M. Houde ~Grand Ballroom~RRY~
+7/26/2024~15~Air Baron F~~B~HMW-P~3~~M. Jamelli ~Grand Ballroom~ABN~
+7/26/2024~15~Breakout Normandy F~~A~SEM~6~~M. Gutfreund ~First Tracks Slopeside~BKN~
+7/26/2024~15~For the People F~~C~SEM~6~~J. Pei ~Fox Den~FTP~
+7/26/2024~15~Thurn & Taxis F~~B~HWO~2~~A. Latto ~Wintergreen~T&T~
+7/26/2024~15~Wingspan F~~B~HMW-P~2~~P. Swift ~Laurel~WSN~
+7/26/2024~16~Castles of Mad King Ludwig D1/1~~--~--~1~~J. Corrado ~Exhibit Hall Annex #2~CMK~
+7/26/2024~16~Monsters Menace America SF~~C~HMW-P~2~~D. Pack ~Grand Ballroom~MMA~
+7/26/2024~16~Root F~~B~HWO~3~~L. McKinness ~Grand Ballroom~ROT~
+7/26/2024~17~Diplomacy D1/1~~--~--~1~~T. Haver ~Exhibit Hall Annex #7~DIP~
+7/26/2024~17~Castles of Mad King Ludwig H2/3~~A~HWO~2~~J. Corrado ~Seasons~CMK~
+7/26/2024~17~JamSumo R2/2~~C~SwEl~2~~S. Brown ~Sunburst~JAM~
+7/26/2024~17~Lords of Waterdeep H3/3~~B~HMW-P~2~~P. St. Pierre ~Snowflake~LWD~
+7/26/2024~17~Wilderness War R4/4~~B~SwEl~4~~G. LaDue ~First Tracks Center~WNW~
+7/26/2024~17~Memoir '44 SF~~B~SEM~2~~S. Edelston ~Maple~M44~
+7/26/2024~17~Sagrada SF~~B~HMW-P~1~~D. Schreier ~Seasons~SAG~
+7/26/2024~17~Vegas Showdown SF~~B~HMW-P~2~~E. Freeman ~Alpine~VSD~
+7/26/2024~17~Orleans F~~A~HMW-P~2~~R. Feathers ~Laurel~ORL~
+7/26/2024~17~Star Wars: Queen's Gambit F~~B~HMW-T~3~~C. Kizer ~First Tracks Slopeside~QGB~
+7/26/2024~18~Lost Cities Juniors --~~C~Jr SE~2~~M. Byrd ~Hemlock~--~
+7/26/2024~18~Battle Line D1/1~~--~--~1~~S. McCulloch ~Exhibit Hall Annex #1~BAT~
+7/26/2024~18~War of the Ring D1/1~~--~--~1~~C. Trimmer ~Exhibit Hall Annex #5~WOR~
+7/26/2024~18~Circus Maximus H3/3~~C~HMW-P~4~~J. Githens ~Wintergreen~CMS~
+7/26/2024~18~Advanced Squad Leader Starter Kit SF~~B~SEM~3~~P. Cocke ~First Tracks Poolside~ASK~
+7/26/2024~18~Afrika Korps SF~~A~SwEl~7~~B. Sinigaglio ~Winterberry~AFK~
+7/26/2024~18~Bitter Woods SF~~A~SwEl~7~~B. Sinigaglio ~Winterberry~BWD~
+7/26/2024~18~Galaxy Trucker SF~~B~HMW-P~2~~D. Finberg ~First Tracks Center~GXT~
+7/26/2024~18~The Napoleonic Wars SF~~B~HWO~6~~G. Williams ~Rathskeller~TNW~
+7/26/2024~18~Battle for Germany F~~A~SE~3~~D. Cummins ~Winterberry~BFG~
+7/26/2024~18~Catan: Cities & Knights F~~B~HMW-P~3~~C. Gnech ~Laurel~C&K~
+7/26/2024~18~Republic of Rome F~~B~HMW-P~6~~F. McNally ~Alpine~ROR~
+7/26/2024~18~Sagrada F~~B~HMW-P~1~~D. Schreier ~Laurel~SAG~
+7/26/2024~19~Swords & Sails ~~--~Demo~3~~J. Williams ~Exhibit Hall VR Games~--~
+7/26/2024~19~Twilight Struggle: Red Sea D1/1~~--~--~1~~J. Leone ~Exhibit Hall Annex #2~TWR~
+7/26/2024~19~Battle Line R1/2~~B~SwEl~1~~S. McCulloch ~Seasons~BAT~
+7/26/2024~19~Diplomacy R1/3~~B~SW~4~~T. Haver ~Dogwood~DIP~
+7/26/2024~19~MBT R2/3~~B~SwEl~5~~J. Squibb ~Fox Den~MBT~
+7/26/2024~19~Puerto Rico H2/3~~B~HMW-P~2~~R. Shay ~Seasons~PRO~
+7/26/2024~19~Ra! QF~~B~HWO~2~~S. Scott ~Grand Ballroom~RA!~
+7/26/2024~19~Terraforming Mars SF~~A~HWO~4~~B. Crenshaw ~Seasons~TFM~
+7/26/2024~19~Memoir '44 F~~B~SEM~2~~S. Edelston ~Maple~M44~
+7/26/2024~19~Monsters Menace America F~~C~HMW-P~2~~D. Pack ~Grand Ballroom~MMA~
+7/26/2024~20~LiftOff 2.0 ~~--~Demo~3~~F. Bronner ~Exhibit Hall VR Games~--~
+7/26/2024~20~Battle Line R2/2~~B~SwEl~1~~S. McCulloch ~Seasons~BAT~
+7/26/2024~20~Crokinole R2/4~~C~SwEl~2~~S. Brown ~Sunburst~CRK~
+7/26/2024~20~Leaping Lemmings H4/4~~C~HWO~2~~B. Powers ~Wintergreen~LLM~
+7/26/2024~20~Twilight Struggle: Red Sea R1M~~B~SEM~1~~J. Leone ~Maple~TWR~
+7/26/2024~20~War of the Ring R1/4~~B~SEM~4~~C. Trimmer ~First Tracks Slopeside~WOR~
+7/26/2024~21~B-17 After Action Meeting --~~--~--~3~~M. Yoshikawa ~Foggy Brews~--~
+7/26/2024~21~Acquire H3/3~~B~HMW-P~2~~C. Ackman ~Snowflake~ACQ~
+7/26/2024~21~Concordia H2/2~~B~HMW-P~2~~R. Kircher ~Seasons~CNC~
+7/26/2024~21~Battle Line QF~~B~SwEl~1~~S. McCulloch ~Seasons~BAT~
+7/26/2024~21~Evolution SF~~B~HMW-P~2~~T. O'Flynn ~Wintergreen~EVL~
+7/26/2024~21~Heat SF~~B~HWO~2~~D. Smith ~Alpine~HET~
+7/26/2024~21~Ra! SF~~B~HWO~2~~S. Scott ~Grand Ballroom~RA!~
+7/26/2024~21~Wilderness War SF~~B~SwEl~4~~G. LaDue ~First Tracks Center~WNW~
+7/26/2024~21~Advanced Squad Leader Starter Kit F~~B~SEM~3~~P. Cocke ~First Tracks Poolside~ASK~
+7/26/2024~22~Liar's Dice D1/1~~--~--~1~~E. Anderson ~Exhibit Hall Annex #?~LID~
+7/26/2024~22~Battle Line SF~~B~SwEl~1~~S. McCulloch ~Seasons~BAT~
+7/26/2024~23~Memoir '44 Overlord - Push to the Roer ~~--~Demo~2~~S. Edelston ~Maple~--~
+7/26/2024~23~Werewolf ~~--~Demo~2~~S. Buckwalter ~First Tracks Poolside~--~
+7/26/2024~23~Liar's Dice R1/1~~B~SE~1~~E. Anderson ~Grand Ballroom~LID~
+7/26/2024~23~Battle Line F~~B~SwEl~1~~S. McCulloch ~Seasons~BAT~
+7/26/2024~23~Cascadia F~~B~HWO~2~~P. Klayder ~Laurel~CAS~
+7/26/2024~23~Evolution F~~B~HMW-P~2~~T. O'Flynn ~Wintergreen~EVL~
+7/26/2024~23~Heat F~~B~HWO~2~~D. Smith ~Laurel~HET~
+7/26/2024~23~Ra! F~~B~HWO~2~~S. Scott ~Laurel~RA!~
+7/26/2024~24~Liar's Dice SF~~B~SE~1~~E. Anderson ~Grand Ballroom~LID~
+7/27/2024~1~Liar's Dice F~~B~SE~1~~E. Anderson ~Grand Ballroom~LID~
+7/27/2024~8~Registration --~~--~--~14~~K. Gutermuth ~Stag Pass~--~
+7/27/2024~8~Shuttle to Airport --~~--~--~2~~ ~Hotel Lobby~--~
+7/27/2024~8~WBC After Action Meeting --~~--~--~1~~K. Gutermuth ~Snowflake~--~
+7/27/2024~9~Open Gaming --~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~
+7/27/2024~9~Open Gaming Library --~~--~--~14~~S. Buckwalter ~Exhibit Hall~--~
+7/27/2024~9~Can't Stop Juniors --~~C~Jr SE~2~~T. Evinger ~Hemlock~--~
+7/27/2024~9~Space Base D1/1~~--~--~1~~J. Coussis ~Exhibit Hall Annex #2~SBS~
+7/27/2024~9~Atlantic Storm H3/3~~A~HMW-P~2~~S. Nerney ~Grand Ballroom~ACS~
+7/27/2024~9~Battle Cry R1/4~~B~SEM~2~~G. Heintzelman ~First Tracks Center~BCY~
+7/27/2024~9~Conquest of Paradise H3/3~~B~HMW-P~3~~K. McPartland ~Snowflake~CQP~
+7/27/2024~9~MBT R3/3~~B~SwEl~5~~J. Squibb ~Snowflake~MBT~
+7/27/2024~9~Ra: The Dice Game H4/4~~B~HWO~1~~S. Roy ~Seasons~RDG~
+7/27/2024~9~Race for the Galaxy H1/4~~B~HMW-P~2~~E. Freeman ~Alpine~RFG~
+7/27/2024~9~Twilight Struggle: Red Sea R1/5~~B~SEM~1~~J. Leone ~Fox Den~TWR~
+7/27/2024~9~War of the Ring R2/4~~B~SEM~4~~C. Trimmer ~First Tracks Slopeside~WOR~
+7/27/2024~9~Washington's War R1/3~~A~SwEl~3~~B. Peeck ~Maple~WWR~
+7/27/2024~9~Wooden Ships & Iron Men (Fleet Action) R8/8~~B~SwEl~2~~T. Hitchings ~Winterberry~WSM~
+7/27/2024~9~Superstar Baseball QF~~B~SwEl~1~~J. Beckman ~Evergreen~SSB~
+7/27/2024~9~Border Reivers SF~~B~HMW-P~4~~E. Beach ~Rathskeller~BRV~
+7/27/2024~9~Charioteer SF~~B~HMW-P~2~~E. Rader ~Seasons~CTR~
+7/27/2024~9~Everdell SF~~B~HMW-P~2~~N. Henning ~Wintergreen~EVD~
+7/27/2024~9~Leaping Lemmings SF~~C~HWO~2~~B. Powers ~Wintergreen~LLM~
+7/27/2024~9~Lords of Waterdeep SF~~B~HMW-P~2~~P. St. Pierre ~Seasons~LWD~
+7/27/2024~9~Merchant of Venus SF~~B~HWO~3~~R. Irving ~Snowflake~MOV~
+7/27/2024~9~Panzerblitz SF~~C~SwEl~6~~R. Northey ~Winterberry~PZB~
+7/27/2024~9~Squad Leader SF~~A~SwEl~4~~P. Pollard ~Winterberry~SQL~
+7/27/2024~9~Afrika Korps F~~A~SwEl~7~~B. Sinigaglio ~Winterberry~AFK~
+7/27/2024~9~Age of Renaissance F~~B~HMW-P~7~~J. Spencer ~Laurel~AOR~
+7/27/2024~9~Battles of the American Revolution F~~B~SwEl~4~~D. Stiffler ~Winterberry~BAR~
+7/27/2024~9~Bitter Woods F~~A~SwEl~7~~B. Sinigaglio ~Winterberry~BWD~
+7/27/2024~9~Britannia F~~B~HMW-P~5~~J. Jordan ~Rathskeller~BRI~
+7/27/2024~9~Combat Commander F~~A~SwEl~3~~S. Myszak ~Laurel~CBC~
+7/27/2024~9~Dune F~~A~HE~5~~B. Johnson ~Alpine~DUN~
+7/27/2024~9~Great Western Trail F~~A~HMW-P~3~~D. Versak ~Seasons~GWT~
+7/27/2024~9~Here I Stand F~~B~HMW-P~6~~J. Rice ~Rathskeller~HIS~
+7/27/2024~10~Vendors --~~--~--~8~~K. Gutermuth ~Timberstone~--~
+7/27/2024~10~LiftOff 2.0 ~~--~Demo~2~~F. Bronner ~Exhibit Hall VR Games~--~
+7/27/2024~10~Memoir '44 Overlord - Stolberg Corridor ~~--~Demo~2~~S. Edelston ~Maple~--~
+7/27/2024~10~A World at War R1/1~~B~SE~60~~P. Lewis ~Winterberry~WAW~
+7/27/2024~10~Crokinole R3/4~~C~SwEl~2~~S. Brown ~Sunburst~CRK~
+7/27/2024~10~Diplomacy R2/3~~B~SW~4~~T. Haver ~Dogwood~DIP~
+7/27/2024~10~Race for the Galaxy H2/4~~B~HMW-P~2~~E. Freeman ~Alpine~RFG~
+7/27/2024~10~Space Base H1/2~~B~HMW-P~2~~J. Coussis ~Grand Ballroom~SBS~
+7/27/2024~10~Twilight Struggle: Red Sea R2/5~~B~SEM~1~~J. Leone ~Fox Den~TWR~
+7/27/2024~10~Superstar Baseball SF~~B~SwEl~1~~J. Beckman ~Evergreen~SSB~
+7/27/2024~10~The Russian Campaign SF~~A~SwEl~5~~B. Schoose ~Winterberry~TRC~
+7/27/2024~10~Boxcars F~~B~HMW-P~5~~J. Jackson ~Laurel~BXC~
+7/27/2024~10~Titan F~~A~HMW-P~5~~D. desJardins ~Laurel~TTN~
+7/27/2024~10~Waterloo F~~A~SwEl~7~~M. Musella ~Winterberry~WAT~
+7/27/2024~11~Battle Cry R2/4~~B~SEM~2~~G. Heintzelman ~First Tracks Center~BCY~
+7/27/2024~11~Castles of Mad King Ludwig H3/3~~A~HWO~2~~J. Corrado ~Seasons~CMK~
+7/27/2024~11~Twilight Struggle: Red Sea R3/5~~B~SEM~1~~J. Leone ~Fox Den~TWR~
+7/27/2024~11~Ticket to Ride QF~~B~HMW-T~2~~K. Gray ~Seasons~TTR~
+7/27/2024~11~Atlantic Storm SF~~A~HMW-P~2~~S. Nerney ~Grand Ballroom~ACS~
+7/27/2024~11~Navegador SF~~B~HMW-P~2~~C. Martin ~Wintergreen~NVG~
+7/27/2024~11~Charioteer F~~B~HMW-P~2~~E. Rader ~Seasons~CTR~
+7/27/2024~11~Everdell F~~B~HMW-P~2~~N. Henning ~Laurel~EVD~
+7/27/2024~11~Leaping Lemmings F~~C~HWO~2~~B. Powers ~Wintergreen~LLM~
+7/27/2024~11~Superstar Baseball F~~B~SwEl~3~~J. Beckman ~Evergreen~SSB~
+7/27/2024~12~Here to Slay Juniors --~~C~Jr SE~2~~K. Warrender ~Hemlock~--~
+7/27/2024~12~Crokinole R4/4~~C~SwEl~2~~S. Brown ~Sunburst~CRK~
+7/27/2024~12~Titan the Arena H3/3~~B~HMW-P~1~~K. Breza ~Seasons~TTA~
+7/27/2024~12~Washington's War R2/3~~A~SwEl~3~~B. Peeck ~Maple~WWR~
+7/27/2024~12~Win, Place, & Show H4/4~~B~HWO~3~~C. Fox ~Chestnut~WPS~
+7/27/2024~12~Conquest of Paradise SF~~B~HMW-P~3~~K. McPartland ~Snowflake~CQP~
+7/27/2024~13~Shuttle to Airport --~~--~--~2~~ ~Hotel Lobby~--~
+7/27/2024~13~Battle Cry R3/4~~B~SEM~2~~G. Heintzelman ~First Tracks Center~BCY~
+7/27/2024~13~Castles of Mad King Ludwig QF~~A~HWO~2~~J. Corrado ~Seasons~CMK~
+7/27/2024~13~Championship Formula Racing H3/3~~B~HMW-P~4~~C. Long ~First Tracks Poolside~CFR~
+7/27/2024~13~Puerto Rico H3/3~~B~HMW-P~2~~R. Shay ~Seasons~PRO~
+7/27/2024~13~Space Base H2/2~~B~HMW-P~2~~J. Coussis ~Grand Ballroom~SBS~
+7/27/2024~13~Twilight Struggle: Red Sea R4/5~~B~SEM~1~~J. Leone ~Fox Den~TWR~
+7/27/2024~13~War of the Ring R3/4~~B~SEM~4~~C. Trimmer ~First Tracks Slopeside~WOR~
+7/27/2024~13~Castles of Burgundy SF~~B~HMW-P~3~~R. Irving ~Snowflake~COB~
+7/27/2024~13~Ticket to Ride SF~~B~HMW-T~2~~K. Gray ~Seasons~TTR~
+7/27/2024~13~Atlantic Storm F~~A~HMW-P~2~~S. Nerney ~Grand Ballroom~ACS~
+7/27/2024~13~Border Reivers F~~B~HMW-P~4~~E. Beach ~Rathskeller~BRV~
+7/27/2024~13~Circus Maximus F~~C~HMW-P~4~~J. Githens ~Wintergreen~CMS~
+7/27/2024~13~Fire in the Lake F~~A~HMW-T~5~~E. Guttag ~Laurel~FIL~
+7/27/2024~13~Formula De F~~C~HMW-T~3~~E. Meader ~Alpine~FDE~
+7/27/2024~13~Merchant of Venus F~~B~HWO~3~~R. Irving ~Snowflake~MOV~
+7/27/2024~13~Navegador F~~B~HMW-P~2~~C. Martin ~Laurel~NVG~
+7/27/2024~13~Paydirt F~~B~HMSE~2~~R. Pisarz ~Evergreen~PDT~
+7/27/2024~13~Squad Leader F~~A~SwEl~4~~P. Pollard ~Winterberry~SQL~
+7/27/2024~14~LiftOff 2.0 ~~--~Demo~4~~F. Bronner ~Exhibit Hall VR Games~--~
+7/27/2024~14~Memoir '44 Overlord - D-Day Landings: Operation Neptune ~~--~Demo~2~~S. Edelston ~Maple~--~
+7/27/2024~14~Euphrat & Tigris D1/1~~--~--~1~~C. Moffitt ~Exhibit Hall Annex #2~E&T~
+7/27/2024~14~Twilight Struggle: Red Sea R5/5~~B~SEM~1~~J. Leone ~Fox Den~TWR~
+7/27/2024~14~Washington's War R3/3~~A~SwEl~3~~B. Peeck ~Maple~WWR~
+7/27/2024~14~Crokinole Sweet 16~~C~SwEl~2~~S. Brown ~Sunburst~CRK~
+7/27/2024~14~Dune Imperium SF~~B~HMW-P~3~~T. Cannon ~Wintergreen~DNI~
+7/27/2024~14~MBT F~~B~SwEl~5~~J. Squibb ~Laurel~MBT~
+7/27/2024~15~Monsters Menace America Juniors --~~C~Jr SE~2~~D. Pack ~Hemlock~--~
+7/27/2024~15~Battle Cry R4/4~~B~SEM~2~~G. Heintzelman ~First Tracks Center~BCY~
+7/27/2024~15~Euphrat & Tigris H2/2~~B~HWO~2~~C. Moffitt ~Wintergreen~E&T~
+7/27/2024~15~Concordia SF~~B~HMW-P~2~~R. Kircher ~Seasons~CNC~
+7/27/2024~15~Ivanhoe SF~~B~HMW-P~2~~B. Roeper ~Grand Ballroom~IVH~
+7/27/2024~15~Titan the Arena SF~~B~HMW-P~1~~K. Breza ~Seasons~TTA~
+7/27/2024~15~Twilight Struggle: Red Sea SF~~B~SEM~1~~J. Leone ~Fox Den~TWR~
+7/27/2024~15~Conquest of Paradise F~~B~HMW-P~3~~K. McPartland ~Laurel~CQP~
+7/27/2024~15~History of the World F~~B~HMW-P~6~~R. Fournier ~Laurel~HWD~
+7/27/2024~15~Panzerblitz F~~C~SwEl~6~~R. Northey ~Winterberry~PZB~
+7/27/2024~15~Ticket to Ride F~~B~HMW-T~2~~K. Gray ~Seasons~TTR~
+7/27/2024~16~Lost Cities R3/4~~B~SwEl~1~~R. Pettis ~Seasons~LST~
+7/27/2024~16~Crokinole QF~~C~SwEl~2~~S. Brown ~Sunburst~CRK~
+7/27/2024~16~Washington's War QF~~A~SwEl~3~~B. Peeck ~Maple~WWR~
+7/27/2024~16~Space Base SF~~B~HMW-P~2~~J. Coussis ~Grand Ballroom~SBS~
+7/27/2024~16~Wooden Ships & Iron Men SF~~B~SwEl~2~~T. Hitchings ~Winterberry~WSM~
+7/27/2024~16~Castles of Burgundy F~~B~HMW-P~3~~R. Irving ~Snowflake~COB~
+7/27/2024~16~Football Strategy F~~B~HMSE~2~~B. Schoose ~Evergreen~FBS~
+7/27/2024~16~Terraforming Mars F~~A~HWO~4~~B. Crenshaw ~Snowflake~TFM~
+7/27/2024~16~Titan the Arena F~~B~HMW-P~1~~K. Breza ~Seasons~TTA~
+7/27/2024~16~Win, Place, & Show F~~B~HWO~3~~C. Fox ~Chestnut~WPS~
+7/27/2024~17~Gangsters H4/4~~B~HWO~3~~D. Galullo ~Grand Ballroom~GSR~
+7/27/2024~17~War of the Ring R4/4~~B~SEM~4~~C. Trimmer ~First Tracks Slopeside~WOR~
+7/27/2024~17~Ra: The Dice Game QF~~B~HWO~1~~S. Roy ~Seasons~RDG~
+7/27/2024~17~Acquire SF~~B~HMW-P~2~~C. Ackman ~Snowflake~ACQ~
+7/27/2024~17~Battle Cry SF~~B~SEM~2~~G. Heintzelman ~First Tracks Center~BCY~
+7/27/2024~17~Euphrat & Tigris SF~~B~HWO~2~~C. Moffitt ~Wintergreen~E&T~
+7/27/2024~17~Naval War SF~~B~HWO~3~~J. Kramer Jr ~Grand Ballroom~NVW~
+7/27/2024~17~Union Pacific SF~~B~HMW-P~2~~C. Meyer ~Snowflake~UNP~
+7/27/2024~17~Automobile F~~B~HMW-P~3~~D. Borton ~Laurel~AUT~
+7/27/2024~17~Concordia F~~B~HMW-P~2~~R. Kircher ~Laurel~CNC~
+7/27/2024~17~Ivanhoe F~~B~HMW-P~2~~B. Roeper ~Laurel~IVH~
+7/27/2024~17~Robo Rally F~~C~HWO~3~~M. Houde ~Grand Ballroom~RRY~
+7/27/2024~17~The Russian Campaign F~~A~SwEl~5~~B. Schoose ~Winterberry~TRC~
+7/27/2024~17~Twilight Struggle: Red Sea F~~B~SEM~1~~J. Leone ~Fox Den~TWR~
+7/27/2024~18~Elk Fest Juniors --~~C~Jr SE~2~~M. Yoshikawa ~Hemlock~--~
+7/27/2024~18~Lost Cities R4/4~~B~SwEl~1~~R. Pettis ~Seasons~LST~
+7/27/2024~18~Wabash Cannonball H2/2~~B~HMW-P~2~~S. Cameron ~Sunburst~WCB~
+7/27/2024~18~JamSumo QF~~C~SwEl~2~~S. Brown ~Sunburst~JAM~
+7/27/2024~18~Crokinole SF~~C~SwEl~2~~S. Brown ~Sunburst~CRK~
+7/27/2024~18~Ra: The Dice Game SF~~B~HWO~1~~S. Roy ~Seasons~RDG~
+7/27/2024~18~Dune Imperium F~~B~HMW-P~3~~T. Cannon ~Laurel~DNI~
+7/27/2024~18~Galaxy Trucker F~~B~HMW-P~2~~D. Finberg ~First Tracks Center~GXT~
+7/27/2024~18~Space Base F~~B~HMW-P~2~~J. Coussis ~Grand Ballroom~SBS~
+7/27/2024~18~The Napoleonic Wars F~~B~HWO~6~~G. Williams ~Rathskeller~TNW~
+7/27/2024~19~Swords & Sails ~~--~Demo~3~~J. Williams ~Exhibit Hall VR Games~--~
+7/27/2024~19~Memoir '44 Overlord - The Bastogne Corridor Overthrough ~~--~Demo~2~~S. Edelston ~Maple~--~
+7/27/2024~19~Diplomacy R3/3~~B~SW~4~~T. Haver ~Dogwood~DIP~
+7/27/2024~19~JamSumo SF~~C~SwEl~2~~S. Brown ~Sunburst~JAM~
+7/27/2024~19~Washington's War SF~~A~SwEl~3~~B. Peeck ~Maple~WWR~
+7/27/2024~19~Ace of Aces F~~C~SwEl~1~~M. Chesnut ~Evergreen~AOA~
+7/27/2024~19~Acquire F~~B~HMW-P~2~~C. Ackman ~Laurel~ACQ~
+7/27/2024~19~Battle Cry F~~B~SEM~2~~G. Heintzelman ~First Tracks Center~BCY~
+7/27/2024~19~Crokinole F~~C~SwEl~2~~S. Brown ~Sunburst~CRK~
+7/27/2024~19~Euphrat & Tigris F~~B~HWO~2~~C. Moffitt ~Wintergreen~E&T~
+7/27/2024~19~Ra: The Dice Game F~~B~HWO~1~~S. Roy ~Seasons~RDG~
+7/27/2024~19~Union Pacific F~~B~HMW-P~2~~C. Meyer ~Laurel~UNP~
+7/27/2024~19~Wooden Ships & Iron Men F~~B~SwEl~2~~T. Hitchings ~Winterberry~WSM~
+7/27/2024~20~LiftOff 2.0 ~~--~Demo~3~~F. Bronner ~Exhibit Hall VR Games~--~
+7/27/2024~20~Lost Cities QF~~B~SwEl~1~~R. Pettis ~Seasons~LST~
+7/27/2024~20~Gangsters SF~~B~HWO~3~~D. Galullo ~Alpine~GSR~
+7/27/2024~20~Puerto Rico SF~~B~HMW-P~2~~R. Shay ~Seasons~PRO~
+7/27/2024~20~Wabash Cannonball SF~~B~HMW-P~2~~S. Cameron ~Sunburst~WCB~
+7/27/2024~20~Five Tribes F~~B~HMW-P~2~~C. Wildes ~Laurel~5TR~
+7/27/2024~20~JamSumo F~~C~SwEl~2~~S. Brown ~Sunburst~JAM~
+7/27/2024~20~Naval War F~~B~HWO~3~~J. Kramer Jr ~Alpine~NVW~
+7/27/2024~20~Power Grid F~~A~HMW-P~3~~M. Munson ~Alpine~PGD~
+7/27/2024~21~A World at War After Action Meeting --~~--~--~3~~P. Lewis ~Foggy Brews~--~
+7/27/2024~21~Facts in Five R1/1~~C~SE~2~~J. Corrado ~Grand Ballroom~FI5~
+7/27/2024~21~Carcassonne QF~~B~HMW-P~1~~J. Visocnik ~Wintergreen~CAR~
+7/27/2024~21~Lost Cities SF~~B~SwEl~1~~R. Pettis ~Seasons~LST~
+7/27/2024~21~War of the Ring SF~~B~SEM~4~~C. Trimmer ~First Tracks Slopeside~WOR~
+7/27/2024~21~Brass F~~B~HMW-P~3~~A. Jiang ~Alpine~BRS~
+7/27/2024~22~Carcassonne SF~~B~HMW-P~1~~J. Visocnik ~Wintergreen~CAR~
+7/27/2024~22~Lost Cities F~~B~SwEl~1~~R. Pettis ~Seasons~LST~
+7/27/2024~22~Puerto Rico F~~B~HMW-P~2~~R. Shay ~Laurel~PRO~
+7/27/2024~22~Vegas Showdown F~~B~HMW-P~2~~E. Freeman ~Laurel~VSD~
+7/27/2024~22~Wabash Cannonball F~~B~HMW-P~2~~S. Cameron ~Sunburst~WCB~
+7/27/2024~22~Washington's War F~~A~SwEl~3~~B. Peeck ~Maple~WWR~
+7/27/2024~23~Open Gaming Library Closes --~~--~--~--~~S. Buckwalter ~Exhibit Hall~--~
+7/27/2024~23~Carcassonne F~~B~HMW-P~1~~J. Visocnik ~Wintergreen~CAR~
+7/28/2024~4~Shuttle to Airport --~~--~--~2~~ ~Hotel Lobby~--~
+7/28/2024~8~Christian Worship Service --~~--~--~1~~G. Petroski ~Sunburst~--~
+7/28/2024~8~Registration --~~--~--~6~~K. Gutermuth ~Stag Pass~--~
+7/28/2024~9~Open Gaming --~~--~--~5~~S. Buckwalter ~Exhibit Hall~--~
+7/28/2024~9~Shuttle to Airport --~~--~--~2~~ ~Hotel Lobby~--~
+7/28/2024~9~Swords & Sails ~~--~Demo~3~~J. Williams ~Exhibit Hall VR Games~--~
+7/28/2024~9~Transamerica D1/1~~--~--~1~~K. Breza ~Grand Ballroom~TAM~
+7/28/2024~9~Attack Sub R1/3~~A~SwEl~1~~A. Lewis ~Seasons~ATS~
+7/28/2024~9~Race for the Galaxy H3/4~~B~HMW-P~2~~E. Freeman ~Grand Ballroom~RFG~
+7/28/2024~9~Castles of Mad King Ludwig SF~~A~HWO~2~~J. Corrado ~Seasons~CMK~
+7/28/2024~9~March Madness SF~~B~HMSE~1~~B. Reiff ~Seasons~MMS~
+7/28/2024~9~Pirate's Cove SF~~C~HMW-P~2~~J. Brown ~Grand Ballroom~PRC~
+7/28/2024~9~Championship Formula Racing F~~B~HMW-P~4~~C. Long ~Seasons~CFR~
+7/28/2024~9~Enemy in Sight F~~B~HWO~3~~M. Evinger ~Grand Ballroom~EIS~
+7/28/2024~9~Gangsters F~~B~HWO~3~~D. Galullo ~Grand Ballroom~GSR~
+7/28/2024~9~War of the Ring F~~B~SEM~4~~C. Trimmer ~Seasons~WOR~
+7/28/2024~9~Wilderness War F~~B~SwEl~4~~G. LaDue ~Seasons~WNW~
+7/28/2024~10~Catholic Mass --~~--~--~1~~ ~Sunburst~--~
