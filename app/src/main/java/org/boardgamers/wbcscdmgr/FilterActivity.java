@@ -6,6 +6,7 @@ import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -25,7 +26,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class FilterActivity extends AppCompatActivity {
-//	private final String TAG = "Filter Activity";
+	private final String TAG = "Filter Activity";
 
 	private final int SECTION_TOURNAMENT_ID = 1000;
 
@@ -179,7 +180,7 @@ public class FilterActivity extends AppCompatActivity {
 			if (tournament.visible) {
 				tournament.visible = false;
 				changedTournaments.add(tournament);
-			}
+				}
 		}
 
 		listAdapter.notifyDataSetChanged();
@@ -262,6 +263,7 @@ public class FilterActivity extends AppCompatActivity {
 		@Override
 		protected Void doInBackground(Void... params) {
 			dbHelper.updateTournamentsVisible(changedTournaments);
+			Log.d(TAG, "doInBackground changed");
 			return null;
 		}
 	}
@@ -326,6 +328,9 @@ public class FilterActivity extends AppCompatActivity {
 						changedTournaments = new ArrayList<>();
 						changedTournaments.add(tournaments.get(position));
 						save();
+						// added to fix filtering 6/22/24 JLF
+						Log.d(TAG, "checkbox changed for tournament " + tournaments.get(position) + String.valueOf(tournaments.get(position).label) + String.valueOf(tournaments.get(position).id) + tournaments.get(position).visible);
+						//listAdapter.notifyDataSetChanged();
 					}
 				});
 

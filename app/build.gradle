@@ -14,8 +14,8 @@ android {
 		targetSdkVersion 27
 		*/
 		targetSdkVersion 33
-		versionCode 20240101
-		versionName "2024.101"
+		versionCode 20240103
+		versionName "2024.103"
 	}
 
 	buildTypes {

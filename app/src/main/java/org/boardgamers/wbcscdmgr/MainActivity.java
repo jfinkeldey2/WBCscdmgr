@@ -7,6 +7,7 @@ import android.app.NotificationChannel;
 import android.app.NotificationManager;
 import android.app.SearchManager;
 import android.content.ComponentName;
+import android.content.ContentValues;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -94,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
 			Toast.makeText(this,
 					"ERROR: Could not find version code, contact " + getResources().getString(R.string.email) +
 							" for help.", Toast.LENGTH_LONG).show();
-			currentVersion = 20240101; // TODO set as version code here and android manifest and gradle build
+			currentVersion = 20240103; // TODO set as version code here and android manifest and gradle build
 			e.printStackTrace();
 		}
 
@@ -184,11 +185,18 @@ public class MainActivity extends AppCompatActivity {
 	@Override
 	protected void onResume() {
 
+		Log.d(TAG, "Start of onResume " + fromFilter);
 		if (fromFilter) {
 			fromFilter = false;
-			pagerAdapter.getItem(1).reloadAdapterData();
+			//  this is where the changedevents list has to be reloaded
+			//pagerAdapter.getItem(1).reloadAdapterData();
+			// this method is blank
+
+			pagerAdapter.notifyDataSetChanged();
+
 		}
 
+		Log.d(TAG, " Resume Main selectedEventID " + selectedEventId);
 		if (selectedEventId > -1) {
 			WBCDataDbHelper dbHelper = new WBCDataDbHelper(this);
 			dbHelper.getReadableDatabase();
@@ -408,9 +416,11 @@ public class MainActivity extends AppCompatActivity {
 			startActivity(new Intent(this, HelpActivity.class));
 		} else if (item.getItemId() == R.id.menu_about) {
 			startActivity(new Intent(this, AboutActivity.class));
-		} else if (item.getItemId() == R.id.menu_filter) {
+		} else if (item.getItemId() == R.id.menu_privacy) {
+			startActivity(new Intent(this, PrivacyActivity.class));
+		/* }  else if (item.getItemId() == R.id.menu_filter) {
 			fromFilter = true;
-			startActivity(new Intent(this, FilterActivity.class));
+			startActivity(new Intent(this, FilterActivity.class)); */
 		} else if (item.getItemId() == R.id.menu_settings) {
 			startActivity(new Intent(this, SettingsActivity.class));
 		} else {

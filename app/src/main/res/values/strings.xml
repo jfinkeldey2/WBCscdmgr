@@ -24,7 +24,7 @@
 	<string name="user_events">My Events</string>
 	<string name="edit_event">Edit Event</string>
 	<string name="add_event">Add Event</string>
-	<string name="delete_all">Delete All</string>
+	<string name="delete_all">Delete All Events</string>
 	<string name="star">Star</string>
 	<string name="search">Search</string>
 	<string name="search_hint">Search title or format</string>
@@ -46,6 +46,7 @@
 	<string name="activity_settings">Settings</string>
 	<string name="activity_filter">Filter Schedule</string>
 	<string name="activity_help">Help</string>
+	<string name="activity_privacy">Privacy</string>
 	<string name="activity_about">About</string>
 	<string name="activity_splash">Saving schedule to device&#8230;</string>
 	<string name="activity_import_schedule">Import Schedule</string>
@@ -328,6 +329,10 @@
 	<string name="about_developer_text">Created by Jeff Finkeldey based on code by Kevin Broh-Kahn\ndev@boardgamers.org</string>
 	<string name="about_others_text">Schedule file courtesy of Jeff Finkeldey\nMaps courtesy of Jason Long</string>
 
+	<!-- PRIVACY -->
+	<string name="privacy_text">The privacy policy of the BPA for this app is that no user information is requested or stored.</string>
+	<string name="privacy_link">For more information, see \nhttp://boardgamers.org/contact.html</string>
+
 	<!-- HELP -->
 	<string name="how_to_help">Select a help topic to expand and show info</string>
 	<string-array name="help_headers">
@@ -368,9 +373,7 @@
 	  search for and select a tournament to view and/or star all of its events.
     For example, to find every Power Grid event, type "Power"
     and select "Power Grid" from the list, or type "Power Grid" and hit search. Or to
-    view every demo event in the convention, type "Demo" and hit search. If you want to
-    view all the tournaments and filter down the list to your favorites,
-    use "Filter Schedule" from the main menu.
+    view every demo event in the convention, type "Demo" and hit search.
     \n\nSAVING: App settings, tournament finishes, event notes, etc.
     are all saved automatically, so do not worry about losing your settings!
     \n\nPlease contact dev@boardgamers.org with any further questions.

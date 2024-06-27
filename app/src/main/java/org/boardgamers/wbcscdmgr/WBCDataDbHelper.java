@@ -479,6 +479,7 @@ class WBCDataDbHelper extends SQLiteOpenHelper {
 	}
 
 	Tournament getTournament(long userId, long tournamentId) {
+		Log.d(TAG, "starting getTournament");
 		String where = TournamentEntry.TABLE_NAME + "." + TournamentEntry._ID + "=" +
 				String.valueOf(tournamentId);
 		List<Tournament> tournaments = getTournaments(userId, where);
@@ -498,11 +499,14 @@ class WBCDataDbHelper extends SQLiteOpenHelper {
 	}
 
 	List<Tournament> getAllTournaments(long userId) {
+		Log.d(TAG, "starting getAllTournaments");
 		String where = "";
 		return getTournaments(userId, where);
 	}
 
-	private List<Tournament> getTournaments(long uId, String where) {
+	public List<Tournament> getTournaments(long uId, String where) {
+		// changed from private to public 6/26/24 JLF
+		Log.d(TAG, "starting getTournaments");
 		String sortOrder = TournamentEntry.COLUMN_TITLE + " ASC";
 
 		if (!where.equalsIgnoreCase("")) {
@@ -540,8 +544,6 @@ class WBCDataDbHelper extends SQLiteOpenHelper {
 //				finalEventId = cursor.getInt(cursor.getColumnIndexOrThrow(TournamentEntry.COLUMN_FINAL_EVENT));
 				visible = cursor.getInt(cursor.getColumnIndexOrThrow(TournamentEntry.COLUMN_VISIBLE)) == 1;
 				finish = cursor.getInt(cursor.getColumnIndexOrThrow(UserTournamentDataEntry.COLUMN_FINISH));
-
-				Log.d(TAG, "Id is " + String.valueOf(id));
 
 				tournament = new Tournament(id, title, label, isTournament, prize, gm);
 				tournament.finish = finish;
@@ -705,17 +707,27 @@ class WBCDataDbHelper extends SQLiteOpenHelper {
 	}
 
 	long updateTournamentsVisible(List<Tournament> tournaments) {
+		Log.d(TAG, "starting updateTournamentsVisible");
 		ContentValues values;
 		String where;
 		long result = 0;
 		for (Tournament tournament : tournaments) {
+			Log.d(TAG, "tournament " + String.valueOf(tournament.label));
+			Log.d(TAG, "visible " + String.valueOf(tournament.visible));
 
 			values = new ContentValues();
 			values.put(TournamentEntry.COLUMN_VISIBLE, tournament.visible ? 1 : 0);
 
-			where = TournamentEntry._ID + "=" + String.valueOf(tournament.id);
+//			it appears the tournament ID has been commented out by Keving 6/24/24 JLF
+//			where = TournamentEntry._ID + "=" + String.valueOf(tournament.id);
+			where = TournamentEntry.COLUMN_LABEL + "= \"" + String.valueOf(tournament.label) + "\" ";
 
+			Log.d(TAG, "updating tournament "+ String.valueOf(tournament.label));
+			Log.d(TAG, "Tournament entry for AFK ");
 			result += sqLiteDatabase.update(TournamentEntry.TABLE_NAME, values, where, null);
+			Log.d(TAG, "result vars " + String.valueOf(values) + String.valueOf(where));
+			Log.d(TAG, "result " + String.valueOf(result));
+
 		}
 		return result;
 	}
