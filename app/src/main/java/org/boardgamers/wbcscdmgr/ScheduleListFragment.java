@@ -14,8 +14,7 @@ import java.util.List;
 public class ScheduleListFragment extends DefaultListFragment {
 	private final String TAG = "Schedule List Fragment";
 
-	public static final int GROUPS_PER_DAY = 18 + 1;
-
+    public static final int GROUPS_PER_DAY = 18 + 1;
 
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -130,7 +129,6 @@ public class ScheduleListFragment extends DefaultListFragment {
 	private class ScheduleListAdapter extends DefaultListAdapter implements SectionIndexer {
 		// 18 hours per day (0700 thru 2400) plus "My Events"
 		private final int GROUP_HOUR_OFFSET = 7 - 1;    // first hour is 7, offset 1 hour for "My Events"
-
 		private final String[] hours;
 		private final String[] sections;
 
