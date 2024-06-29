@@ -152,6 +152,7 @@
 	</string-array>
 
 	<!-- TIMES AND DURATION -->
+	<!-- test
 	<string-array name="hours_12">
 		<item>7 AM</item>
 		<item>8 AM</item>
@@ -172,6 +173,7 @@
 		<item>11 PM</item>
 		<item>12 AM</item>
 	</string-array>
+	-->
 	<string-array name="hours_24">
 		<item>0700</item>
 		<item>0800</item>
