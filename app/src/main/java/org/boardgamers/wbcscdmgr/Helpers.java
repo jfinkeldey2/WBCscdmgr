@@ -42,7 +42,7 @@ class Helpers {
 
 	private static Calendar getFirstDayCalendar() {
 		SimpleDateFormat dateFormatter = new SimpleDateFormat("M/dd/yyyy HH:mm:ss z", Locale.ENGLISH);
-		String firstDayString = "7/21/2023 00:00:00 EST";
+		String firstDayString = "7/19/2024 00:00:00 EST";
 		Calendar firstDayCalendar = Calendar.getInstance();
 		try {
 			Date firstDayDate = dateFormatter.parse(firstDayString);

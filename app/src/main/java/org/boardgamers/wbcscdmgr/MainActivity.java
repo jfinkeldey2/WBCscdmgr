@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
 			Toast.makeText(this,
 					"ERROR: Could not find version code, contact " + getResources().getString(R.string.email) +
 							" for help.", Toast.LENGTH_LONG).show();
-			currentVersion = 20240103; // TODO set as version code here and android manifest and gradle build
+			currentVersion = 20240106; // TODO set as version code here and android manifest and gradle build
 			e.printStackTrace();
 		}
 

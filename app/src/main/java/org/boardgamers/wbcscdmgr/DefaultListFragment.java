@@ -48,12 +48,14 @@ public class DefaultListFragment extends Fragment {
 		listView = view.findViewById(R.id.default_list_view);
 
 		star = view.findViewById(R.id.sl_star);
-		star.setOnClickListener(new View.OnClickListener() {
-			@Override
-			public void onClick(View v) {
-				showSaveDialog();
-			}
-		});
+//	Commenting out the below disables clicking the star that changes all displayed
+//  events which lead to crashes.  JLF 7/16/24
+//		star.setOnClickListener(new View.OnClickListener() {
+//			@Override
+//			public void onClick(View v) {
+//				showSaveDialog();
+//			}
+//		});
 
 		hoursIntoConvention = Helpers.getHoursIntoConvention();
 
