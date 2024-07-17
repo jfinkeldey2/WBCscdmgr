@@ -14,7 +14,7 @@ android {
 		targetSdkVersion 27
 		*/
 		targetSdkVersion 33
-		versionCode 20240105
+		versionCode 20240106
 		versionName "2024.106"
 	}
 
