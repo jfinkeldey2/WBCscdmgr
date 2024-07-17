@@ -11,7 +11,7 @@
 		android:layout_height="wrap_content"
 		android:layout_margin="@dimen/activity_margin"
 		android:background="@drawable/star_off"
-		android:contentDescription="@string/star"/>
+		android:contentDescription="@string/star" />
 
 	<TextView
 		style="@style/list_item"
