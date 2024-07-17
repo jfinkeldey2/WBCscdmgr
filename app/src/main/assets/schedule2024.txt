@@ -229,7 +229,7 @@
 7/22/2024~9~Over the Rhine ~~--~Demo~12~~D. Johnson ~Winterberry~--~
 7/22/2024~9~Love Letter Juniors --~~C~Jr SE~2~~E. Evinger ~Hemlock~--~
 7/22/2024~9~Brass D1/1~~--~--~1~~A. Jiang ~Exhibit Hall Annex #1~BRS~
-7/22/2024~9~Power Grid D1/1~~--~--~2~~M. Munson ~Exhibit Hall Annex #2~PGD~
+7/22/2024~9~Power Grid D1/1~~--~--~1~~M. Munson ~Exhibit Hall Annex #2~PGD~
 7/22/2024~9~The Barracks Emperors D2/2~~--~--~1~~W. Ferrell ~Exhibit Hall Annex #5~TBE~
 7/22/2024~9~Wingspan D1/1~~--~--~1~~P. Swift ~Exhibit Hall Annex #6~WSN~
 7/22/2024~9~Acquire H1/3~~B~HMW-P~2~~C. Ackman ~Wintergreen~ACQ~
@@ -1109,3 +1109,39 @@
 7/28/2024~8~Christian Worship Service --~~--~--~1~~G. Petroski ~Sunburst~--~
 7/28/2024~8~Registration --~~--~--~6~~K. Gutermuth ~Stag Pass~--~
 7/28/2024~9~Open Gaming --~~--~--~5~~S. Buckwalter ~Exhibit Hall~--~
+7/28/2024~9~Shuttle to Airport --~~--~--~2~~ ~Hotel Lobby~--~
+7/28/2024~9~Swords & Sails ~~--~Demo~3~~J. Williams ~Exhibit Hall VR Games~--~
+7/28/2024~9~Transamerica D1/1~~--~--~1~~K. Breza ~Grand Ballroom~TAM~
+7/28/2024~9~Attack Sub R1/3~~A~SwEl~1~~A. Lewis ~Seasons~ATS~
+7/28/2024~9~Race for the Galaxy H3/4~~B~HMW-P~2~~E. Freeman ~Grand Ballroom~RFG~
+7/28/2024~9~Castles of Mad King Ludwig SF~~A~HWO~2~~J. Corrado ~Seasons~CMK~
+7/28/2024~9~March Madness SF~~B~HMSE~1~~B. Reiff ~Seasons~MMS~
+7/28/2024~9~Pirate's Cove SF~~C~HMW-P~2~~J. Brown ~Grand Ballroom~PRC~
+7/28/2024~9~Championship Formula Racing F~~B~HMW-P~4~~C. Long ~Seasons~CFR~
+7/28/2024~9~Enemy in Sight F~~B~HWO~3~~M. Evinger ~Grand Ballroom~EIS~
+7/28/2024~9~Gangsters F~~B~HWO~3~~D. Galullo ~Grand Ballroom~GSR~
+7/28/2024~9~War of the Ring F~~B~SEM~4~~C. Trimmer ~Seasons~WOR~
+7/28/2024~9~Wilderness War F~~B~SwEl~4~~G. LaDue ~Seasons~WNW~
+7/28/2024~10~Catholic Mass --~~--~--~1~~ ~Sunburst~--~
+7/28/2024~10~LiftOff 2.0 ~~--~Demo~3~~F. Bronner ~Exhibit Hall VR Games~--~
+7/28/2024~10~Attack Sub R2/3~~A~SwEl~1~~A. Lewis ~Seasons~ATS~
+7/28/2024~10~Race for the Galaxy H4/4~~B~HMW-P~2~~E. Freeman ~Grand Ballroom~RFG~
+7/28/2024~10~Transamerica H1/1~~B~HMW-P~1~~K. Breza ~Grand Ballroom~TAM~
+7/28/2024~10~Lords of Waterdeep F~~B~HMW-P~2~~P. St. Pierre ~Seasons~LWD~
+7/28/2024~10~March Madness F~~B~HMSE~1~~B. Reiff ~Seasons~MMS~
+7/28/2024~11~Attack Sub R3/3~~A~SwEl~1~~A. Lewis ~Seasons~ATS~
+7/28/2024~11~Race for the Galaxy SF~~B~HMW-P~2~~E. Freeman ~Grand Ballroom~RFG~
+7/28/2024~11~Transamerica SF~~B~HMW-P~1~~K. Breza ~Grand Ballroom~TAM~
+7/28/2024~11~Castles of Mad King Ludwig F~~A~HWO~2~~J. Corrado ~Seasons~CMK~
+7/28/2024~11~Pirate's Cove F~~C~HMW-P~2~~J. Brown ~Grand Ballroom~PRC~
+7/28/2024~12~Attack Sub QF~~A~SwEl~1~~A. Lewis ~Seasons~ATS~
+7/28/2024~12~Race for the Galaxy F~~B~HMW-P~2~~E. Freeman ~Grand Ballroom~RFG~
+7/28/2024~12~Transamerica F~~B~HMW-P~1~~K. Breza ~Grand Ballroom~TAM~
+7/28/2024~13~Shuttle to Airport --~~--~--~2~~ ~Hotel Lobby~--~
+7/28/2024~13~Attack Sub SF~~A~SwEl~1~~A. Lewis ~Seasons~ATS~
+7/28/2024~14~Open Gaming Closes --~~--~--~--~~S. Buckwalter ~Exhibit Hall~--~
+7/28/2024~14~Open Gaming --~~--~--~8~~K. Gutermuth ~Seasons~--~
+7/28/2024~14~Attack Sub F~~A~SwEl~1~~A. Lewis ~Seasons~ATS~
+7/28/2024~16~Shuttle to Airport --~~--~--~2~~ ~Hotel Lobby~--~
+7/28/2024~22~Open Gaming Closes --~~--~--~--~~K. Gutermuth ~Seasons~--~
+7/29/2024~10~Shuttle to Airport --~~--~--~2~~ ~Hotel Lobby~--~
