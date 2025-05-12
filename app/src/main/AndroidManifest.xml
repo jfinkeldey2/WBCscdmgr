@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest
 	xmlns:android="http://schemas.android.com/apk/res/android"
-    android:versionCode="20250102"
-	android:versionName="2025.102">
+    android:versionCode="20250103"
+	android:versionName="2025.103">
 
 	<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+	<!--
+	5/12/2025 Taking out these permissions as they are deprecated
 	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
 	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+	-->
+
 	<uses-permission android:name="android.permission.INTERNET"/>
 	<uses-permission android:name="android.permission.GET_ACCOUNTS"/>
 	<uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
