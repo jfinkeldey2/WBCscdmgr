@@ -2,8 +2,8 @@
 <resources>
 
 	<!-- APP DETAILS -->
-	<string name="app_name_long">World Boardgaming Championships 2024</string>
-	<string name="app_name_short">WBC 2024</string>
+	<string name="app_name_long">World Boardgaming Championships 2025</string>
+	<string name="app_name_short">WBC 2025</string>
 	<string name="email">dev@boardgamers.org</string>
 	<string name="notification_title">WBC: Events starting soon</string>
 
@@ -205,30 +205,30 @@
 
 	<!-- APP SPECIFIC STRINGS AND ARRAYS -->
 	<string-array name="daysForParsing">
-		<item>7/19/2024</item>
-		<item>7/20/2024</item>
-		<item>7/21/2024</item>
-		<item>7/22/2024</item>
-		<item>7/23/2024</item>
-		<item>7/24/2024</item>
-		<item>7/25/2024</item>
-		<item>7/26/2024</item>
-		<item>7/27/2024</item>
-		<item>7/28/2024</item>
-		<item>7/29/2024</item>
+		<item>7/25/2025</item>
+		<item>7/26/2025</item>
+		<item>7/27/2025</item>
+		<item>7/28/2025</item>
+		<item>7/29/2025</item>
+		<item>7/30/2025</item>
+		<item>7/31/2025</item>
+		<item>8/01/2025</item>
+		<item>8/02/2025</item>
+		<item>8/03/2025</item>
+		<item>8/04/2025</item>
 	</string-array>
 	<string-array name="days">
-		<item>Fr 7/19</item>
-		<item>Sa 7/20</item>
-		<item>Su 7/21</item>
-		<item>Mo 7/22</item>
-		<item>Tu 7/23</item>
-		<item>We 7/24</item>
-		<item>Th 7/25</item>
-		<item>Fr 7/26</item>
-		<item>Sa 7/27</item>
-		<item>Su 7/28</item>
-		<item>SMo 7/29</item>
+		<item>Fr 7/25</item>
+		<item>Sa 7/26</item>
+		<item>Su 7/27</item>
+		<item>Mo 7/28</item>
+		<item>Tu 7/29</item>
+		<item>We 7/30</item>
+		<item>Th 7/31</item>
+		<item>Fr 8/01</item>
+		<item>Sa 8/02</item>
+		<item>Su 8/03</item>
+		<item>SMo 8/04</item>
 	</string-array>
 	<string-array name="rooms_convention_center">
 		<item>Alpine</item>
@@ -472,7 +472,7 @@
     tying up tables trolling for interest.
   </item>
 		<item>FORMAT: Before playing an event, check the
-    Event Preview at http://www.boardgamers.org/wbc24/previews-2024.html,
+    Event Preview at http://www.boardgamers.org/wbc25/previews-2025.html,
     the event kiosk, or via the tournament screen in the app by selecting
     an event or searching for that tournament. The Event Preview contains
     the details about how the event will run, any

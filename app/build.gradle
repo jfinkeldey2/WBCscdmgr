@@ -14,8 +14,8 @@ android {
 		targetSdkVersion 27
 		*/
 		targetSdkVersion 33
-		versionCode 20240106
-		versionName "2024.106"
+		versionCode 20250101
+		versionName "2025.101"
 	}
 
 	buildTypes {
@@ -27,6 +27,7 @@ android {
 			debuggable true
 		}
 	}
+    namespace 'org.boardgamers.wbcscdmgr'
 }
 
 dependencies {
