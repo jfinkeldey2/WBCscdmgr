@@ -81,7 +81,7 @@
 7/26/2025~18~Boxcars H1/3~~B~HMW-P~5~~T. Bromley ~Wintergreen~BXC~
 7/26/2025~18~Catan H2/3~~B~HMW-P~2~~I. Gitzen II ~Grand Ballroom~CTN~
 7/26/2025~18~John Company H1/2~~B~HMW-P~5~~J. Burdett ~Alpine~JCY~
-7/26/2025~18~The Napoleonic Wars H1/3~~C~HWO~6~~G. Williams ~Wagner's Run~TNW~
+7/26/2025~18~The Napoleonic Wars H1/3~~C~HWO~6~~G. Williams ~wagners Run~TNW~
 7/26/2025~19~7 Wonders H2/3~~B~HMW-P~2~~E. Shea ~Grand Ballroom~7WS~
 7/26/2025~19~Five Tribes H1/3~~B~HMW-P~2~~C. Wildes ~Sunburst~5TR~
 7/26/2025~19~Hannibal: Rome vs Carthage R2/5~~A~SW~5~~S. Tucker ~Maple~HRC~
@@ -144,7 +144,7 @@
 7/27/2025~11~Amun Re H2/3~~B~HMW-P~2~~E. Freeman ~Timberstone~AMR~
 7/27/2025~12~Dominion D1/1~~--~--~1~~R. Bielefeldt ~Exhibit Hall Annex #1~DOM~
 7/27/2025~12~Boxcars H2/3~~B~HMW-P~5~~T. Bromley ~Wintergreen~BXC~
-7/27/2025~12~Virgin Queen H1/2~~B~HMW-P~5~~M. Kiefte ~Wagner's Run~VGQ~
+7/27/2025~12~Virgin Queen H1/2~~B~HMW-P~5~~M. Kiefte ~wagners Run~VGQ~
 7/27/2025~13~Alhambra D1/1~~--~--~1~~D. Gutermuth ~Exhibit Hall Annex #2~ALH~
 7/27/2025~13~Enemy in Sight D1/1~~--~--~1~~M. Evinger ~Exhibit Hall Annex #5~EIS~
 7/27/2025~13~El Grande H1/3~~B~HMW-P~2~~R. Flowers ~Grand Ballroom~ELG~
@@ -197,7 +197,7 @@
 7/27/2025~18~Ivanhoe H1/3~~B~HMW-P~2~~B. Roeper ~Grand Ballroom~IVH~
 7/27/2025~18~Saint Petersburg H1/3~~B~HMW-P~2~~R. Feathers ~Seasons~SPG~
 7/27/2025~18~Stone Age H1/3~~B~HWO~2~~D. Stufflet ~Fox Den~STA~
-7/27/2025~18~Virgin Queen H2/2~~B~HMW-P~5~~M. Kiefte ~Wagner's Run~VGQ~
+7/27/2025~18~Virgin Queen H2/2~~B~HMW-P~5~~M. Kiefte ~wagners Run~VGQ~
 7/27/2025~19~Air Baron H1/4~~B~HMW-P~3~~M. Jamelli ~Grand Ballroom~ABN~
 7/27/2025~19~Hannibal: Rome vs Carthage R5/5~~A~SW~5~~S. Tucker ~Maple~HRC~
 7/27/2025~19~Ra: The Dice Game H1/4~~B~HWO~1~~C. Del Carpio ~Seasons~RDG~
@@ -249,7 +249,7 @@
 7/28/2025~9~Wooden Ships & iron Men R3/8~~B~SwEl~2~~T. Hitchings ~Winterberry~WSM~
 7/28/2025~9~18XX SF~~B~HMW-T~6~~T. McCorry ~Alpine~8XX~
 7/28/2025~9~Through the Ages SF~~B~HMW-P~4~~R. Buehler ~Wintergreen~AGE~
-7/28/2025~9~Virgin Queen SF~~B~HMW-P~5~~M. Kiefte ~Wagner's Run~VGQ~
+7/28/2025~9~Virgin Queen SF~~B~HMW-P~5~~M. Kiefte ~wagners Run~VGQ~
 7/28/2025~9~7 Wonders F~~B~HMW-P~2~~E. Shea ~Laurel~7WS~
 7/28/2025~10~Brass D1/1~~--~--~1~~T. Brown ~Exhibit Hall Annex #1~BRS~
 7/28/2025~10~Navegador D1/1~~--~--~1~~C. Martin ~Exhibit Hall Annex #5~NVG~
@@ -318,9 +318,9 @@
 7/28/2025~18~Atlantic Storm H1/3~~A~HMW-P~2~~S. Nerney ~Timberstone~ACS~
 7/28/2025~18~Empire Builder H1/3~~B~HMW-P~4~~B. Stribula ~Sunburst~EPB~
 7/28/2025~18~History of the World H1/2~~B~HMW-P~6~~R. Fournier ~Alpine~HWD~
-7/28/2025~18~The Napoleonic Wars H2/3~~C~HWO~6~~G. Williams ~Wagner's Run~TNW~
+7/28/2025~18~The Napoleonic Wars H2/3~~C~HWO~6~~G. Williams ~wagners Run~TNW~
 7/28/2025~18~Dominion SF~~B~HWO~1~~R. Bielefeldt ~Seasons~DOM~
-7/28/2025~18~Virgin Queen F~~B~HMW-P~5~~M. Kiefte ~Wagner's Run~VGQ~
+7/28/2025~18~Virgin Queen F~~B~HMW-P~5~~M. Kiefte ~wagners Run~VGQ~
 7/28/2025~19~Battles of the Am. Rev. D1/1~~--~--~1~~M. Miklos ~Exhibit Hall Annex #1~BAR~
 7/28/2025~19~Ark Nova H2/2~~A~HWO~3~~C. Weaver ~Seasons~AKN~
 7/28/2025~19~Lords of Waterdeep H1/3~~B~HMW-P~2~~P. St ~Seasons~LWD~
@@ -418,7 +418,7 @@
 7/29/2025~19~Juniors Movie Night --~~--~--~2~~M. Byrd ~Fox Den~--~
 7/29/2025~19~Ace of Aces H3/4~~C~HMW-P~1~~M. Chesnut ~Chestnut~AOA~
 7/29/2025~19~Battles of the Am. Rev. R2/6~~B~SwEl~5~~M. Miklos ~Winterberry~BAR~
-7/29/2025~19~Here I Stand H1/2~~B~HMW-P~6~~J. Rice ~Wagner's Run~HIS~
+7/29/2025~19~Here I Stand H1/2~~B~HMW-P~6~~J. Rice ~wagners Run~HIS~
 7/29/2025~19~Kremlin H3/4~~B~HMW-P~3~~S. Cuccaro ~Grand Ballroom~KRM~
 7/29/2025~19~March Madness H2/4~~B~HMSE~5~~B. Reiff ~Evergreen~MMS~
 7/29/2025~19~Robo Rally H1/3~~C~HWO~3~~M. Houde ~Grand Ballroom~RRY~
@@ -479,7 +479,7 @@
 7/30/2025~11~Thurn & Taxis H2/3~~B~HWO~2~~A. Latto ~Seasons~T&T~
 7/30/2025~12~Vendor Setup --~~--~--~6~~K. Gutermuth ~Timberstone~--~
 7/30/2025~12~878 Vikings R3/3~~B~SEM~3~~D. Schneider ~First Tracks Center~878~
-7/30/2025~12~Britannia H1/3~~B~HMW-P~5~~J. Jordan ~Wagner's Run~BRI~
+7/30/2025~12~Britannia H1/3~~B~HMW-P~5~~J. Jordan ~wagners Run~BRI~
 7/30/2025~12~Combat Commander R2/5~~B~SwEl~3~~N. Wagner ~Fox Den~CBC~
 7/30/2025~12~Enemy in Sight H2/3~~B~HWO~3~~M. Evinger ~Grand Ballroom~EIS~
 7/30/2025~12~Kremlin H4/4~~B~HMW-P~3~~S. Cuccaro ~Grand Ballroom~KRM~
@@ -538,7 +538,7 @@
 7/30/2025~18~History of the World H2/2~~B~HMW-P~6~~R. Fournier ~Alpine~HWD~
 7/30/2025~18~Pirate's Cove H2/3~~B~HMW-P~2~~J. Otwell ~Grand Ballroom~PRC~
 7/30/2025~18~Star Wars: Rebellion R1/2~~B~SEM~4~~A. Drummond ~First Tracks Center~SWR~
-7/30/2025~18~The Napoleonic Wars H3/3~~C~HWO~6~~G. Williams ~Wagner's Run~TNW~
+7/30/2025~18~The Napoleonic Wars H3/3~~C~HWO~6~~G. Williams ~wagners Run~TNW~
 7/30/2025~18~Commands & Colors: Napoleonics SF~~B~SwEl~2~~M. Polcen ~First Tracks Poolside~CCN~
 7/30/2025~18~John Company SF~~B~HMW-P~5~~J. Burdett ~Alpine~JCY~
 7/30/2025~18~878 Vikings F~~B~SEM~3~~D. Schneider ~First Tracks Center~878~
@@ -624,7 +624,7 @@
 7/31/2025~12~ASL Starter Kit R2/3~~B~SEM~3~~P. Cocke ~First Tracks Center~ASK~
 7/31/2025~12~B-17 R2/3~~A~SW~3~~M. Yoshikawa ~Snowflake~B17~
 7/31/2025~12~Brass H3/3~~B~HMW-P~3~~T. Brown ~Alpine~BRS~
-7/31/2025~12~Britannia H2/3~~B~HMW-P~5~~J. Jordan ~Wagner's Run~BRI~
+7/31/2025~12~Britannia H2/3~~B~HMW-P~5~~J. Jordan ~wagners Run~BRI~
 7/31/2025~12~Commands & Colors: Ancients R4/4~~B~SwEl~1~~J. Hasty ~Maple~CCA~
 7/31/2025~12~Combat Commander F~~B~SwEl~3~~N. Wagner ~Laurel~CBC~
 7/31/2025~13~Championship Formal Racing D1/1~~--~--~1~~C. Long ~Exhibit Hall Annex #5~CFR~
@@ -689,7 +689,7 @@
 7/31/2025~19~Ace of Aces H4/4~~C~HMW-P~1~~M. Chesnut ~Chestnut~AOA~
 7/31/2025~19~Battles of the Am. Rev. R6/6~~B~SwEl~5~~M. Miklos ~Winterberry~BAR~
 7/31/2025~19~Dune Imperium H2/3~~B~HMW-P~3~~T. Cannon ~Seasons~DNI~
-7/31/2025~19~Here I Stand H2/2~~B~HMW-P~6~~J. Rice ~Wagner's Run~HIS~
+7/31/2025~19~Here I Stand H2/2~~B~HMW-P~6~~J. Rice ~wagners Run~HIS~
 7/31/2025~19~Race for the Galaxy H1/4~~B~HMW-P~1~~E. Freeman ~Grand Ballroom~RFG~
 7/31/2025~19~Titan the Arena H2/3~~B~HMW-P~1~~K. Breza ~Snowflake~TTA~
 7/31/2025~19~Up Front QF~~B~SwEl~2~~K. Whitesell ~Wintergreen~UPF~
@@ -731,7 +731,7 @@
 8/01/2025~9~Concordia D1/1~~--~--~1~~C. Katz ~Exhibit Hall Annex #1~CNC~
 8/01/2025~9~Afrika Korps R7/7~~A~SwEl~7~~B. Sinigaglio ~Winterberry~AFK~
 8/01/2025~9~Bitter Woods R7/7~~A~SwEl~7~~B. Sinigaglio ~Winterberry~BWD~
-8/01/2025~9~Britannia H3/3~~B~HMW-P~5~~J. Jordan ~Wagner's Run~BRI~
+8/01/2025~9~Britannia H3/3~~B~HMW-P~5~~J. Jordan ~wagners Run~BRI~
 8/01/2025~9~Castles of Burgundy H3/3~~B~HMW-P~3~~R. Irving ~Seasons~COB~
 8/01/2025~9~Heat: Pedal to the Metal H3/3~~B~HWO~2~~D. Smith ~Grand Ballroom~HET~
 8/01/2025~9~Leaping Lemmings H4/4~~C~HWO~2~~B. Powers ~Fox Den~LLM~
@@ -750,7 +750,7 @@
 8/01/2025~9~Breakout Normandy SF~~A~SEM~6~~M. Gutfreund ~First Tracks Slopeside~BRK~
 8/01/2025~9~For the People SF~~C~SEM~6~~J. Pei ~First Tracks Poolside~FTP~
 8/01/2025~9~Great Western Trail SF~~A~HMW-P~3~~D. Versak ~Seasons~GWT~
-8/01/2025~9~Here I Stand SF~~B~HMW-P~6~~J. Rice ~Wagner's Run~HIS~
+8/01/2025~9~Here I Stand SF~~B~HMW-P~6~~J. Rice ~wagners Run~HIS~
 8/01/2025~9~Advanced Civilization F~~B~HMW-P~5~~N. Barhorst ~First Tracks Poolside~ACV~
 8/01/2025~9~Great Campaigns of the American Civil War F~~B~SwEl~3~~D. Cross ~Laurel~GCA~
 8/01/2025~9~Root F~~A~HWO~3~~L. McKinnes ~Grand Ballroom~ROT~
@@ -797,7 +797,7 @@
 8/01/2025~15~Concordia H1/2~~B~HMW-P~2~~C. Katz ~Seasons~CNC~
 8/01/2025~15~Formula Motor Racing H3/3~~B~HMW-P~2~~C. LeFevre ~Grand Ballroom~FMR~
 8/01/2025~15~Memoir '44 R4/4~~B~SEM~2~~S. Edelston ~Maple~M44~
-8/01/2025~15~Britannia SF~~B~HMW-P~5~~J. Jordan ~Wagner's Run~BRI~
+8/01/2025~15~Britannia SF~~B~HMW-P~5~~J. Jordan ~wagners Run~BRI~
 8/01/2025~15~Monsters Menace America SF~~C~HMW-P~2~~D. Pack ~Grand Ballroom~MMA~
 8/01/2025~15~Superstar Baseball SF~~B~HMSE~6~~R. Lee ~Fox Den~SSB~
 8/01/2025~15~Air Baron F~~B~HMW-P~3~~M. Jamelli ~Grand Ballroom~ABN~
@@ -827,7 +827,7 @@
 8/01/2025~18~Afrika Korps SF~~A~SwEl~7~~B. Sinigaglio ~Winterberry~AFK~
 8/01/2025~18~Bitter Woods SF~~A~SwEl~7~~B. Sinigaglio ~Winterberry~BWD~
 8/01/2025~18~Galaxy Trucker SF~~B~HMW-P~2~~D. Finberg ~First Tracks Poolside~GXT~
-8/01/2025~18~The Napoleonic Wars SF~~C~HWO~6~~G. Williams ~Wagner's Run~TNW~
+8/01/2025~18~The Napoleonic Wars SF~~C~HWO~6~~G. Williams ~wagners Run~TNW~
 8/01/2025~18~Catan: Cities & Knights F~~B~HMW-P~3~~C. Gnech ~Laurel~C&K~
 8/01/2025~18~Empire Builder F~~B~HMW-P~4~~B. Stribula ~Alpine~EPB~
 8/01/2025~18~Sagrada F~~B~HMW-P~1~~D. Schreier ~Seasons~SAG~
@@ -891,10 +891,10 @@
 8/02/2025~9~Afrika Korps F~~A~SwEl~7~~B. Sinigaglio ~Winterberry~AFK~
 8/02/2025~9~Battles of the Am. Rev. F~~B~SwEl~5~~M. Miklos ~Winterberry~BAR~
 8/02/2025~9~Bitter Woods F~~A~SwEl~7~~B. Sinigaglio ~Winterberry~BWD~
-8/02/2025~9~Britannia F~~B~HMW-P~5~~J. Jordan ~Wagner's Run~BRI~
+8/02/2025~9~Britannia F~~B~HMW-P~5~~J. Jordan ~wagners Run~BRI~
 8/02/2025~9~Dune F~~A~HE~5~~B. Johnson ~Alpine~DUN~
 8/02/2025~9~Great Western Trail F~~A~HMW-P~3~~D. Versak ~Laurel~GWT~
-8/02/2025~9~Here I Stand F~~B~HMW-P~6~~J. Rice ~Wagner's Run~HIS~
+8/02/2025~9~Here I Stand F~~B~HMW-P~6~~J. Rice ~wagners Run~HIS~
 8/02/2025~9~Vegas Showdown F~~B~HMW-P~2~~M. Kaltman ~Laurel~VSD~
 8/02/2025~10~Vendors --~~--~--~8~~K. Gutermuth ~Timberstone~--~
 8/02/2025~10~M44 Overlord: Rommel is Back ~~--~Demo~4~~S. Edelston ~Maple~--~
@@ -982,7 +982,7 @@
 8/02/2025~18~Dune Imperium F~~B~HMW-P~3~~T. Cannon ~Laurel~DNI~
 8/02/2025~18~Ivanhoe F~~B~HMW-P~2~~B. Roeper ~Laurel~IVH~
 8/02/2025~18~Space Base F~~B~HMW-P~2~~J. Coussis ~Alpine~SBS~
-8/02/2025~18~The Napoleonic Wars F~~C~HWO~6~~G. Williams ~Wagner's Run~TNW~
+8/02/2025~18~The Napoleonic Wars F~~C~HWO~6~~G. Williams ~wagners Run~TNW~
 8/02/2025~19~M44 Overlord: Offensive in St-Lo ~~--~Demo~4~~S. Edelston ~Maple~--~
 8/02/2025~19~Diplomacy R3/3~~B~SW~4~~A. Wilsbach ~Dogwood~DIP~
 8/02/2025~19~Facts in Five R1/1~~C~SE~2~~J. Corrado ~Grand Ballroom~FI5~

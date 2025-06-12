@@ -22,7 +22,7 @@ class Constants {
 	static final int[] skiLodgeIDs = {R.drawable.room_first_tracks, R.drawable.room_first_tracks_slope_center_pool,
 			R.drawable.room_first_tracks_slope_center_pool, R.drawable.room_foggy_goggle,
 			R.drawable.room_foggy_goggle, R.drawable.room_foggy_goggle, R.drawable.room_maple_room,
-			R.drawable.room_rathskeller, R.drawable.room_timberstone};
+			R.drawable.room_wagners_run, R.drawable.room_timberstone};
 
 	static final int TOTAL_DAYS = 11;
 	static final long milliHour = 60 * 60 * 1000;

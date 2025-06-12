@@ -276,7 +276,7 @@
 		<item>Foggy Goggle Front</item>
 		<item>Foggy Goggle Rear</item>
 		<item>Maple</item>
-		<item>Rathskeller</item>
+		<item>Wagners Run</item>
 		<item>Timberstone</item>
 	</string-array>
 	<string-array name="rooms_available">
@@ -309,7 +309,7 @@
 		<item>Hemlock</item>
 		<item>Laurel</item>
 		<item>Maple</item>
-		<item>Rathskeller</item>
+		<item>Wagners Run</item>
 		<item>Seasons 1</item>
 		<item>Seasons 1&#8211;2</item>
 		<item>Seasons 2</item>
