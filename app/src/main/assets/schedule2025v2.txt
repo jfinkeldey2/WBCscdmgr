@@ -322,7 +322,7 @@
 7/28/2025~18~History of the World H1/2~~B~HMW-P~6~~R. Fournier ~Alpine~HWD~
 7/28/2025~18~The Napoleonic Wars H2/3~~C~HWO~6~~G. Williams ~Wagner's Run~TNW~
 7/28/2025~18~Virgin Queen F~~B~HMW-P~5~~M. Kiefte ~Wagner's Run~VGQ~
-7/28/2025~18~TBD ~~C~Jr SE~2~~ ~Hemlock~--~
+7/28/2025~18~Juniors TBD ~~C~Jr SE~2~~ ~Hemlock~--~
 7/28/2025~19~1775: Rebellion SF~~B~SEM~3~~J. Lange ~First Tracks Center~775~
 7/28/2025~19~Ark Nova H2/2~~A~HWO~3~~C. Weaver ~Seasons~AKN~
 7/28/2025~19~Battles of the Am. Rev. D1/1~~--~--~1~~M. Miklos ~EH Annex #1~BAR~
@@ -619,7 +619,7 @@
 7/31/2025~9~Up Front R1/5~~B~SwEl~2~~K. Whitesell ~Wintergreen~UPF~
 7/31/2025~9~War at Sea R1/5~~A~SwEl~2~~V. Meconi ~Fox Den~WAS~
 7/31/2025~9~Wooden Ships & iron. Men R6/8~~B~SwEl~2~~T. Hitchings ~Winterberry~WSM~
-7/31/2025~9~TBD ~~C~Jr SE~2~~ ~Hemlock~--~
+7/31/2025~9~Juniors TBD ~~C~Jr SE~2~~ ~Hemlock~--~
 7/31/2025~9~Open Gaming ~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~
 7/31/2025~9~Open Gaming Library Opens ~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~
 7/31/2025~10~Advanced Squad Leader R2/3~~A~SE~5~~C. Schilling ~Sunburst~ASL~
@@ -941,7 +941,7 @@
 8/02/2025~12~Versailles 1919 F~~B~HMW-P~3~~R. Pettis ~Laurel~V19~
 8/02/2025~12~Washington's War R2/3~~B~SwEl~3~~B. Peeck ~Maple~WWR~
 8/02/2025~12~Win, Place, & Show H4/4~~B~HWO~3~~B. Reiff ~Evergreen~WPS~
-8/02/2025~12~TBD ~~C~Jr SE~2~~ ~Hemlock~--~
+8/02/2025~12~Juniors TBD ~~C~Jr SE~2~~ ~Hemlock~--~
 8/02/2025~13~Atlantic Storm F~~A~HMW-P~2~~S. Nerney ~Grand Ballroom~ACS~
 8/02/2025~13~Battle Cry R3/3~~B~SEM~2~~P. Stein ~Fox Den~BCY~
 8/02/2025~13~Castles of Burgundy SF~~B~HMW-P~3~~R. Irving ~Snowflake~COB~
