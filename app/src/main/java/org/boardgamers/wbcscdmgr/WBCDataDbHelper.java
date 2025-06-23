@@ -17,7 +17,7 @@ import java.util.List;
 class WBCDataDbHelper extends SQLiteOpenHelper {
 	private final String TAG = "WBCDataDbHelper";
 
-	static final int DATABASE_VERSION = 20;
+	static final int DATABASE_VERSION = 21;
 	// TODO update number with each excel change after rollout
 	//  above triggers database erasing JLF 5/27/25
 
