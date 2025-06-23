@@ -30,7 +30,7 @@ public class SplashScreen extends AppCompatActivity {
 		super.onCreate(savedInstanceState);
 
 	//	int TOTAL_EVENTS = 751;
-		int TOTAL_EVENTS = 1077;
+		int TOTAL_EVENTS = 1071;
 
 		WBCDataDbHelper dbHelper = new WBCDataDbHelper(this);
 		dbHelper.onUpgrade(dbHelper.getWritableDatabase(), dbHelper.getVersion(),
