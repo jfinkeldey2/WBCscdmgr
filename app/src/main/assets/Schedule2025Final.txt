@@ -75,7 +75,7 @@
 7/26/2025~17~Boxcars D1/1~~--~--~1~~T. Bromley ~EH Annex #1~BXC~
 7/26/2025~17~Sekigahara R2/4~~B~SwEl~3~~D. Mishler ~First Tracks Poolside~SKG~
 7/26/2025~17~Splendor Duel H1/2~~B~HWO~2~~C. Wildes ~Sunburst~SP2~
-7/26/2025~17~The Napoleonic Wars D1/2~~--~--~1~~G. Williams ~EH Annex #7~TNW~
+7/26/2025~17~The Napoleonic Wars D1/2~~--~--~1~~P. Morzinski ~EH Annex #7~TNW~
 7/26/2025~17~Titan H1/4~~A~HMW-P~5~~D. desJardins ~First Tracks Poolside~TTN~
 7/26/2025~17~Shuttle from Pittsburgh Airport ~~--~--~2~~ ~Airport~--~
 7/26/2025~18~18XX H2/4~~B~HMW-T~6~~T. McCorry ~Alpine~8XX~
@@ -83,7 +83,7 @@
 7/26/2025~18~Catan H2/3~~B~HMW-P~2~~I. Gitzen II ~Grand Ballroom~CTN~
 7/26/2025~18~John Company H1/2~~B~HMW-P~5~~J. Burdett ~Alpine~JCY~
 7/26/2025~18~Russian Railroads D1/1~~--~--~1~~I. Collins II ~EH Annex #1~RRR~
-7/26/2025~18~The Napoleonic Wars H1/3~~C~HWO~6~~G. Williams ~Wagners Run~TNW~
+7/26/2025~18~The Napoleonic Wars H1/3~~C~HWO~6~~P. Morzinski ~Wagners Run~TNW~
 7/26/2025~18~Victory in the Pacific D1/1~~--~--~1~~T. Drozd ~EH Annex #2~VIP~
 7/26/2025~19~7 Wonders H2/3~~B~HMW-P~2~~E. Shea ~Grand Ballroom~7WS~
 7/26/2025~19~Five Tribes H1/3~~B~HMW-P~2~~C. Wildes ~Sunburst~5TR~
@@ -138,7 +138,7 @@
 7/27/2025~10~Star Wars: Outer Rim H2/3~~B~HMW-T~3~~M. Sample ~Alpine~SRM~
 7/27/2025~10~The Russian Campaign D1/1~~--~--~1~~G. Karahalios ~EH Annex #6~TRC~
 7/27/2025~10~Titan 2-Player H1/2~~B~HMSE~5~~D. desJardins ~First Tracks Slopeside~TT2~
-7/27/2025~10~Virgin Queen D1/1~~--~--~1~~M. Kiefte ~EH Annex #7~VGQ~
+7/27/2025~10~Virgin Queen D1/1~~--~--~1~~E. Beach ~EH Annex #7~VGQ~
 7/27/2025~10~Waterloo R1/6~~A~SwEl~6~~M. Musella ~Winterberry~WAT~
 7/27/2025~10~Catholic Mass ~~--~--~1~~ ~Sunburst~--~
 7/27/2025~11~Ace of Aces H2/4~~C~HMW-P~1~~M. Chesnut ~Chestnut~AOA~
@@ -146,7 +146,7 @@
 7/27/2025~11~Amun Re H2/3~~B~HMW-P~2~~E. Freeman ~Timberstone~AMR~
 7/27/2025~12~Boxcars H2/3~~B~HMW-P~5~~T. Bromley ~Wintergreen~BXC~
 7/27/2025~12~Dominion D1/1~~--~--~1~~R. Bielefeldt ~EH Annex #1~DOM~
-7/27/2025~12~Virgin Queen H1/2~~B~HMW-P~5~~M. Kiefte ~Wagners Run~VGQ~
+7/27/2025~12~Virgin Queen H1/2~~B~HMW-P~5~~E. Beach ~Wagners Run~VGQ~
 7/27/2025~13~Alhambra D1/1~~--~--~1~~D. Gutermuth ~EH Annex #2~ALH~
 7/27/2025~13~El Grande H1/3~~B~HMW-P~2~~R. Flowers ~Grand Ballroom~ELG~
 7/27/2025~13~Enemy in Sight D1/1~~--~--~1~~M. Evinger ~EH Annex #5~EIS~
@@ -198,7 +198,7 @@
 7/27/2025~18~Ra: The Dice Game D1/1~~--~--~1~~C. Del Carpio ~EH Annex #2~RDG~
 7/27/2025~18~Saint Petersburg H1/3~~B~HMW-P~2~~R. Feathers ~Seasons~SPG~
 7/27/2025~18~Stone Age H1/3~~B~HWO~2~~D. Stufflet ~Fox Den~STA~
-7/27/2025~18~Virgin Queen H2/2~~B~HMW-P~5~~M. Kiefte ~Wagners Run~VGQ~
+7/27/2025~18~Virgin Queen H2/2~~B~HMW-P~5~~E. Beach ~Wagners Run~VGQ~
 7/27/2025~18~Win Place & Show D1/1~~--~--~1~~B. Reiff ~EH Annex #5~WPS~
 7/27/2025~19~Air Baron H1/4~~B~HMW-P~3~~M. Jamelli ~Grand Ballroom~ABN~
 7/27/2025~19~Hannibal: Rome vs Carthage R5/5~~A~SW~5~~S. Tucker ~Maple~HRC~
@@ -249,7 +249,7 @@
 7/28/2025~9~Ticket To Ride D1/1~~--~--~1~~K. Gray ~EH Annex #5~TTR~
 7/28/2025~9~Twilight Struggle R1/5~~B~SW~4~~R. MacInnis ~Fox Den~TWS~
 7/28/2025~9~Victory in the Pacific R4/5~~B~SwEl~5~~T. Drozd ~Snowflake~VIP~
-7/28/2025~9~Virgin Queen SF~~B~HMW-P~5~~M. Kiefte ~Wagners Run~VGQ~
+7/28/2025~9~Virgin Queen SF~~B~HMW-P~5~~E. Beach ~Wagners Run~VGQ~
 7/28/2025~9~Wooden Ships & iron. Men R3/8~~B~SwEl~2~~T. Hitchings ~Winterberry~WSM~
 7/28/2025~9~Love Letter Juniors ~~C~Jr SE~2~~E. Evinger ~Hemlock~--~
 7/28/2025~9~Open Gaming ~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~
@@ -312,7 +312,7 @@
 7/28/2025~17~Kremlin H2/4~~B~HMW-P~3~~S. Cuccaro ~Timberstone~KRM~
 7/28/2025~17~Lords of Waterdeep D1/1~~--~--~1~~P. St ~EH Annex #2~LWD~
 7/28/2025~17~Scythe H2/2~~A~HMW-P~3~~S. LeWinter ~Dogwood~SCY~
-7/28/2025~17~The Napoleonic Wars D2/2~~--~--~1~~G. Williams ~EH Annex #7~TNW~
+7/28/2025~17~The Napoleonic Wars D2/2~~--~--~1~~P. Morzinski ~EH Annex #7~TNW~
 7/28/2025~17~Ticket To Ride H2/4~~B~HMW-T~2~~K. Gray ~Seasons~TTR~
 7/28/2025~17~Twilight Struggle R3/5~~B~SW~4~~R. MacInnis ~Fox Den~TWS~
 7/28/2025~17~Wooden Ships & iron. Men D1/1~~--~--~1~~T. Hitchings ~EH Annex #5~WSM~
@@ -320,8 +320,8 @@
 7/28/2025~18~Dominion SF~~B~HWO~1~~R. Bielefeldt ~Seasons~DOM~
 7/28/2025~18~Empire Builder H1/3~~B~HMW-P~4~~B. Stribula ~Sunburst~EPB~
 7/28/2025~18~History of the World H1/2~~B~HMW-P~6~~R. Fournier ~Alpine~HWD~
-7/28/2025~18~The Napoleonic Wars H2/3~~C~HWO~6~~G. Williams ~Wagners Run~TNW~
-7/28/2025~18~Virgin Queen F~~B~HMW-P~5~~M. Kiefte ~Wagners Run~VGQ~
+7/28/2025~18~The Napoleonic Wars H2/3~~C~HWO~6~~P. Morzinski ~Wagners Run~TNW~
+7/28/2025~18~Virgin Queen F~~B~HMW-P~5~~E. Beach ~Wagners Run~VGQ~
 7/28/2025~18~Point Salad Juniors ~~C~Jr SE~2~~L. Coussis ~Hemlock~--~
 7/28/2025~19~1775: Rebellion SF~~B~SEM~3~~J. Lange ~First Tracks Center~775~
 7/28/2025~19~Ark Nova H2/2~~A~HWO~3~~C. Weaver ~Seasons~AKN~
@@ -555,7 +555,7 @@
 7/30/2025~18~John Company SF~~B~HMW-P~5~~J. Burdett ~Alpine~JCY~
 7/30/2025~18~Pirate's Cove H2/3~~B~HMW-P~2~~J. Otwell ~Grand Ballroom~PRC~
 7/30/2025~18~Star Wars: Rebellion R1/2~~B~SEM~4~~A. Drummond ~First Tracks Center~SWR~
-7/30/2025~18~The Napoleonic Wars H3/3~~C~HWO~6~~G. Williams ~Wagners Run~TNW~
+7/30/2025~18~The Napoleonic Wars H3/3~~C~HWO~6~~P. Morzinski ~Wagners Run~TNW~
 7/30/2025~18~Ticket to Ride Juniors ~~C~Jr SE~2~~A. Byrd ~Hemlock~--~
 7/30/2025~19~Adel Verpflichtet SF~~C~HMW-P~2~~A. Bender ~Wintergreen~ADV~
 7/30/2025~19~Battles of the Am. Rev. R4/6~~B~SwEl~5~~M. Miklos ~Winterberry~BAR~
@@ -849,7 +849,7 @@
 8/01/2025~18~Empire Builder F~~B~HMW-P~4~~B. Stribula ~Alpine~EPB~
 8/01/2025~18~Galaxy Trucker SF~~B~HMW-P~2~~D. Finberg ~First Tracks Poolside~GXT~
 8/01/2025~18~Sagrada F~~B~HMW-P~1~~D. Schreier ~Seasons~SAG~
-8/01/2025~18~The Napoleonic Wars SF~~C~HWO~6~~G. Williams ~Wagners Run~TNW~
+8/01/2025~18~The Napoleonic Wars SF~~C~HWO~6~~P. Morzinski ~Wagners Run~TNW~
 8/01/2025~18~War of the Ring D1/1~~--~--~1~~C. Trimmer ~EH Annex #5~WOR~
 8/01/2025~18~Ivanhoe Juniors ~~C~Jr SE~2~~B. Roeper ~Hemlock~--~
 8/01/2025~19~Battle Line R1/3~~B~SwEl~2~~S. McCulloch ~Seasons~BAT~
@@ -1001,7 +1001,7 @@
 8/02/2025~18~Lost Cities R4/4~~B~SwEl~1~~R. Pettis ~Seasons~LST~
 8/02/2025~18~Ra: The Dice Game SF~~B~HWO~1~~C. Del Carpio ~Seasons~RDG~
 8/02/2025~18~Space Base F~~B~HMW-P~2~~J. Coussis ~Alpine~SBS~
-8/02/2025~18~The Napoleonic Wars F~~C~HWO~6~~G. Williams ~Wagners Run~TNW~
+8/02/2025~18~The Napoleonic Wars F~~C~HWO~6~~P. Morzinski ~Wagners Run~TNW~
 8/02/2025~18~Wabash Cannonball H3/3~~B~HMW-P~2~~S. Cameron ~Seasons~WCB~
 8/02/2025~18~Washington's War SF~~B~SwEl~3~~B. Peeck ~Maple~WWR~
 8/02/2025~18~Can't Stop Juniors ~~C~Jr SE~2~~T. Evinger ~Hemlock~--~
