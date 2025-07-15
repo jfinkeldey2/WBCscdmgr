@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest
 	xmlns:android="http://schemas.android.com/apk/res/android"
-    android:versionCode="20250110"
-	android:versionName="2025.110">
+    android:versionCode="20250111"
+	android:versionName="2025.111">
 
 	<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
 	<!--

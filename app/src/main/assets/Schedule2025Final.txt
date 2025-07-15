@@ -105,7 +105,7 @@
 7/26/2025~24~Open Gaming Library Closes ~~--~--~--~~S. Buckwalter ~Exhibit Hall~--~
 7/27/2025~1~Las Vegas SF~~C~SE~1~~L. Wojtszczyk ~Grand Ballroom~LAS~
 7/27/2025~2~Las Vegas F~~C~SE~1~~L. Wojtszczyk ~Grand Ballroom~LAS~
-7/27/2025~7.5~Yoga for all levels ~~--~--~1~~S. Nerney ~Foggy Goggle~--~
+7/27/2025~7.5~Yoga for all levels ~~--~--~1~~S. Nerney ~Ski Lodge Deck~--~
 7/27/2025~8~Registration ~~--~--~12~~K. Gutermuth ~Stag Pass~--~
 7/27/2025~8~Christian Worship Service ~~--~--~1~~G. Petroski ~Snowflake~--~
 7/27/2025~9~7 Wonders H3/3~~B~HMW-P~2~~E. Shea ~Grand Ballroom~7WS~
@@ -223,7 +223,7 @@
 7/27/2025~22~Catan F~~B~HMW-P~2~~I. Gitzen II ~Laurel~CTN~
 7/27/2025~22~Thunder Alley H2/3~~B~HMW-T~3~~I. Collins II ~Timberstone~THA~
 7/27/2025~24~Open Gaming Library Closes ~~--~--~--~~S. Buckwalter ~Exhibit Hall~--~
-7/28/2025~7.5~Yoga for all levels ~~--~--~1~~S. Nerney ~Foggy Goggle~--~
+7/28/2025~7.5~Yoga for all levels ~~--~--~1~~S. Nerney ~Ski Lodge Deck~--~
 7/28/2025~8~Registration ~~--~--~12~~K. Gutermuth ~Stag Pass~--~
 7/28/2025~9~7 Wonders F~~B~HMW-P~2~~E. Shea ~Laurel~7WS~
 7/28/2025~9~18XX SF~~B~HMW-T~6~~T. McCorry ~Alpine~8XX~
@@ -348,7 +348,7 @@
 7/28/2025~23~Amun Re SF~~B~HMW-P~2~~E. Freeman ~Timberstone~AMR~
 7/28/2025~23~Ingenious H2/4~~A~HWO~1~~E. McNay ~Seasons~ING~
 7/28/2025~24~Open Gaming Library Closes ~~--~--~--~~S. Buckwalter ~Exhibit Hall~--~
-7/29/2025~7.5~Yoga for all levels ~~--~--~1~~S. Nerney ~Foggy Goggle~--~
+7/29/2025~7.5~Yoga for all levels ~~--~--~1~~S. Nerney ~Ski Lodge Deck~--~
 7/29/2025~8~Registration ~~--~--~12~~K. Gutermuth ~Stag Pass~--~
 7/29/2025~8.25~Auction Store ~~--~--~2.75~~K. Gutermuth ~Grand Ballroom~--~
 7/29/2025~8.5~Auction ~~--~--~4.5~~K. Gutermuth ~Grand Ballroom~--~
@@ -369,7 +369,7 @@
 7/29/2025~9~Open Gaming ~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~
 7/29/2025~9~Open Gaming Library Opens ~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~
 7/29/2025~10~Everdell D1/1~~--~--~1~~N. Henning ~EH Annex #2~EVD~
-7/29/2025~10~Heat: Pedal to the Metal D1/1~~--~--~1~~D. Smith ~EH Annex #1~HET~
+7/29/2025~10~Heat: Pedal to the Metal D1/1~~--~--~1~~T. McCorry ~EH Annex #1~HET~
 7/29/2025~10~Here I Stand D1/1~~--~--~1~~J. Rice ~EH Annex #7~HIS~
 7/29/2025~10~Puerto Rico D1/1~~--~--~1~~R. Shay ~EH Annex #6~PRO~
 7/29/2025~10~Waterloo R3/6~~A~SwEl~6~~M. Musella ~Winterberry~WAT~
@@ -418,7 +418,7 @@
 7/29/2025~18~El Grande H3/3~~B~HMW-P~2~~R. Flowers ~Grand Ballroom~ELG~
 7/29/2025~18~Empire Builder H2/3~~B~HMW-P~4~~B. Stribula ~Sunburst~EPB~
 7/29/2025~18~For the People R1M~~C~SEM~6~~J. Pei ~First Tracks Poolside~FTP~
-7/29/2025~18~Heat: Pedal to the Metal H1/3~~B~HWO~2~~D. Smith ~Grand Ballroom~HET~
+7/29/2025~18~Heat: Pedal to the Metal H1/3~~B~HWO~2~~T. McCorry ~Grand Ballroom~HET~
 7/29/2025~18~John Company H2/2~~B~HMW-P~5~~J. Burdett ~Alpine~JCY~
 7/29/2025~18~Leaping Lemmings H1/4~~C~HWO~2~~B. Powers ~Wintergreen~LLM~
 7/29/2025~18~Splendor F~~B~HMW-P~1~~R. Bacigalupo ~Laurel~SPD~
@@ -450,7 +450,7 @@
 7/29/2025~24~Open Gaming Library Closes ~~--~--~--~~S. Buckwalter ~Exhibit Hall~--~
 7/29/2025~11:15~BPA Annual Meeting ~~--~--~1~~A. Lewis ~Grand Ballroom~--~
 7/30/2025~1~King of Tokyo F~~C~SE~1~~N. Drummond ~Grand Ballroom~KOT~
-7/30/2025~7~Yoga for all levels ~~--~--~1~~S. Nerney ~Foggy Goggle~--~
+7/30/2025~7~Yoga for all levels ~~--~--~1~~S. Nerney ~Ski Lodge Deck~--~
 7/30/2025~8~Registration ~~--~--~12~~K. Gutermuth ~Stag Pass~--~
 7/30/2025~9~878 Vikings R2/3~~B~SEM~3~~D. Schneider ~First Tracks Center~878~
 7/30/2025~9~Advanced Civilization H2/2~~B~HMW-P~8~~N. Barhorst ~Wintergreen~ACV~
@@ -589,7 +589,7 @@
 7/31/2025~1~Love Letter SF~~B~SEM~1~~J. Felici ~Alpine~L_L~
 7/31/2025~2~Can't Stop F~~C~SE~1~~A. Drummond ~Grand Ballroom~CNS~
 7/31/2025~2~Love Letter F~~B~SEM~1~~J. Felici ~Alpine~L_L~
-7/31/2025~7.5~Yoga for all levels ~~--~--~1~~S. Nerney ~Foggy Goggle~--~
+7/31/2025~7.5~Yoga for all levels ~~--~--~1~~S. Nerney ~Ski Lodge Deck~--~
 7/31/2025~8~Registration ~~--~--~12~~K. Gutermuth ~Stag Pass~--~
 7/31/2025~9~ASL Starter Kit R1/3~~B~SEM~3~~P. Cocke ~First Tracks Center~ASK~
 7/31/2025~9~Afrika Korps R6/7~~A~SwEl~7~~B. Sinigaglio ~Winterberry~AFK~
@@ -726,7 +726,7 @@
 7/31/2025~20~Terraforming Mars QF~~A~HWO~4~~E. Wrobel ~Alpine~TFM~
 7/31/2025~21~Conquest of Paradise H1/3~~B~HMW-P~3~~K. McPartland ~First Tracks Poolside~CQP~
 7/31/2025~21~For the People R3/3~~C~SEM~6~~J. Pei ~First Tracks Poolside~FTP~
-7/31/2025~21~Heat: Pedal to the Metal H2/3~~B~HWO~2~~D. Smith ~Grand Ballroom~HET~
+7/31/2025~21~Heat: Pedal to the Metal H2/3~~B~HWO~2~~T. McCorry ~Grand Ballroom~HET~
 7/31/2025~21~Ivanhoe H3/3~~B~HMW-P~2~~B. Roeper ~Grand Ballroom~IVH~
 7/31/2025~21~Memoir '44 R1M~~B~SEM~2~~S. Edelston ~Maple~M44~
 7/31/2025~21~Up Front SF~~B~SwEl~2~~K. Whitesell ~Wintergreen~UPF~
@@ -741,7 +741,7 @@
 7/31/2025~23~War at Sea F~~A~SwEl~2~~V. Meconi ~Fox Den~WAS~
 7/31/2025~24~Open Gaming Library Closes ~~--~--~--~~S. Buckwalter ~Exhibit Hall~--~
 8/01/2025~1~Pro Golf F~~A~SE~2~~B. Monnin ~Grand Ballroom~PGF~
-8/01/2025~7.5~Yoga for all levels ~~--~--~1~~S. Nerney ~Foggy Goggle~--~
+8/01/2025~7.5~Yoga for all levels ~~--~--~1~~S. Nerney ~Ski Lodge Deck~--~
 8/01/2025~8~Registration ~~--~--~12~~K. Gutermuth ~Stag Pass~--~
 8/01/2025~9~Advanced Civilization F~~B~HMW-P~8~~N. Barhorst ~First Tracks Poolside~ACV~
 8/01/2025~9~Afrika Korps R7/7~~A~SwEl~7~~B. Sinigaglio ~Winterberry~AFK~
@@ -755,7 +755,7 @@
 8/01/2025~9~For the People SF~~C~SEM~6~~J. Pei ~First Tracks Poolside~FTP~
 8/01/2025~9~Great Campaigns of the American Civil War F~~B~SwEl~3~~D. Cross ~Laurel~GCA~
 8/01/2025~9~Great Western Trail SF~~A~HMW-P~3~~D. Versak ~Seasons~GWT~
-8/01/2025~9~Heat: Pedal to the Metal H3/3~~B~HWO~2~~D. Smith ~Grand Ballroom~HET~
+8/01/2025~9~Heat: Pedal to the Metal H3/3~~B~HWO~2~~T. McCorry ~Grand Ballroom~HET~
 8/01/2025~9~Here I Stand SF~~B~HMW-P~6~~J. Rice ~Wagners Run~HIS~
 8/01/2025~9~Leaping Lemmings H4/4~~C~HWO~2~~B. Powers ~Fox Den~LLM~
 8/01/2025~9~Lost Cities R2/4~~B~SwEl~1~~R. Pettis ~Snowflake~LST~
@@ -797,7 +797,7 @@
 8/01/2025~13~Charioteer H3/3~~B~HMW-P~2~~E. Rader ~Grand Ballroom~CTR~
 8/01/2025~13~Dune H3/3~~A~HE~5~~B. Johnson ~Alpine~DUN~
 8/01/2025~13~Formula De SF~~C~HMW-P~3~~E. Meader ~Grand Ballroom~FDE~
-8/01/2025~13~Heat: Pedal to the Metal SF~~B~HWO~2~~D. Smith ~Grand Ballroom~HET~
+8/01/2025~13~Heat: Pedal to the Metal SF~~B~HWO~2~~T. McCorry ~Grand Ballroom~HET~
 8/01/2025~13~Memoir '44 R3/4~~B~SEM~2~~S. Edelston ~Maple~M44~
 8/01/2025~13~Merrchant of Venus H3/3~~B~HMW-P~3~~R. Irving ~Snowflake~MOV~
 8/01/2025~13~Monsters Menace America H4/4~~C~HMW-P~2~~D. Pack ~Grand Ballroom~MMA~
@@ -820,7 +820,7 @@
 8/01/2025~15~Concordia H1/2~~B~HMW-P~2~~C. Katz ~Seasons~CNC~
 8/01/2025~15~For the People F~~C~SEM~6~~J. Pei ~First Tracks Poolside~FTP~
 8/01/2025~15~Formula Motor Racing H3/3~~B~HMW-P~2~~C. LeFevre ~Grand Ballroom~FMR~
-8/01/2025~15~Heat: Pedal to the Metal F~~B~HWO~2~~D. Smith ~Grand Ballroom~HET~
+8/01/2025~15~Heat: Pedal to the Metal F~~B~HWO~2~~T. McCorry ~Grand Ballroom~HET~
 8/01/2025~15~Memoir '44 R4/4~~B~SEM~2~~S. Edelston ~Maple~M44~
 8/01/2025~15~Monsters Menace America SF~~C~HMW-P~2~~D. Pack ~Grand Ballroom~MMA~
 8/01/2025~15~Superstar Baseball SF~~B~HMSE~6~~R. Lee ~Fox Den~SSB~
