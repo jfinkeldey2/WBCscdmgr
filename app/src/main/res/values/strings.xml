@@ -2,8 +2,8 @@
 <resources>
 
 	<!-- APP DETAILS -->
-	<string name="app_name_long">World Boardgaming Championships 2025</string>
-	<string name="app_name_short">WBC 2025</string>
+	<string name="app_name_long">World Boardgaming Championships 2026</string>
+	<string name="app_name_short">WBC 2026</string>
 	<string name="email">dev@boardgamers.org</string>
 	<string name="notification_title">WBC: Events starting soon</string>
 
@@ -205,30 +205,30 @@
 
 	<!-- APP SPECIFIC STRINGS AND ARRAYS -->
 	<string-array name="daysForParsing">
-		<item>7/25/2025</item>
-		<item>7/26/2025</item>
-		<item>7/27/2025</item>
-		<item>7/28/2025</item>
-		<item>7/29/2025</item>
-		<item>7/30/2025</item>
-		<item>7/31/2025</item>
-		<item>8/01/2025</item>
-		<item>8/02/2025</item>
-		<item>8/03/2025</item>
-		<item>8/04/2025</item>
+		<item>7/24/2026</item>
+		<item>7/25/2026</item>
+		<item>7/26/2026</item>
+		<item>7/27/2026</item>
+		<item>7/28/2026</item>
+		<item>7/29/2026</item>
+		<item>7/30/2026</item>
+		<item>7/31/2026</item>
+		<item>8/01/2026</item>
+		<item>8/02/2026</item>
+		<item>8/03/2026</item>
 	</string-array>
 	<string-array name="days">
-		<item>Fr 7/25</item>
-		<item>Sa 7/26</item>
-		<item>Su 7/27</item>
-		<item>Mo 7/28</item>
-		<item>Tu 7/29</item>
-		<item>We 7/30</item>
-		<item>Th 7/31</item>
-		<item>Fr 8/01</item>
-		<item>Sa 8/02</item>
-		<item>Su 8/03</item>
-		<item>SMo 8/04</item>
+		<item>Fr 7/24</item>
+		<item>Sa 7/25</item>
+		<item>Su 7/26</item>
+		<item>Mo 7/27</item>
+		<item>Tu 7/28</item>
+		<item>We 7/29</item>
+		<item>Th 7/30</item>
+		<item>Fr 7/31</item>
+		<item>Sa 8/01</item>
+		<item>Su 8/02</item>
+		<item>SMo 8/03</item>
 	</string-array>
 	<string-array name="rooms_convention_center">
 		<item>Alpine</item>

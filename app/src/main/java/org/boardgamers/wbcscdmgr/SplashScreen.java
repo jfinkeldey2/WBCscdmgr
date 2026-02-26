@@ -147,7 +147,7 @@ public class SplashScreen extends AppCompatActivity {
 			// find schedule file
 			InputStream is;
 			try {
-				is = getAssets().open("Schedule2025Final.txt");
+				is = getAssets().open("Schedule2026test.txt");
 			} catch (IOException e2) {
 				e2.printStackTrace();
 				return -2;
