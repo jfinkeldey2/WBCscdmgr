@@ -49,9 +49,11 @@
 			android:key="@string/pref_key_schedule_merge"
 			android:title="@string/settings_schedule_merge"/>
 
-		<Preference
+		<!--
+        <Preference
 			android:key="@string/pref_key_schedule_export"
 			android:title="@string/settings_schedule_export"/>
+			-->
 
 	</PreferenceCategory>
 </PreferenceScreen>

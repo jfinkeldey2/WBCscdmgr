@@ -454,16 +454,17 @@ public class SettingsActivity extends AppCompatActivity {
 					return true;
 				}
 			});
+            /* Removed share JLF 5/16/26
 
 			scheduleExport = findPreference(getResources().getString(R.string.pref_key_schedule_export));
 			scheduleExport.setOnPreferenceClickListener(new Preference.OnPreferenceClickListener() {
-				@Override
+                @Override
 				public boolean onPreferenceClick(Preference preference) {
 					((SettingsActivity) getActivity()).share();
 					return true;
 				}
 			});
-
+                */
 //			updatePreferences();
 
 		}
@@ -552,6 +553,7 @@ public class SettingsActivity extends AppCompatActivity {
 		}
 	}
 
+    /* Removed share icon JLF 5/16/26
 	private void share() {
 		long uId = MainActivity.userId;
 		WBCDataDbHelper dbHelper = new WBCDataDbHelper(this);
@@ -633,7 +635,7 @@ public class SettingsActivity extends AppCompatActivity {
 		shareIntent.setType("application/wbc");
 		startActivity(Intent.createChooser(shareIntent, getResources().getText(R.string.share)));
 	}
-
+*/
 
   /* Checks if external storage is available for read and write */
 

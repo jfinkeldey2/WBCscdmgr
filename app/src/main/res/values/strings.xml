@@ -118,7 +118,7 @@
 	<string name="settings_schedule_import_summary">Load a WBC schedule from .wbc file</string>
 	<string name="settings_schedule_merge">Save as My Schedule</string>
 	<string name="settings_schedule_delete">Delete</string>
-	<string name="settings_schedule_export">Export and share</string>
+	<!-- <string name="settings_schedule_export">Export and share</string> -->
 	<string name="settings_schedule_name_check">wbc_data_file_2015</string>
 	<string name="schedule_import_merge_message">How do you want to merge with My Schedule?</string>
 	<string name="schedule_import_neither">Neither</string>

@@ -8,11 +8,13 @@
 		android:title="@string/search"
 		app:actionViewClass="android.support.v7.widget.SearchView"
 		app:showAsAction="collapseActionView|ifRoom"/>
-	<item
+    <!--  Removing share icon JLF 5/16/26
+    <item
 		android:id="@+id/menu_share"
 		android:icon="@drawable/ic_action_share"
 		android:title="@string/share_schedule"
 		app:showAsAction="ifRoom"/>
+	-->
 	<item
 		android:id="@+id/menu_map"
 		android:title="@string/map"
