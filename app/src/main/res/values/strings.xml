@@ -332,8 +332,8 @@
 	<string name="about_others_text">Schedule file courtesy of Ken Gutermuth\nMaps courtesy of Jason Long</string>
 
 	<!-- PRIVACY -->
-	<string name="privacy_text">The privacy policy of the BPA for this app is that it uses minimal user data.  The schedule data itself is provided by the WBC and any modifications to the schedule (marking events as favorites or recording finishes) are stored within the app itself and are not shared or distributed in any way.</string>
-	<string name="privacy_link">For more information, the link to the WBC privacy policy can be found at \nhttp://boardgamers.org/contact.html</string>
+	<string name="privacy_text">The BPA is committed to safeguarding the privacy of our members and ensuring transparency in how we handle personal data</string>
+	<string name="privacy_link">For more information, the BPA privacy policy can be found at \nhttp://boardgamers.org/BPA-Privacy-Policy.html</string>
 
 	<!-- HELP -->
 	<string name="how_to_help">Select a help topic to expand and show info</string>
