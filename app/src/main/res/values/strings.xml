@@ -278,6 +278,7 @@
 		<item>Maple</item>
 		<item>Wagners Run</item>
 		<item>Timberstone</item>
+        <item>Foggy Brews</item>
 	</string-array>
 	<string-array name="rooms_available">
 		<item>Alpine</item>

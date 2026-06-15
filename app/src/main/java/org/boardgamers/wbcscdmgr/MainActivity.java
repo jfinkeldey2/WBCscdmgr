@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
 			Toast.makeText(this,
 					"ERROR: Could not find version code, contact " + getResources().getString(R.string.email) +
 							" for help.", Toast.LENGTH_LONG).show();
-			currentVersion = 20260012; // TODO set as version code here and android manifest and gradle build
+			currentVersion = 20260013; // TODO set as version code here and android manifest and gradle build
 			e.printStackTrace();
 		}
 
@@ -410,7 +410,7 @@ public class MainActivity extends AppCompatActivity {
 	public boolean onOptionsItemSelected(MenuItem item) {
 		if (item.getItemId() == R.id.menu_map) {
 			startActivity(new Intent(this, MapActivity.class));
-		/* } else if (item.getItemId() == R.id.menu_share) {
+	/*	} else if (item.getItemId() == R.id.menu_share) {
 			share(); */
 		} else if (item.getItemId() == R.id.menu_help) {
 			startActivity(new Intent(this, HelpActivity.class));

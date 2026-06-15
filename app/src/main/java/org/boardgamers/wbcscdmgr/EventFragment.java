@@ -248,8 +248,7 @@ public class EventFragment extends Fragment {
 			noteET.setText(event.note);
 			noteET.setEnabled(true);
 			clearButton.setEnabled(true);
-			//shareButton.setEnabled(true);
-			shareButton.setEnabled(false);
+			//shareButton.setEnabled(true);  Share turned off
 
 			long hoursIntoConvention = Helpers.getHoursIntoConvention();
 			boolean started = event.day * 24 + event.hour <= hoursIntoConvention;
@@ -328,7 +327,6 @@ public class EventFragment extends Fragment {
 		boxIV.setImageResource(R.drawable.box_iv_no_image_text);
 	}
 
-/*  Removed share icon JLF 5/16/26
 	private void share() {
 		String s = event.title + ": " + noteET.getText().toString();
 
@@ -345,7 +343,6 @@ public class EventFragment extends Fragment {
 		startActivity(Intent.createChooser(sharingIntent, "Share via"));
 
 	}
-*/
 
 	private void saveEventData() {
 		if (event != null) {
