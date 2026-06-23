@@ -27,6 +27,7 @@
 
 	</PreferenceCategory>
 
+<!--
 	<PreferenceCategory
 		android:key="pref_key_schedules"
 		android:title="@string/settings_schedule">
@@ -45,15 +46,16 @@
 			android:key="@string/pref_key_schedule_delete"
 			android:title="@string/settings_schedule_delete"/>
 
+
 		<Preference
 			android:key="@string/pref_key_schedule_merge"
 			android:title="@string/settings_schedule_merge"/>
 
-		<!--
         <Preference
 			android:key="@string/pref_key_schedule_export"
 			android:title="@string/settings_schedule_export"/>
-			-->
 
 	</PreferenceCategory>
+			-->
+
 </PreferenceScreen>

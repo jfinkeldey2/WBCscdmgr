@@ -73,7 +73,7 @@
 7/25/2026~17~Root H2/3~~C~HWO~3~~L. McKinnes ~Sunburst~ROT~EOR
 7/25/2026~17~Splendor Duel H1/2~~B~HWO~2~~C. Chauvin ~Seasons~SP2~EOR
 7/25/2026~17~Titan H1/4~~A~HMW-P~5~~D. desJardins ~First Tracks Poolside~TTN~EOR
-7/25/2026~17~San Juan Final~~B~SwEl~1~~J. Mullet ~Fox Den~SJN~EOR
+7/25/2026~17~San Juan F~~B~SwEl~1~~J. Mullet ~Fox Den~SJN~EOR
 7/25/2026~18~Large Game Collection Management ~~--~--~1~~E. Engelmann ~Dogwood~--~EOR
 7/25/2026~18~Carcassonne D1/1~~--~--~1~~K. Hammond ~EH Annex #1~CAR~EOR
 7/25/2026~18~Victory in the Pacific D1/1~~--~--~1~~T. Drozd ~EH Annex #6~VIP~EOR
@@ -98,7 +98,7 @@
 7/25/2026~23~Las Vegas R2/2~~C~SE~1~~L. Wojtaszczyk ~Grand Ballroom~LAS~EOR
 7/25/2026~24~Open Gaming Library Closes ~~--~--~--~~S. Buckwalter ~Exhibit Hall~--~EOR
 7/25/2026~24~Las Vegas SF~~C~SE~1~~L. Wojtaszczyk ~Grand Ballroom~LAS~EOR
-7/26/2026~1~Las Vegas Final~~C~SE~1~~L. Wojtaszczyk ~Grand Ballroom~LAS~EOR
+7/26/2026~1~Las Vegas F~~C~SE~1~~L. Wojtaszczyk ~Grand Ballroom~LAS~EOR
 7/26/2026~7.5~Yoga for all levels ~~--~--~0.75~~J. Lewis ~Ski Lodge Deck~--~EOR
 7/26/2026~8~Registration ~~--~--~12~~K. Gutermuth ~Stag Pass~--~EOR
 7/26/2026~8~Christian Worship Service ~~--~--~1~~G. Petroski ~Sunburst~--~EOR
@@ -170,11 +170,11 @@
 7/26/2026~15~Freeman's Farm H1/4~~B~HMW-P~3~~J. Lange ~Foggy Brews~FFM~EOR
 7/26/2026~15~Navegador H1/3~~B~HMW-P~2~~C. Martin ~Sunburst~NVG~EOR
 7/26/2026~15~Carcassonne SF~~B~SE~1~~K. Hammond ~Seasons~CAR~EOR
-7/26/2026~15~Small World Final~~B~HMW-P~2~~T. O'Flynn ~Grand Ballroom~SMW~EOR
+7/26/2026~15~Small World F~~B~HMW-P~2~~T. O'Flynn ~Grand Ballroom~SMW~EOR
 7/26/2026~16~Juniors Meet and Greet ~~--~--~2~~M. Byrd ~Hemlock~NA~EOR
 7/26/2026~16~Football Strategy D1/1~~--~--~1~~B. Schoose ~EH Annex #1~FBS~EOR
 7/26/2026~16~Splendor D1/1~~--~--~1~~R. Murray ~EH Annex #5~SPD~EOR
-7/26/2026~16~Carcassonne Final~~B~SE~1~~K. Hammond ~Seasons~CAR~EOR
+7/26/2026~16~Carcassonne F~~B~SE~1~~K. Hammond ~Seasons~CAR~EOR
 7/26/2026~16~Castles of Burgundy H1/3~~B~HMW-P~3~~R. Irving ~Sunburst~COB~EOR
 7/26/2026~16~Paths of Glory R2/2~~C~SEM~6~~A. Gregorio ~Winterberry~POG~EOR
 7/26/2026~16~7 Wonders SF~~B~HMW-P~2~~E. Shea ~Grand Ballroom~7WS~EOR
@@ -217,7 +217,7 @@
 7/26/2026~23~Flip 7 R1/1~~B~SE~1~~K. Warrender ~Grand Ballroom~FL7~EOR
 7/26/2026~24~Open Gaming Library Closes ~~--~--~--~~S. Buckwalter ~Exhibit Hall~--~EOR
 7/26/2026~24~Flip 7 SF~~B~SE~1~~K. Warrender ~Grand Ballroom~FL7~EOR
-7/27/2026~1~Flip 7 Final~~B~SE~1~~K. Warrender ~Grand Ballroom~FL7~EOR
+7/27/2026~1~Flip 7 F~~B~SE~1~~K. Warrender ~Grand Ballroom~FL7~EOR
 7/27/2026~7.5~Yoga for all levels ~~--~--~0.75~~J. Lewis ~Ski Lodge Deck~--~EOR
 7/27/2026~8~Registration ~~--~--~12~~K. Gutermuth ~Stag Pass~--~EOR
 7/27/2026~9~Open Gaming ~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~EOR
@@ -284,7 +284,7 @@
 7/27/2026~14~Dominion H3/3~~B~HWO~1~~R. Bielefeldt ~Seasons~DOM~EOR
 7/27/2026~14~Sekigahara R2/3~~C~SwEl~3~~D. Mishler ~Maple~SKG~EOR
 7/27/2026~14~Victory in the Pacific R5/5~~B~SwEl~5~~T. Drozd ~Snowflake~VIP~EOR
-7/27/2026~14~Age of Renaissance Final~~B~HMW-P~4~~J. Spencer ~Timberstone~AOR~EOR
+7/27/2026~14~Age of Renaissance F~~B~HMW-P~4~~J. Spencer ~Timberstone~AOR~EOR
 7/27/2026~15~Las Vegas Juniors ~~C~Jr SE~2~~N. Heinz ~Hemlock~--~EOR
 7/27/2026~15~Formula De H2/4~~C~HMW-P~3~~E. Meader ~Alpine~FDE~EOR
 7/27/2026~15~Pirate's Cove H1/3~~B~HMW-P~2~~J. Otwell ~Timberstone~PRC~EOR
@@ -292,7 +292,7 @@
 7/27/2026~15~Swords & Sails R1/3~~B~SW~4~~J. Williams ~Exhibit Hall~SWS~EOR
 7/27/2026~15~Titan 2-Player R2/2~~B~HMSE~5~~D. desJardins ~First Tracks Poolside~TT2~EOR
 7/27/2026~15~Wingspan H1/3~~B~HMW-P~2~~P. Swift ~Seasons~WSN~EOR
-7/27/2026~15~18xx Final~~B~HMW-T~6~~T. McCorry ~Laurel~8XX~EOR
+7/27/2026~15~18xx F~~B~HMW-T~6~~T. McCorry ~Laurel~8XX~EOR
 7/27/2026~16~The Napoleonic Wars D2/2~~--~--~1~~G. Williams ~EH Annex #8~TNW~EOR
 7/27/2026~16~Kremlin H2/4~~B~HMW-P~3~~S. Cuccaro ~Timberstone~KRM~EOR
 7/27/2026~16~Merchant of Venus H1/3~~B~HMW-P~3~~R. Irving ~Fox Den~MOV~EOR
@@ -306,7 +306,7 @@
 7/27/2026~17~Ticket To Ride H2/4~~B~HMW-T~2~~K. Grey ~Seasons~TTR~EOR
 7/27/2026~17~Twilight Struggle R3/5~~B~SW~4~~R. MacInnis ~Sunburst~TWS~EOR
 7/27/2026~17~Dominion QF~~B~HWO~1~~R. Bielefeldt ~Seasons~DOM~EOR
-7/27/2026~17~Virgin Queen Final~~B~HMW-P~6~~E. Beach ~Timberstone~VGQ~EOR
+7/27/2026~17~Virgin Queen F~~B~HMW-P~6~~E. Beach ~Timberstone~VGQ~EOR
 7/27/2026~18~Risk Star Wars Juniors ~~C~Jr SE~2~~C. Melton ~Hemlock~--~EOR
 7/27/2026~18~Boxcars H2/3~~B~HMW-P~4~~T. Bromley ~Fox Den~BXC~EOR
 7/27/2026~18~History of the World H1/2~~B~HMW-P~6~~ ~Alpine~HWD~EOR
@@ -320,7 +320,7 @@
 7/27/2026~19~Star Wars: Outer Rim H3/3~~B~HMW-T~3~~M. Sample ~Alpine~SRM~EOR
 7/27/2026~19~Beyond the Sun SF~~B~HMW-P~2~~J. Wu ~Fox Den~BSN~EOR
 7/27/2026~19~Victory in the Pacific SF~~B~SwEl~5~~T. Drozd ~Snowflake~VIP~EOR
-7/27/2026~19~7 Wonders Final~~B~HMW-P~2~~E. Shea ~Dogwood~7WS~EOR
+7/27/2026~19~7 Wonders F~~B~HMW-P~2~~E. Shea ~Dogwood~7WS~EOR
 7/27/2026~20~Lost Cities D1/1~~--~--~1~~R. Pettis ~EH Annex #1~LST~EOR
 7/27/2026~20~Power Grid H3/3~~A~HMW-P~3~~M. Munson ~Timberstone~PGD~EOR
 7/27/2026~20~Win, Place, & Show H1/3~~C~HWO~3~~J. Romano ~Evergreen~WPS~EOR
@@ -329,7 +329,7 @@
 7/27/2026~21~Stone Age H2/3~~B~HWO~2~~D. Stufflet ~Wintergreen~STA~EOR
 7/27/2026~21~Twilight Struggle R4/5~~B~SW~4~~R. MacInnis ~Sunburst~TWS~EOR
 7/27/2026~21~Five Tribes SF~~B~HMW-P~2~~C. Wildes ~Snowflake~5TR~EOR
-7/27/2026~22~Beyond the Sun Final~~B~HMW-P~2~~J. Wu ~Laurel~BSN~EOR
+7/27/2026~22~Beyond the Sun F~~B~HMW-P~2~~J. Wu ~Laurel~BSN~EOR
 7/27/2026~23~Social Deduction Games ~~--~Demo~3~~ ~First Tracks~--~EOR
 7/27/2026~23~Ingenious H1/3~~B~HWO~1~~M. DuBoff ~Seasons~ING~EOR
 7/27/2026~23~Amun Re SF~~B~HMW-P~2~~E. Freeman ~Timberstone~AMR~EOR
@@ -354,16 +354,16 @@
 7/28/2026~9~Twilight Struggle R5/5~~B~SW~4~~R. MacInnis ~Sunburst~TWS~EOR
 7/28/2026~9~Waterloo R3/5~~A~SwEl~6~~E. Menzel ~Winterberry~WAT~EOR
 7/28/2026~9~Wooden Ships & Iron Men R4/8~~B~SwEl~2~~T. Hitchings ~Winterberry~WSM~EOR
-7/28/2026~9~Advanced Civilization Final~~B~HMW-P~8~~J. Spencer ~First Tracks Slopeside~ACV~EOR
-7/28/2026~9~Five Tribes Final~~B~HMW-P~2~~C. Wildes ~Laurel~5TR~EOR
-7/28/2026~9~Paths of Glory Final~~C~SEM~6~~A. Gregorio ~Winterberry~POG~EOR
-7/28/2026~9~Sekigahara Final~~C~SwEl~3~~D. Mishler ~Laurel~SKG~EOR
-7/28/2026~9~Victory in the Pacific Final~~B~SwEl~5~~T. Drozd ~Laurel~VIP~EOR
+7/28/2026~9~Advanced Civilization F~~B~HMW-P~8~~J. Spencer ~First Tracks Slopeside~ACV~EOR
+7/28/2026~9~Five Tribes F~~B~HMW-P~2~~C. Wildes ~Laurel~5TR~EOR
+7/28/2026~9~Paths of Glory F~~C~SEM~6~~A. Gregorio ~Winterberry~POG~EOR
+7/28/2026~9~Sekigahara F~~C~SwEl~3~~D. Mishler ~Laurel~SKG~EOR
+7/28/2026~9~Victory in the Pacific F~~B~SwEl~5~~T. Drozd ~Laurel~VIP~EOR
 7/28/2026~10~Acquire D1/1~~--~--~1~~C. Ackman ~EH Annex #5~ACQ~EOR
 7/28/2026~10~Puerto Rico D1/1~~--~--~1~~R. Shay ~EH Annex #2~PRO~EOR
 7/28/2026~10~The Russian Campaign D1/1~~--~--~1~~G. Karahalios ~Winterberry~TRC~EOR
-7/28/2026~10~Amun Re Final~~B~HMW-P~2~~E. Freeman ~Laurel~AMR~EOR
-7/28/2026~10~Through the Ages Final~~A~HMW-P~4~~R. Buehler ~Laurel~AGE~EOR
+7/28/2026~10~Amun Re F~~B~HMW-P~2~~E. Freeman ~Laurel~AMR~EOR
+7/28/2026~10~Through the Ages F~~A~HMW-P~4~~R. Buehler ~Laurel~AGE~EOR
 7/28/2026~11.25~BPA Annual Meeting ~~--~--~0.75~~A. Lewis ~Grand Ballroom~--~EOR
 7/28/2026~12~Ingenious Juniors ~~C~Jr SE~2~~S. LeWinter ~Hemlock~--~EOR
 7/28/2026~12~Arcs D1/1~~--~--~1~~J. Tamburo ~EH Annex #1~ARC~EOR
@@ -386,7 +386,7 @@
 7/28/2026~14~Titan H2/4~~A~HMW-P~5~~D. desJardins ~First Tracks Poolside~TTN~EOR
 7/28/2026~14~Versailles 1919 H1/2~~B~HMW-P~3~~R. Pettis ~Grand Ballroom~V19~EOR
 7/28/2026~14~Star Wars: Outer Rim SF~~B~HMW-T~3~~M. Sample ~Alpine~SRM~EOR
-7/28/2026~14~Agricola Final~~A~HMW-P~3~~L. Sperling ~Laurel~AGR~EOR
+7/28/2026~14~Agricola F~~A~HMW-P~3~~L. Sperling ~Laurel~AGR~EOR
 7/28/2026~15~Family Wits and Wagers Juniors ~~C~Jr SE~2~~P. Shea ~Fox Den~--~EOR
 7/28/2026~15~Commands & Colors: Napoleonics D1/1~~--~--~1~~M. Polcen ~EH Annex #5~CCN~EOR
 7/28/2026~15~Monsters Menace America D1/1~~--~--~1~~D. Pack ~EH Annex #7~MMA~EOR
@@ -407,7 +407,7 @@
 7/28/2026~17~Freeman's Farm H3/4~~B~HMW-P~3~~J. Lange ~Foggy Brews~FFM~EOR
 7/28/2026~17~Superstar Baseball R1/2~~B~SwEl~4~~R. Lee ~Chestnut~SSB~EOR
 7/28/2026~17~Great Western Trail SF~~A~HMW-P~3~~D. Versak ~Laurel~GWT~EOR
-7/28/2026~17~Root Final~~C~HWO~3~~L. McKinnes ~Snowflake~ROT~EOR
+7/28/2026~17~Root F~~C~HWO~3~~L. McKinnes ~Snowflake~ROT~EOR
 7/28/2026~18~Family Facts in Four Juniors ~~C~Jr SE~1~~A. Drummond ~Fox Den~--~EOR
 7/28/2026~18~Air Baron H3/4~~B~HMW-P~3~~M. Jamelli ~Dogwood~ABN~EOR
 7/28/2026~18~Atlantic Storm H2/3~~A~HMW-P~2~~T. Evinger ~Timberstone~ACS~EOR
@@ -431,7 +431,7 @@
 7/28/2026~19~Kremlin H3/4~~B~HMW-P~3~~S. Cuccaro ~Grand Ballroom~KRM~EOR
 7/28/2026~19~March Madness H2/4~~B~HMSE~3~~B. Reiff ~Evergreen~MMS~EOR
 7/28/2026~19~Splendor QF~~B~HMW-P~1~~R. Murray ~Grand Ballroom~SPD~EOR
-7/28/2026~19~Star Wars: Outer Rim Final~~B~HMW-T~3~~M. Sample ~Laurel~SRM~EOR
+7/28/2026~19~Star Wars: Outer Rim F~~B~HMW-T~3~~M. Sample ~Laurel~SRM~EOR
 7/28/2026~20~The Battle of Cowpens ~~--~--~1~~B. Sinigaglio ~Foggy Brews~--~EOR
 7/28/2026~20~Medici H3/3~~C~HWO~2~~J. Cornett ~Seasons~MED~EOR
 7/28/2026~20~Naval War H1/3~~B~HWO~3~~J. Kramer ~Grand Ballroom~NVW~EOR
@@ -441,7 +441,7 @@
 7/28/2026~20~Ivanhoe SF~~B~HMW-P~2~~B. Roeper ~Grand Ballroom~IVH~EOR
 7/28/2026~20~Russian Railroads SF~~A~HMW-T~2~~I. Collins II ~Laurel~RRR~EOR
 7/28/2026~20~Splendor SF~~B~HMW-P~1~~R. Murray ~Grand Ballroom~SPD~EOR
-7/28/2026~20~Great Western Trail Final~~A~HMW-P~3~~D. Versak ~Laurel~GWT~EOR
+7/28/2026~20~Great Western Trail F~~A~HMW-P~3~~D. Versak ~Laurel~GWT~EOR
 7/28/2026~21~Saint Petersburg D1/1~~--~--~1~~R. Feathers ~EH Annex #2~SPG~EOR
 7/28/2026~21~Ra! H2/4~~B~HMW-P~2~~A. Bove ~Grand Ballroom~RA!~EOR
 7/28/2026~21~Star Wars: Queen's Gambit H2/3~~B~HWO~2~~C. Kizer ~Maple~QGB~EOR
@@ -449,17 +449,17 @@
 7/28/2026~22~King of Tokyo D1/1~~--~--~1~~T. O'Flynn ~EH Annex #7~KOT~EOR
 7/28/2026~22~Ingenious H2/3~~B~HWO~1~~M. DuBoff ~Seasons~ING~EOR
 7/28/2026~22~Saint Petersburg H1/3~~B~HMW-P~2~~R. Feathers ~Wintergreen~SPG~EOR
-7/28/2026~22~Ivanhoe Final~~B~HMW-P~2~~B. Roeper ~Laurel~IVH~EOR
-7/28/2026~22~Russian Railroads Final~~A~HMW-T~2~~I. Collins II ~Laurel~RRR~EOR
+7/28/2026~22~Ivanhoe F~~B~HMW-P~2~~B. Roeper ~Laurel~IVH~EOR
+7/28/2026~22~Russian Railroads F~~A~HMW-T~2~~I. Collins II ~Laurel~RRR~EOR
 7/28/2026~23~Social Deduction Games ~~--~Demo~3~~ ~First Tracks~--~EOR
 7/28/2026~23~King of Tokyo R1/1~~C~SE~1~~T. O'Flynn ~Grand Ballroom~KOT~EOR
 7/28/2026~23~Win, Place, & Show H2/3~~C~HWO~3~~J. Romano ~Evergreen~WPS~EOR
 7/28/2026~23~Splendor Duel SF~~B~HWO~1~~C. Chauvin ~Sunburst~SP2~EOR
-7/28/2026~23~Dominion Final~~B~HWO~1~~R. Bielefeldt ~Laurel~DOM~EOR
+7/28/2026~23~Dominion F~~B~HWO~1~~R. Bielefeldt ~Laurel~DOM~EOR
 7/28/2026~24~Open Gaming Library Closes ~~--~--~--~~S. Buckwalter ~Exhibit Hall~--~EOR
 7/28/2026~24~King of Tokyo SF~~C~SE~1~~T. O'Flynn ~Grand Ballroom~KOT~EOR
-7/28/2026~24~Splendor Duel Final~~B~HWO~1~~C. Chauvin ~Sunburst~SP2~EOR
-7/29/2026~1~King of Tokyo Final~~C~SE~1~~T. O'Flynn ~Grand Ballroom~KOT~EOR
+7/28/2026~24~Splendor Duel F~~B~HWO~1~~C. Chauvin ~Sunburst~SP2~EOR
+7/29/2026~1~King of Tokyo F~~C~SE~1~~T. O'Flynn ~Grand Ballroom~KOT~EOR
 7/29/2026~7.5~Yoga for all levels ~~--~--~0.75~~J. Lewis ~Ski Lodge Deck~--~EOR
 7/29/2026~8~Registration ~~--~--~12~~K. Gutermuth ~Stag Pass~--~EOR
 7/29/2026~8~Railways of the World D1/1~~--~--~1~~P. LeBoeuf ~EH Annex #7~ROW~EOR
@@ -509,7 +509,7 @@
 7/29/2026~12~Leaping Lemmings H2/4~~C~HWO~2~~B. Powers ~Wintergreen~LLM~EOR
 7/29/2026~12~Titan H3/4~~A~HMW-P~5~~D. desJardins ~First Tracks Center~TTN~EOR
 7/29/2026~12~Boxcars SF~~B~HMW-P~4~~T. Bromley ~Laurel~BXC~EOR
-7/29/2026~12~Thunder Alley Final~~B~HMW-T~3~~I. Collins II ~Laurel~THA~EOR
+7/29/2026~12~Thunder Alley F~~B~HMW-T~3~~I. Collins II ~Laurel~THA~EOR
 7/29/2026~13~Guillotine Juniors ~~C~Jr SE~2~~R. Stakenas ~Hemlock~--~EOR
 7/29/2026~13~Alhambra D1/1~~--~--~1~~D. Gutermuth ~EH Annex #6~ALH~EOR
 7/29/2026~13~Castles of Burgundy H2/3~~B~HMW-P~3~~R. Irving ~Sunburst~COB~EOR
@@ -521,12 +521,12 @@
 7/29/2026~13~Santa Fe Rails H3/3~~B~HMW-P~2~~A. Drummond ~Snowflake~SFR~EOR
 7/29/2026~13~Terraforming Mars H2/2~~A~HMW-P~4~~A. Martin ~Seasons~TFM~EOR
 7/29/2026~13~Stone Age QF~~B~HWO~2~~D. Stufflet ~Seasons~STA~EOR
-7/29/2026~13~Catan: Cities & Knights Final~~B~HMW-P~3~~C. Gnech ~Laurel~C&K~EOR
+7/29/2026~13~Catan: Cities & Knights F~~B~HMW-P~3~~C. Gnech ~Laurel~C&K~EOR
 7/29/2026~14~Circus Maximus H2/3~~C~HMW-P~4~~B. Smith ~Wintergreen~CMS~EOR
 7/29/2026~14~Great Campaigns of the ACW R2/3~~B~SwEl~3~~D. Cross ~First Tracks Poolside~GCA~EOR
 7/29/2026~14~Robo Rally H2/3~~C~HWO~3~~M. Houde ~Grand Ballroom~RRY~EOR
 7/29/2026~14~Imperial Struggle SF~~B~SwEl~5~~T. Drueding ~Snowflake~IMS~EOR
-7/29/2026~14~Splendor Final~~B~HMW-P~1~~R. Murray ~Grand Ballroom~SPD~EOR
+7/29/2026~14~Splendor F~~B~HMW-P~1~~R. Murray ~Grand Ballroom~SPD~EOR
 7/29/2026~15~Incan Gold Juniors ~~C~Jr SE~2~~E. Shea ~Hemlock~--~EOR
 7/29/2026~15~Alhambra H1/2~~B~HWO~2~~D. Gutermuth ~Sunburst~ALH~EOR
 7/29/2026~15~Auction H4/4~~B~HWO~1~~V. Kyrkos ~Chestnut~AUC~EOR
@@ -542,9 +542,9 @@
 7/29/2026~16~Freeman's Farm H4/4~~B~HMW-P~3~~J. Lange ~Foggy Brews~FFM~EOR
 7/29/2026~16~Naval War H2/3~~B~HWO~3~~J. Kramer ~Grand Ballroom~NVW~EOR
 7/29/2026~16~Sagrada H2/3~~B~HMW-P~1~~D. Schreier ~Seasons~SAG~EOR
-7/29/2026~16~Azul QF~~B~HMW-P~1~~E. Speaker ~Seasons~AZL~EOR
+7/29/2026~9~Azul QF~~B~HMW-P~1~~E. Speaker ~Seasons~AZL~EOR
 7/29/2026~16~Auction SF~~B~HWO~1~~V. Kyrkos ~Chestnut~AUC~EOR
-7/29/2026~16~Power Grid Final~~A~HMW-P~3~~M. Munson ~Laurel~PGD~EOR
+7/29/2026~16~Power Grid F~~A~HMW-P~3~~M. Munson ~Laurel~PGD~EOR
 7/29/2026~17~Alliance D1/1~~--~--~1~~S. McDonald ~EH Annex #1~ALL~EOR
 7/29/2026~17~Arcs H2/3~~B~HMW-P~4~~J. Tamburo ~Grand Ballroom~ARC~EOR
 7/29/2026~17~Football Strategy H2/2~~B~HMSE~7~~B. Schoose ~Evergreen~FBS~EOR
@@ -553,10 +553,10 @@
 7/29/2026~17~Railways of the World H2/3~~B~HMW-P~3~~P. LeBoeuf ~Alpine~ROW~EOR
 7/29/2026~17~Thurn & Taxis H2/3~~B~HWO~2~~A. Latto ~Seasons~T&T~EOR
 7/29/2026~17~Vegas Showdown H3/3~~B~HMW-P~2~~M. Kaltman ~Grand Ballroom~VSD~EOR
-7/29/2026~17~Azul SF~~B~HMW-P~1~~E. Speaker ~Seasons~AZL~EOR
+7/29/2026~10~Azul SF~~B~HMW-P~1~~E. Speaker ~Seasons~AZL~EOR
 7/29/2026~17~Monsters Menace America SF~~C~HMW-P~2~~D. Pack ~Grand Ballroom~MMA~EOR
-7/29/2026~17~Auction Final~~B~HWO~1~~V. Kyrkos ~Laurel~AUC~EOR
-7/29/2026~17~El Grande Final~~B~HMW-P~2~~R. Flowers ~Grand Ballroom~ELG~EOR
+7/29/2026~17~Auction F~~B~HWO~1~~V. Kyrkos ~Laurel~AUC~EOR
+7/29/2026~17~El Grande F~~B~HMW-P~2~~R. Flowers ~Grand Ballroom~ELG~EOR
 7/29/2026~18~Ticket to Ride Juniors ~~C~Jr SE~2~~A. Byrd ~Hemlock~--~EOR
 7/29/2026~18~Alliance R1/3~~C~SW~4~~S. McDonald ~Fox Den~ALL~EOR
 7/29/2026~18~History of the World H2/2~~B~HMW-P~6~~ ~Alpine~HWD~EOR
@@ -576,12 +576,12 @@
 7/29/2026~19~7 Wonders Duel QF~~B~HWO~2~~P. Maguire ~Seasons~7WD~EOR
 7/29/2026~19~Terraforming Mars QF~~A~HMW-P~4~~A. Martin ~Seasons~TFM~EOR
 7/29/2026~19~Adel Verpflichtet SF~~B~HMW-P~2~~A. Bender ~Snowflake~ADV~EOR
-7/29/2026~19~Imperial Struggle Final~~B~SwEl~5~~T. Drueding ~Laurel~IMS~EOR
-7/29/2026~19~Monsters Menace America Final~~C~HMW-P~2~~D. Pack ~Grand Ballroom~MMA~EOR
+7/29/2026~19~Imperial Struggle F~~B~SwEl~5~~T. Drueding ~Laurel~IMS~EOR
+7/29/2026~19~Monsters Menace America F~~C~HMW-P~2~~D. Pack ~Grand Ballroom~MMA~EOR
 7/29/2026~20~Lost Cities H1/4~~B~SwEl~1~~R. Pettis ~Seasons~LST~EOR
 7/29/2026~20~7 Wonders Duel SF~~B~HWO~2~~P. Maguire ~Sunburst~7WD~EOR
 7/29/2026~20~Ra: The Dice Game SF~~B~HWO~1~~C. Del Carpio ~Seasons~RDG~EOR
-7/29/2026~20~Commands & Colors: Napoleonics Final~~B~SwEl~2~~M. Polcen ~Maple~CCN~EOR
+7/29/2026~20~Commands & Colors: Napoleonics F~~B~SwEl~2~~M. Polcen ~Maple~CCN~EOR
 7/29/2026~21~Commands & Colors: Ancients D1/1~~--~--~1~~J. Hasty ~EH Annex #1~CCA~EOR
 7/29/2026~21~Battle Cry Mulligan~~A~SEM~2~~G. Heintzelman ~First Tracks Poolside~BCY~EOR
 7/29/2026~21~Castles of Mad King Ludwig H2/3~~A~HMW-P~2~~J. Corrado ~Seasons~CMK~EOR
@@ -589,18 +589,18 @@
 7/29/2026~21~Ingenious H3/3~~B~HWO~1~~M. DuBoff ~Seasons~ING~EOR
 7/29/2026~21~Saint Petersburg H3/3~~B~HMW-P~2~~R. Feathers ~Sunburst~SPG~EOR
 7/29/2026~21~Medici SF~~C~HWO~2~~J. Cornett ~Seasons~MED~EOR
-7/29/2026~21~Adel Verpflichtet Final~~B~HMW-P~2~~A. Bender ~Snowflake~ADV~EOR
-7/29/2026~21~Combat Commander Final~~B~SwEl~3~~N. Wagner ~Laurel~CBC~EOR
-7/29/2026~21~Ra: The Dice Game Final~~B~HWO~1~~C. Del Carpio ~Laurel~RDG~EOR
+7/29/2026~21~Adel Verpflichtet F~~B~HMW-P~2~~A. Bender ~Snowflake~ADV~EOR
+7/29/2026~21~Combat Commander F~~B~SwEl~3~~N. Wagner ~Laurel~CBC~EOR
+7/29/2026~21~Ra: The Dice Game F~~B~HWO~1~~C. Del Carpio ~Laurel~RDG~EOR
 7/29/2026~22~Ingenious QF~~B~HWO~1~~M. DuBoff ~Seasons~ING~EOR
-7/29/2026~22~7 Wonders Duel Final~~B~HWO~2~~P. Maguire ~Sunburst~7WD~EOR
+7/29/2026~22~7 Wonders Duel F~~B~HWO~2~~P. Maguire ~Sunburst~7WD~EOR
 7/29/2026~23~Social Deduction Games ~~--~Demo~3~~ ~First Tracks~--~EOR
 7/29/2026~23~Can't Stop R1/2~~C~SE~1~~A. Drummond ~Grand Ballroom~CNS~EOR
-7/29/2026~23~Medici Final~~C~HWO~2~~J. Cornett ~Seasons~MED~EOR
+7/29/2026~23~Medici F~~C~HWO~2~~J. Cornett ~Seasons~MED~EOR
 7/29/2026~24~Open Gaming Library Closes ~~--~--~--~~S. Buckwalter ~Exhibit Hall~--~EOR
 7/29/2026~24~Can't Stop R2/2~~C~SE~1~~A. Drummond ~Grand Ballroom~CNS~EOR
 7/30/2026~1~Can't Stop SF~~C~SE~1~~A. Drummond ~Grand Ballroom~CNS~EOR
-7/30/2026~2~Can't Stop Final~~C~SE~1~~A. Drummond ~Grand Ballroom~CNS~EOR
+7/30/2026~2~Can't Stop F~~C~SE~1~~A. Drummond ~Grand Ballroom~CNS~EOR
 7/30/2026~7.5~Yoga for all levels ~~--~--~0.75~~J. Lewis ~Ski Lodge Deck~--~EOR
 7/30/2026~8~Registration ~~--~--~12~~K. Gutermuth ~Stag Pass~--~EOR
 7/30/2026~9~Open Gaming ~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~EOR
@@ -634,7 +634,7 @@
 7/30/2026~9~Bunny Kingdom SF~~B~HMW-P~2~~K. Youells ~Snowflake~BKM~EOR
 7/30/2026~9~Everdell SF~~B~HMW-P~2~~A. Martin ~Sunburst~EVD~EOR
 7/30/2026~9~Saint Petersburg SF~~B~HMW-P~2~~R. Feathers ~Sunburst~SPG~EOR
-7/30/2026~9~Boxcars Final~~B~HMW-P~4~~T. Bromley ~Laurel~BXC~EOR
+7/30/2026~9~Boxcars F~~B~HMW-P~4~~T. Bromley ~Laurel~BXC~EOR
 7/30/2026~10~Vendors ~~--~--~8~~K. Gutermuth ~Timberstone~--~EOR
 7/30/2026~10~Advanced Squad Leader R2/3~~A~SE~5~~C. Schilling ~Winterberry~ASL~EOR
 7/30/2026~10~Formula Motor Racing H2/3~~B~HMW-P~2~~C. LeFevre ~Grand Ballroom~FMR~EOR
@@ -647,12 +647,12 @@
 7/30/2026~11~War At Sea R2/5~~A~SwEl~2~~V. Meconi ~First Tracks Center~WAS~EOR
 7/30/2026~11~Wingspan H2/3~~B~HMW-P~2~~P. Swift ~Grand Ballroom~WSN~EOR
 7/30/2026~11~Vegas Showdown SF~~B~HMW-P~2~~M. Kaltman ~Grand Ballroom~VSD~EOR
-7/30/2026~11~Bunny Kingdom Final~~B~HMW-P~2~~K. Youells ~Laurel~BKM~EOR
-7/30/2026~11~Everdell Final~~B~HMW-P~2~~A. Martin ~Laurel~EVD~EOR
+7/30/2026~11~Bunny Kingdom F~~B~HMW-P~2~~K. Youells ~Laurel~BKM~EOR
+7/30/2026~11~Everdell F~~B~HMW-P~2~~A. Martin ~Laurel~EVD~EOR
 7/30/2026~12~Blokus Juniors ~~C~Jr SE~2~~P. Shea ~Hemlock~--~EOR
 7/30/2026~12~B-17 R2/3~~A~SW~3~~M. Yoshikawa ~Wintergreen~B17~EOR
 7/30/2026~12~Commands & Colors: Ancients R4/4~~B~SwEl~1~~J. Hasty ~Maple~CCA~EOR
-7/30/2026~12~Kremlin Final~~B~HMW-P~3~~S. Cuccaro ~Laurel~KRM~EOR
+7/30/2026~12~Kremlin F~~B~HMW-P~3~~S. Cuccaro ~Laurel~KRM~EOR
 7/30/2026~13~Above the Trenches ~~--~--~2~~R. Radgoski ~First Tracks Slopeside~--~EOR
 7/30/2026~13~Reconstruction: An Uncivil Peace ~~--~--~2~~J. Poniske ~First Tracks Slopeside~--~EOR
 7/30/2026~13~Championship Formula Racing D1/1~~--~--~1~~C. Long ~EH Annex #5~CFR~EOR
@@ -687,7 +687,7 @@
 7/30/2026~15~Ark Nova SF~~A~HWO~3~~C. Weaver ~Seasons~AKN~EOR
 7/30/2026~15~Breakout Normandy SF~~B~SEM~6~~N. Thompson ~First Tracks Slopeside~BKN~EOR
 7/30/2026~15~Lords of Waterdeep SF~~B~HMW-P~2~~P. St. Pierre ~Seasons~LWD~EOR
-7/30/2026~15~Commands & Colors: Ancients Final~~B~SwEl~1~~J. Hasty ~Maple~CCA~EOR
+7/30/2026~15~Commands & Colors: Ancients F~~B~SwEl~1~~J. Hasty ~Maple~CCA~EOR
 7/30/2026~16~Innovation R4/4~~B~SwEl~1~~B. Woods ~Sunburst~IOV~EOR
 7/30/2026~16~Up Front R5/5~~B~SwEl~2~~K. Whitesell ~Fox Den~UPF~EOR
 7/30/2026~17~Advanced Squad Leader R3/3~~A~SE~5~~C. Schilling ~Winterberry~ASL~EOR
@@ -699,16 +699,16 @@
 7/30/2026~17~Charioteer SF~~B~HMW-P~2~~ ~Grand Ballroom~CTR~EOR
 7/30/2026~17~Freeman's Farm SF~~B~HMW-P~3~~J. Lange ~Foggy Brews~FFM~EOR
 7/30/2026~17~Star Wars: Rebellion SF~~B~SEM~4~~A. Gregorio ~Sunburst~SWR~EOR
-7/30/2026~17~Santa Fe Rails Final~~B~HMW-P~2~~A. Drummond ~Laurel~SFR~EOR
-7/30/2026~17~Stone Age Final~~B~HWO~2~~D. Stufflet ~Laurel~STA~EOR
-7/30/2026~17~Titan 2-Player Final~~B~HMSE~5~~D. desJardins ~Laurel~TT2~EOR
+7/30/2026~17~Santa Fe Rails F~~B~HMW-P~2~~A. Drummond ~Laurel~SFR~EOR
+7/30/2026~17~Stone Age F~~B~HWO~2~~D. Stufflet ~Laurel~STA~EOR
+7/30/2026~17~Titan 2-Player F~~B~HMSE~5~~D. desJardins ~Laurel~TT2~EOR
 7/30/2026~18~King of Tokyo Juniors ~~C~Jr SE~2~~L. Heinz ~Hemlock~--~EOR
 7/30/2026~18~Up Front QF~~B~SwEl~2~~K. Whitesell ~Fox Den~UPF~EOR
 7/30/2026~18~History of the World SF~~B~HMW-P~6~~ ~Alpine~HWD~EOR
 7/30/2026~18~Innovation SF~~B~SwEl~1~~B. Woods ~Sunburst~IOV~EOR
-7/30/2026~18~Empire Builder Final~~B~HMW-P~4~~T. Bromley ~Laurel~EPB~EOR
-7/30/2026~18~John Company Final~~B~HMW-P~5~~J. Burdett ~Alpine~JCY~EOR
-7/30/2026~18~Stock Car Championship Racing Final~~B~HMW-P~2~~D. Wolfe ~Wintergreen~SCC~EOR
+7/30/2026~18~Empire Builder F~~B~HMW-P~4~~T. Bromley ~Laurel~EPB~EOR
+7/30/2026~18~John Company F~~B~HMW-P~5~~J. Burdett ~Alpine~JCY~EOR
+7/30/2026~18~Stock Car Championship Racing F~~B~HMW-P~2~~D. Wolfe ~Wintergreen~SCC~EOR
 7/30/2026~19~Conquest of Paradise D1/1~~--~--~1~~K. McPartland ~EH Annex #2~CQP~EOR
 7/30/2026~19~Race for the Galaxy D1/1~~--~--~1~~E. Freeman ~EH Annex #5~RFG~EOR
 7/30/2026~19~Ace of Aces H4/4~~C~SwEl~1~~M. Chesnut ~Chestnut~AOA~EOR
@@ -717,10 +717,10 @@
 7/30/2026~19~Titan The Arena H2/3~~B~HMW-P~1~~K. Breza ~Snowflake~TTA~EOR
 7/30/2026~19~War At Sea QF~~A~SwEl~2~~V. Meconi ~First Tracks Center~WAS~EOR
 7/30/2026~19~Terraforming Mars SF~~A~HMW-P~4~~A. Martin ~Seasons~TFM~EOR
-7/30/2026~19~Charioteer Final~~B~HMW-P~2~~ ~Grand Ballroom~CTR~EOR
-7/30/2026~19~Innovation Final~~B~SwEl~1~~B. Woods ~Sunburst~IOV~EOR
-7/30/2026~19~Lords of Waterdeep Final~~B~HMW-P~2~~P. St. Pierre ~Laurel~LWD~EOR
-7/30/2026~19~Railways of the World Final~~B~HMW-P~3~~P. LeBoeuf ~Laurel~ROW~EOR
+7/30/2026~19~Charioteer F~~B~HMW-P~2~~ ~Grand Ballroom~CTR~EOR
+7/30/2026~19~Innovation F~~B~SwEl~1~~B. Woods ~Sunburst~IOV~EOR
+7/30/2026~19~Lords of Waterdeep F~~B~HMW-P~2~~P. St. Pierre ~Laurel~LWD~EOR
+7/30/2026~19~Railways of the World F~~B~HMW-P~3~~P. LeBoeuf ~Laurel~ROW~EOR
 7/30/2026~20~America 250 Anniversary Party ~~--~--~1~~M. Miklos ~Foggy Brews~--~EOR
 7/30/2026~20~Euphrat & Tigris D1/1~~--~--~1~~C. Moffit ~EH Annex #1~E&T~EOR
 7/30/2026~20~Memoir '44 D1/1~~--~--~1~~S. Edelston ~EH Annex #6~M44~EOR
@@ -736,16 +736,16 @@
 7/30/2026~21~Race for the Galaxy H1/4~~B~HMW-P~1~~E. Freeman ~Seasons~RFG~EOR
 7/30/2026~21~Ingenious SF~~B~HWO~1~~M. DuBoff ~Wintergreen~ING~EOR
 7/30/2026~21~War At Sea SF~~A~SwEl~2~~V. Meconi ~First Tracks Center~WAS~EOR
-7/30/2026~21~Up Front Final~~B~SwEl~2~~K. Whitesell ~Fox Den~UPF~EOR
+7/30/2026~21~Up Front F~~B~SwEl~2~~K. Whitesell ~Fox Den~UPF~EOR
 7/30/2026~22~Race for the Galaxy H2/4~~B~HMW-P~1~~E. Freeman ~Seasons~RFG~EOR
-7/30/2026~22~Ingenious Final~~B~HWO~1~~M. DuBoff ~Wintergreen~ING~EOR
+7/30/2026~22~Ingenious F~~B~HWO~1~~M. DuBoff ~Wintergreen~ING~EOR
 7/30/2026~23~Social Deduction Games ~~--~Demo~3~~ ~First Tracks~--~EOR
 7/30/2026~23~Pro Golf R1/1~~A~SE~2~~B. Monnin ~Grand Ballroom~PGF~EOR
 7/30/2026~23~Moon Colony Bloodbath SF~~C~HMW-P~2~~R. Feathers ~Seasons~MCB~EOR
-7/30/2026~23~Vegas Showdown Final~~B~HMW-P~2~~M. Kaltman ~Laurel~VSD~EOR
-7/30/2026~23~War At Sea Final~~A~SwEl~2~~V. Meconi ~First Tracks Center~WAS~EOR
+7/30/2026~23~Vegas Showdown F~~B~HMW-P~2~~M. Kaltman ~Laurel~VSD~EOR
+7/30/2026~23~War At Sea F~~A~SwEl~2~~V. Meconi ~First Tracks Center~WAS~EOR
 7/30/2026~24~Open Gaming Library Closes ~~--~--~--~~S. Buckwalter ~Exhibit Hall~--~EOR
-7/31/2026~1~Pro Golf Final~~A~S\E~2~~B. Monnin ~Grand Ballroom~PGF~EOR
+7/31/2026~1~Pro Golf F~~A~S\E~2~~B. Monnin ~Grand Ballroom~PGF~EOR
 7/31/2026~7.5~Yoga for all levels ~~--~--~0.75~~J. Lewis ~Ski Lodge Deck~--~EOR
 7/31/2026~8~Registration ~~--~--~12~~K. Gutermuth ~Stag Pass~--~EOR
 7/31/2026~9~Open Gaming ~~--~--~15~~S. Buckwalter ~Exhibit Hall~--~EOR
@@ -776,10 +776,10 @@
 7/31/2026~9~Gaia Project SF~~B~HMW-P~3~~D. Cederquist ~Grand Ballroom~GAP~EOR
 7/31/2026~9~Here I Stand SF~~B~HMW-P~6~~J. Rice ~Wagners Run~HIS~EOR
 7/31/2026~9~Superstar Baseball SF~~B~SwEl~4~~R. Lee ~Chestnut~SSB~EOR
-7/31/2026~9~Breakout Normandy Final~~B~SEM~6~~N. Thompson ~First Tracks Slopeside~BKN~EOR
-7/31/2026~9~Great Campaigns of the ACW Final~~B~SwEl~3~~D. Cross ~Laurel~GCA~EOR
-7/31/2026~9~Moon Colony Bloodbath Final~~C~HMW-P~2~~R. Feathers ~Laurel~MCB~EOR
-7/31/2026~9~Star Wars: Rebellion Final~~B~SEM~4~~A. Gregorio ~Laurel~SWR~EOR
+7/31/2026~9~Breakout Normandy F~~B~SEM~6~~N. Thompson ~First Tracks Slopeside~BKN~EOR
+7/31/2026~9~Great Campaigns of the ACW F~~B~SwEl~3~~D. Cross ~Laurel~GCA~EOR
+7/31/2026~9~Moon Colony Bloodbath F~~C~HMW-P~2~~R. Feathers ~Laurel~MCB~EOR
+7/31/2026~9~Star Wars: Rebellion F~~B~SEM~4~~A. Gregorio ~Laurel~SWR~EOR
 7/31/2026~10~Vendors ~~--~--~8~~K. Gutermuth ~Timberstone~--~EOR
 7/31/2026~10~Automobile H1/2~~B~HMW-P~3~~D. Borton ~Sunburst~AUT~EOR
 7/31/2026~10~Naval War H3/3~~B~HWO~3~~J. Kramer ~Grand Ballroom~NVW~EOR
@@ -796,11 +796,11 @@
 7/31/2026~11~Atlantic Storm SF~~A~HMW-P~2~~T. Evinger ~Grand Ballroom~ACS~EOR
 7/31/2026~11~Cascadia SF~~B~HWO~2~~H. Allen ~Seasons~CAS~EOR
 7/31/2026~11~Titan SF~~A~HMW-P~5~~D. desJardins ~First Tracks Center~TTN~EOR
-7/31/2026~11~Saint Petersburg Final~~B~HMW-P~2~~R. Feathers ~Laurel~SPG~EOR
+7/31/2026~11~Saint Petersburg F~~B~HMW-P~2~~R. Feathers ~Laurel~SPG~EOR
 7/31/2026~12~Splendor Juniors ~~C~Jr SE~2~~J. Shea ~Hemlock~--~EOR
 7/31/2026~12~Air Baron SF~~B~HMW-P~3~~M. Jamelli ~Dogwood~ABN~EOR
 7/31/2026~12~Arcs SF~~B~HMW-P~4~~J. Tamburo ~Grand Ballroom~ARC~EOR
-7/31/2026~12~Ark Nova Final~~A~HWO~3~~C. Weaver ~Laurel~AKN~EOR
+7/31/2026~12~Ark Nova F~~A~HWO~3~~C. Weaver ~Laurel~AKN~EOR
 7/31/2026~13~Above the Trenches ~~--~--~2~~R. Radgoski ~First Tracks Center~--~EOR
 7/31/2026~13~Championship Formula Racing H2/3~~B~HMW-P~4~~C. Long ~Evergreen~CFR~EOR
 7/31/2026~13~Dominant Species H2/2~~B~HMW-P~4~~L. McKinnes ~Seasons~DSP~EOR
@@ -814,8 +814,8 @@
 7/31/2026~13~Star Wars: Queen's Gambit SF~~B~HWO~2~~C. Kizer ~Fox Den~QGB~EOR
 7/31/2026~13~Thurn & Taxis SF~~B~HWO~2~~A. Latto ~Sunburst~T&T~EOR
 7/31/2026~13~Waterloo SF~~A~SwEl~6~~E. Menzel ~Winterberry~WAT~EOR
-7/31/2026~13~Atlantic Storm Final~~A~HMW-P~2~~T. Evinger ~Laurel~ACS~EOR
-7/31/2026~13~Britannia Final~~B~HMW-P~5~~M. O'Connor ~Wagners Run~BRI~EOR
+7/31/2026~13~Atlantic Storm F~~A~HMW-P~2~~T. Evinger ~Laurel~ACS~EOR
+7/31/2026~13~Britannia F~~B~HMW-P~5~~M. O'Connor ~Wagners Run~BRI~EOR
 7/31/2026~14~65: Squad Level Battles R1/1~~B~SE~3~~S. Shedden ~Winterberry~65S~EOR
 7/31/2026~14~Conquest of Paradise H2/3~~B~HMW-P~3~~K. McPartland ~First Tracks Center~CQP~EOR
 7/31/2026~14~Crokinole H1/4~~C~SwEl~2~~S. Brown ~Snowflake~CRK~EOR
@@ -829,12 +829,12 @@
 7/31/2026~15~Quacks H2/3~~B~HMW-P~2~~V. Hansen ~Seasons~QOQ~EOR
 7/31/2026~15~Alhambra SF~~B~HWO~2~~D. Gutermuth ~Fox Den~ALH~EOR
 7/31/2026~15~Castles of Mad King Ludwig SF~~A~HMW-P~2~~J. Corrado ~Seasons~CMK~EOR
-7/31/2026~15~Air Baron Final~~B~HMW-P~3~~M. Jamelli ~Dogwood~ABN~EOR
-7/31/2026~15~Azul Final~~B~HMW-P~1~~E. Speaker ~Laurel~AZL~EOR
-7/31/2026~15~Cascadia Final~~B~HWO~2~~H. Allen ~Laurel~CAS~EOR
-7/31/2026~15~For the People Final~~C~SEM~6~~J. Pei ~First Tracks Poolside~FTP~EOR
-7/31/2026~15~Star Wars: Queen's Gambit Final~~B~HWO~2~~C. Kizer ~Fox Den~QGB~EOR
-7/31/2026~15~Thurn & Taxis Final~~B~HWO~2~~A. Latto ~Sunburst~T&T~EOR
+7/31/2026~15~Air Baron F~~B~HMW-P~3~~M. Jamelli ~Dogwood~ABN~EOR
+7/31/2026~15~Azul F~~B~HMW-P~1~~E. Speaker ~Laurel~AZL~EOR
+7/31/2026~15~Cascadia F~~B~HWO~2~~H. Allen ~Laurel~CAS~EOR
+7/31/2026~15~For the People F~~C~SEM~6~~J. Pei ~First Tracks Poolside~FTP~EOR
+7/31/2026~15~Star Wars: Queen's Gambit F~~B~HWO~2~~C. Kizer ~Fox Den~QGB~EOR
+7/31/2026~15~Thurn & Taxis F~~B~HWO~2~~A. Latto ~Sunburst~T&T~EOR
 7/31/2026~16~Dune Imperium H3/3~~B~HMW-P~3~~J. Spencer ~Seasons~DNI~EOR
 7/31/2026~16~Afrika Korps SF~~A~SwEl~7~~B. Sinigaglio ~Winterberry~AFK~EOR
 7/31/2026~16~Galaxy Trucker SF~~B~HMW-P~2~~D. Finberg ~First Tracks Center~GXT~EOR
@@ -853,31 +853,31 @@
 7/31/2026~17~Memoir '44 SF~~B~SEM~2~~S. Edelston ~Maple~M44~EOR
 7/31/2026~17~Robo Rally SF~~C~HWO~3~~M. Houde ~Grand Ballroom~RRY~EOR
 7/31/2026~17~Sagrada SF~~B~HMW-P~1~~D. Schreier ~Seasons~SAG~EOR
-7/31/2026~17~Alhambra Final~~B~HWO~2~~D. Gutermuth ~Laurel~ALH~EOR
-7/31/2026~17~Arcs Final~~B~HMW-P~4~~J. Tamburo ~Laurel~ARC~EOR
-7/31/2026~17~Brass Final~~B~HMW-P~3~~J. Towne ~Dogwood~BRS~EOR
-7/31/2026~17~Castles of Mad King Ludwig Final~~A~HMW-P~2~~J. Corrado ~Laurel~CMK~EOR
+7/31/2026~17~Alhambra F~~B~HWO~2~~D. Gutermuth ~Laurel~ALH~EOR
+7/31/2026~17~Arcs F~~B~HMW-P~4~~J. Tamburo ~Laurel~ARC~EOR
+7/31/2026~17~Brass F~~B~HMW-P~3~~J. Towne ~Dogwood~BRS~EOR
+7/31/2026~17~Castles of Mad King Ludwig F~~A~HMW-P~2~~J. Corrado ~Laurel~CMK~EOR
 7/31/2026~18~Ivanhoe Juniors ~~C~Jr SE~2~~B. Roeper ~Hemlock~--~EOR
 7/31/2026~18~War of the Ring D1/1~~--~--~1~~J. Martin ~EH Annex #1~WOR~EOR
 7/31/2026~18~Circus Maximus H3/3~~C~HMW-P~4~~B. Smith ~Wintergreen~CMS~EOR
 7/31/2026~18~The Napoleonic Wars SF~~B~HE~6~~G. Williams ~Wagners Run~TNW~EOR
-7/31/2026~18~Sagrada Final~~B~HMW-P~1~~D. Schreier ~Seasons~SAG~EOR
-7/31/2026~18~Superstar Baseball Final~~B~SwEl~4~~R. Lee ~Laurel~SSB~EOR
+7/31/2026~18~Sagrada F~~B~HMW-P~1~~D. Schreier ~Seasons~SAG~EOR
+7/31/2026~18~Superstar Baseball F~~B~SwEl~4~~R. Lee ~Laurel~SSB~EOR
 7/31/2026~19~Battle Line R1/1~~B~SwEl~2~~S. McCulloch ~Seasons~BAT~EOR
 7/31/2026~19~Diplomacy R1/3~~B~SW~4~~A. Wilsbach ~Alpine~DIP~EOR
 7/31/2026~19~Fury Hardball R1/3~~A~SwEl~1~~A. Lewis ~Chestnut~FHB~EOR
 7/31/2026~19~Puerto Rico H2/3~~B~HMW-P~2~~R. Shay ~Seasons~PRO~EOR
 7/31/2026~19~Quacks H3/3~~B~HMW-P~2~~V. Hansen ~Sunburst~QOQ~EOR
 7/31/2026~19~Ra! QF~~B~HMW-P~2~~A. Bove ~Grand Ballroom~RA!~EOR
-7/31/2026~19~Formula Motor Racing Final~~B~HMW-P~2~~C. LeFevre ~Dogwood~FMR~EOR
-7/31/2026~19~Gaia Project Final~~B~HMW-P~3~~D. Cederquist ~Laurel~GAP~EOR
-7/31/2026~19~March Madness Final~~B~HMSE~3~~B. Reiff ~Evergreen~MMS~EOR
-7/31/2026~19~Memoir '44 Final~~B~SEM~2~~S. Edelston ~Maple~M44~EOR
+7/31/2026~19~Formula Motor Racing F~~B~HMW-P~2~~C. LeFevre ~Dogwood~FMR~EOR
+7/31/2026~19~Gaia Project F~~B~HMW-P~3~~D. Cederquist ~Laurel~GAP~EOR
+7/31/2026~19~March Madness F~~B~HMSE~3~~B. Reiff ~Evergreen~MMS~EOR
+7/31/2026~19~Memoir '44 F~~B~SEM~2~~S. Edelston ~Maple~M44~EOR
 7/31/2026~20~Crokinole H3/4~~C~SwEl~2~~S. Brown ~Snowflake~CRK~EOR
 7/31/2026~20~Fury Hardball R2/3~~A~SwEl~1~~A. Lewis ~Chestnut~FHB~EOR
 7/31/2026~20~War of the Ring R1/4~~C~SEM~4~~J. Martin ~Fox Den~WOR~EOR
 7/31/2026~20~Versailles 1919 SF~~B~HMW-P~3~~R. Pettis ~Grand Ballroom~V19~EOR
-7/31/2026~20~Terraforming Mars Final~~A~HMW-P~4~~A. Martin ~Laurel~TFM~EOR
+7/31/2026~20~Terraforming Mars F~~A~HMW-P~4~~A. Martin ~Laurel~TFM~EOR
 7/31/2026~21~B-17 After Action Meeting ~~--~--~3~~M. Yoshikawa ~Matterhorn~--~EOR
 7/31/2026~21~Acquire H3/3~~B~HMW-P~2~~C. Ackman ~Seasons~ACQ~EOR
 7/31/2026~21~Automobile H2/2~~B~HMW-P~3~~D. Borton ~Sunburst~AUT~EOR
@@ -894,13 +894,13 @@
 7/31/2026~23~Social Deduction Games ~~--~Demo~3~~ ~First Tracks~--~EOR
 7/31/2026~23~Liar's Dice R1/1~~B~SE~1~~E. Anderson ~Grand Ballroom~LID~EOR
 7/31/2026~23~Fury Hardball SF~~A~SwEl~1~~A. Lewis ~Chestnut~FHB~EOR
-7/31/2026~23~Battle Line Final~~B~SwEl~1~~S. McCulloch ~Seasons~BAT~EOR
-7/31/2026~23~Heat: Pedal to the Metal Final~~B~HMW-P~2~~J. Wolff ~Dogwood~HET~EOR
-7/31/2026~23~Ra! Final~~B~HMW-P~2~~A. Bove ~Laurel~RA!~EOR
+7/31/2026~23~Battle Line F~~B~SwEl~1~~S. McCulloch ~Seasons~BAT~EOR
+7/31/2026~23~Heat: Pedal to the Metal F~~B~HMW-P~2~~J. Wolff ~Dogwood~HET~EOR
+7/31/2026~23~Ra! F~~B~HMW-P~2~~A. Bove ~Laurel~RA!~EOR
 7/31/2026~24~Open Gaming Library Closes ~~--~--~--~~S. Buckwalter ~Exhibit Hall~--~EOR
 7/31/2026~24~Liar's Dice SF~~B~SE~1~~E. Anderson ~Grand Ballroom~LID~EOR
-7/31/2026~24~Fury Hardball Final~~A~SwEl~1~~A. Lewis ~Chestnut~FHB~EOR
-8/01/2026~1~Liar's Dice Final~~B~SE~1~~E. Anderson ~Grand Ballroom~LID~EOR
+7/31/2026~24~Fury Hardball F~~A~SwEl~1~~A. Lewis ~Chestnut~FHB~EOR
+8/01/2026~1~Liar's Dice F~~B~SE~1~~E. Anderson ~Grand Ballroom~LID~EOR
 8/01/2026~7.5~Yoga for all levels ~~--~--~0.75~~J. Lewis ~Ski Lodge Deck~--~EOR
 8/01/2026~8~WBC After Action Meeting ~~--~--~1~~K. Gutermuth ~Wintergreen~--~EOR
 8/01/2026~8~Registration ~~--~--~14~~K. Gutermuth ~Stag Pass~--~EOR
@@ -925,32 +925,32 @@
 8/01/2026~9~Panzerblitz SF~~B~SwEl~6~~R. Northey ~Winterberry~PZB~EOR
 8/01/2026~9~Squad Leader SF~~A~SwEl~4~~ ~Winterberry~SQL~EOR
 8/01/2026~9~Wingspan SF~~B~HMW-P~2~~P. Swift ~Grand Ballroom~WSN~EOR
-8/01/2026~9~Dune Final~~A~HE~5~~B. Johnson ~Dogwood~DUN~EOR
-8/01/2026~9~Here I Stand Final~~B~HMW-P~6~~J. Rice ~Wagners Run~HIS~EOR
+8/01/2026~9~Dune F~~A~HE~5~~B. Johnson ~Dogwood~DUN~EOR
+8/01/2026~9~Here I Stand F~~B~HMW-P~6~~J. Rice ~Wagners Run~HIS~EOR
 8/01/2026~10~Vendors ~~--~--~8~~K. Gutermuth ~Timberstone~--~EOR
 8/01/2026~10~M44 - Geilenkirchen Salient ~~--~--~4~~S. Edelston ~First Tracks Slopeside~--~EOR
 8/01/2026~10~Diplomacy R2/3~~B~SW~4~~A. Wilsbach ~Alpine~DIP~EOR
 8/01/2026~10~Space Base H1/2~~B~HMW-P~2~~J. Coussis ~Grand Ballroom~SBS~EOR
 8/01/2026~10~Automobile SF~~B~HMW-P~3~~D. Borton ~Seasons~AUT~EOR
 8/01/2026~10~The Russian Campaign SF~~A~SwEl~5~~G. Karahalios ~Winterberry~TRC~EOR
-8/01/2026~10~Advanced Squad Leader Final~~A~SE~5~~C. Schilling ~Winterberry~ASL~EOR
-8/01/2026~10~Afrika Korps Final~~A~SwEl~7~~B. Sinigaglio ~Winterberry~AFK~EOR
-8/01/2026~10~Waterloo Final~~A~SwEl~6~~E. Menzel ~Winterberry~WAT~EOR
+8/01/2026~10~Advanced Squad Leader F~~A~SE~5~~C. Schilling ~Winterberry~ASL~EOR
+8/01/2026~10~Afrika Korps F~~A~SwEl~7~~B. Sinigaglio ~Winterberry~AFK~EOR
+8/01/2026~10~Waterloo F~~A~SwEl~6~~E. Menzel ~Winterberry~WAT~EOR
 8/01/2026~11~Battle Cry R2/3~~A~SEM~2~~G. Heintzelman ~First Tracks Poolside~BCY~EOR
 8/01/2026~11~Catan R2/3~~B~HMW-P~2~~I. Gitzen II ~Grand Ballroom~CTN~EOR
 8/01/2026~11~Ticket To Ride QF~~B~HMW-T~2~~K. Grey ~Seasons~TTR~EOR
 8/01/2026~11~Navegador SF~~B~HMW-P~2~~C. Martin ~Seasons~NVG~EOR
-8/01/2026~11~Titan Final~~A~HMW-P~5~~D. desJardins ~Laurel~TTN~EOR
-8/01/2026~11~Wingspan Final~~B~HMW-P~2~~P. Swift ~Grand Ballroom~WSN~EOR
+8/01/2026~11~Titan F~~A~HMW-P~5~~D. desJardins ~Laurel~TTN~EOR
+8/01/2026~11~Wingspan F~~B~HMW-P~2~~P. Swift ~Grand Ballroom~WSN~EOR
 8/01/2026~12~Titan The Arena H3/3~~B~HMW-P~1~~K. Breza ~Seasons~TTA~EOR
 8/01/2026~12~Washington's War R2/3~~B~SwEl~3~~B. Peeck ~Maple~WWR~EOR
 8/01/2026~12~Win, Place, & Show H3/3~~C~HWO~3~~J. Romano ~Evergreen~WPS~EOR
 8/01/2026~12~Crokinole QF~~C~SwEl~2~~S. Brown ~Snowflake~CRK~EOR
 8/01/2026~12~Conquest of Paradise SF~~B~HMW-P~3~~K. McPartland ~First Tracks Center~CQP~EOR
 8/01/2026~12~Leaping Lemmings SF~~C~HWO~2~~B. Powers ~Sunburst~LLM~EOR
-8/01/2026~12~Circus Maximus Final~~C~HMW-P~4~~B. Smith ~Wintergreen~CMS~EOR
-8/01/2026~12~Dune Imperium Final~~B~HMW-P~3~~J. Spencer ~Laurel~DNI~EOR
-8/01/2026~12~Versailles 1919 Final~~B~HMW-P~3~~R. Pettis ~Laurel~V19~EOR
+8/01/2026~12~Circus Maximus F~~C~HMW-P~4~~B. Smith ~Wintergreen~CMS~EOR
+8/01/2026~12~Dune Imperium F~~B~HMW-P~3~~J. Spencer ~Laurel~DNI~EOR
+8/01/2026~12~Versailles 1919 F~~B~HMW-P~3~~R. Pettis ~Laurel~V19~EOR
 8/01/2026~13~Above the Trenches ~~--~--~2~~R. Radgoski ~First Tracks Center~--~EOR
 8/01/2026~13~An Uncivil Peace ~~--~--~2~~J. Poniske ~First Tracks Center~--~EOR
 8/01/2026~13~Battle Cry R3/3~~A~SEM~2~~G. Heintzelman ~First Tracks Poolside~BCY~EOR
@@ -964,72 +964,72 @@
 8/01/2026~13~Pirate's Cove SF~~B~HMW-P~2~~J. Otwell ~Grand Ballroom~PRC~EOR
 8/01/2026~13~Quacks SF~~B~HMW-P~2~~V. Hansen ~Seasons~QOQ~EOR
 8/01/2026~13~Ticket To Ride SF~~B~HMW-T~2~~K. Grey ~Seasons~TTR~EOR
-8/01/2026~13~Merchant of Venus Final~~B~HMW-P~3~~R. Irving ~Seasons~MOV~EOR
-8/01/2026~13~Navegador Final~~B~HMW-P~2~~C. Martin ~Laurel~NVG~EOR
-8/01/2026~13~Squad Leader Final~~A~SwEl~4~~ ~Winterberry~SQL~EOR
+8/01/2026~13~Merchant of Venus F~~B~HMW-P~3~~R. Irving ~Seasons~MOV~EOR
+8/01/2026~13~Navegador F~~B~HMW-P~2~~C. Martin ~Laurel~NVG~EOR
+8/01/2026~13~Squad Leader F~~A~SwEl~4~~ ~Winterberry~SQL~EOR
 8/01/2026~14~M44 - Operation Market Garden ~~--~--~4~~S. Edelston ~First Tracks Slopeside~--~EOR
 8/01/2026~14~Monsters Menace America Juniors ~~C~Jr SE~4~~D. Pack ~Hemlock~--~EOR
-8/01/2026~14~65: Squad Level Battles Final~~B~SE~3~~S. Shedden ~Winterberry~65S~EOR
-8/01/2026~14~Freeman's Farm Final~~B~HMW-P~3~~J. Lange ~Foggy Brews~FFM~EOR
-8/01/2026~14~Leaping Lemmings Final~~C~HWO~2~~B. Powers ~Wintergreen~LLM~EOR
-8/01/2026~14~Robo Rally Final~~C~HWO~3~~M. Houde ~Grand Ballroom~RRY~EOR
+8/01/2026~14~65: Squad Level Battles F~~B~SE~3~~S. Shedden ~Winterberry~65S~EOR
+8/01/2026~14~Freeman's Farm F~~B~HMW-P~3~~J. Lange ~Foggy Brews~FFM~EOR
+8/01/2026~14~Leaping Lemmings F~~C~HWO~2~~B. Powers ~Wintergreen~LLM~EOR
+8/01/2026~14~Robo Rally F~~C~HWO~3~~M. Houde ~Grand Ballroom~RRY~EOR
 8/01/2026~15~Euphrat & Tigris H3/3~~B~HMW-P~2~~C. Moffit ~Seasons~E&T~EOR
 8/01/2026~15~Washington's War R3/3~~B~SwEl~3~~B. Peeck ~Maple~WWR~EOR
 8/01/2026~15~Battle Cry SF~~A~SEM~2~~G. Heintzelman ~First Tracks Poolside~BCY~EOR
 8/01/2026~15~Concordia SF~~B~HMW-P~2~~C. Katz ~Seasons~CNC~EOR
 8/01/2026~15~Crokinole SF~~C~SwEl~2~~S. Brown ~Snowflake~CRK~EOR
 8/01/2026~15~Titan The Arena SF~~B~HMW-P~1~~K. Breza ~Seasons~TTA~EOR
-8/01/2026~15~Battles of the American Revolution Final~~B~SwEl~5~~M. Miklos ~Foggy Brews~BAR~EOR
-8/01/2026~15~Conquest of Paradise Final~~B~HMW-P~3~~K. McPartland ~Wintergreen~CQP~EOR
-8/01/2026~15~Dominant Species Final~~B~HMW-P~4~~L. McKinnes ~Seasons~DSP~EOR
-8/01/2026~15~Football Strategy Final~~B~HMSE~2~~B. Schoose ~Evergreen~FBS~EOR
-8/01/2026~15~History of the World Final~~B~HMW-P~6~~ ~Laurel~HWD~EOR
-8/01/2026~15~Panzerblitz Final~~B~SwEl~6~~R. Northey ~Winterberry~PZB~EOR
-8/01/2026~15~Pirate's Cove Final~~B~HMW-P~2~~J. Otwell ~Grand Ballroom~PRC~EOR
-8/01/2026~15~Ticket To Ride Final~~B~HMW-T~2~~K. Grey ~Seasons~TTR~EOR
+8/01/2026~15~Battles of the American Revolution F~~B~SwEl~5~~M. Miklos ~Foggy Brews~BAR~EOR
+8/01/2026~15~Conquest of Paradise F~~B~HMW-P~3~~K. McPartland ~Wintergreen~CQP~EOR
+8/01/2026~15~Dominant Species F~~B~HMW-P~4~~L. McKinnes ~Seasons~DSP~EOR
+8/01/2026~15~Football Strategy F~~B~HMSE~2~~B. Schoose ~Evergreen~FBS~EOR
+8/01/2026~15~History of the World F~~B~HMW-P~6~~ ~Laurel~HWD~EOR
+8/01/2026~15~Panzerblitz F~~B~SwEl~6~~R. Northey ~Winterberry~PZB~EOR
+8/01/2026~15~Pirate's Cove F~~B~HMW-P~2~~J. Otwell ~Grand Ballroom~PRC~EOR
+8/01/2026~15~Ticket To Ride F~~B~HMW-T~2~~K. Grey ~Seasons~TTR~EOR
 8/01/2026~16~Lost Cities H3/4~~B~SwEl~1~~R. Pettis ~Sunburst~LST~EOR
 8/01/2026~16~Catan SF~~B~HMW-P~2~~I. Gitzen II ~Laurel~CTN~EOR
 8/01/2026~16~Space Base SF~~B~HMW-P~2~~J. Coussis ~Alpine~SBS~EOR
 8/01/2026~16~Wooden Ships & Iron Men SF~~B~SwEl~2~~T. Hitchings ~Winterberry~WSM~EOR
-8/01/2026~16~Bitter Woods Final~~A~SwEl~7~~B. Sinigaglio ~Winterberry~BWD~EOR
-8/01/2026~16~Castles of Burgundy Final~~B~HMW-P~3~~R. Irving ~Seasons~COB~EOR
-8/01/2026~16~Titan The Arena Final~~B~HMW-P~1~~K. Breza ~Seasons~TTA~EOR
-8/01/2026~16~Win, Place, & Show Final~~C~HWO~3~~J. Romano ~Evergreen~WPS~EOR
+8/01/2026~16~Bitter Woods F~~A~SwEl~7~~B. Sinigaglio ~Winterberry~BWD~EOR
+8/01/2026~16~Castles of Burgundy F~~B~HMW-P~3~~R. Irving ~Seasons~COB~EOR
+8/01/2026~16~Titan The Arena F~~B~HMW-P~1~~K. Breza ~Seasons~TTA~EOR
+8/01/2026~16~Win, Place, & Show F~~C~HWO~3~~J. Romano ~Evergreen~WPS~EOR
 8/01/2026~17~War of the Ring R4/4~~C~SEM~4~~J. Martin ~Fox Den~WOR~EOR
 8/01/2026~17~Acquire SF~~B~HMW-P~2~~C. Ackman ~Seasons~ACQ~EOR
 8/01/2026~17~Euphrat & Tigris SF~~B~HMW-P~2~~C. Moffit ~Seasons~E&T~EOR
 8/01/2026~17~Naval War SF~~B~HWO~3~~J. Kramer ~Grand Ballroom~NVW~EOR
-8/01/2026~17~Battle Cry Final~~A~SEM~2~~G. Heintzelman ~Laurel~BCY~EOR
-8/01/2026~17~Formula De Final~~C~HMW-P~4~~E. Meader ~Dogwood~FDE~EOR
-8/01/2026~17~Galaxy Trucker Final~~B~HMW-P~2~~D. Finberg ~First Tracks Center~GXT~EOR
-8/01/2026~17~The Russian Campaign Final~~A~SwEl~5~~G. Karahalios ~Winterberry~TRC~EOR
+8/01/2026~17~Battle Cry F~~A~SEM~2~~G. Heintzelman ~Laurel~BCY~EOR
+8/01/2026~17~Formula De F~~C~HMW-P~4~~E. Meader ~Dogwood~FDE~EOR
+8/01/2026~17~Galaxy Trucker F~~B~HMW-P~2~~D. Finberg ~First Tracks Center~GXT~EOR
+8/01/2026~17~The Russian Campaign F~~A~SwEl~5~~G. Karahalios ~Winterberry~TRC~EOR
 8/01/2026~18~Can't Stop Juniors ~~C~Jr SE~2~~T. Evinger ~Hemlock~--~EOR
 8/01/2026~18~Lost Cities H4/4~~B~SwEl~1~~R. Pettis ~Sunburst~LST~EOR
 8/01/2026~18~Washington's War SF~~B~SwEl~3~~B. Peeck ~Maple~WWR~EOR
-8/01/2026~18~Catan Final~~B~HMW-P~2~~I. Gitzen II ~Laurel~CTN~EOR
-8/01/2026~18~Concordia Final~~B~HMW-P~2~~C. Katz ~Laurel~CNC~EOR
-8/01/2026~18~Crokinole Final~~C~SwEl~2~~S. Brown ~Snowflake~CRK~EOR
-8/01/2026~18~Space Base Final~~B~HMW-P~2~~J. Coussis ~Alpine~SBS~EOR
-8/01/2026~18~The Napoleonic Wars Final~~B~HE~6~~G. Williams ~Wagners Run~TNW~EOR
+8/01/2026~18~Catan F~~B~HMW-P~2~~I. Gitzen II ~Laurel~CTN~EOR
+8/01/2026~18~Concordia F~~B~HMW-P~2~~C. Katz ~Laurel~CNC~EOR
+8/01/2026~18~Crokinole F~~C~SwEl~2~~S. Brown ~Snowflake~CRK~EOR
+8/01/2026~18~Space Base F~~B~HMW-P~2~~J. Coussis ~Alpine~SBS~EOR
+8/01/2026~18~The Napoleonic Wars F~~B~HE~6~~G. Williams ~Wagners Run~TNW~EOR
 8/01/2026~19~M44 - Stalingrad: End of the 6th Army ~~--~--~4~~S. Edelston ~First Tracks Slopeside~--~EOR
 8/01/2026~19~Diplomacy R3/3~~B~SW~4~~A. Wilsbach ~Alpine~DIP~EOR
 8/01/2026~19~Orleans SF~~A~HMW-P~2~~A. Jiang ~Seasons~ORL~EOR
 8/01/2026~19~Puerto Rico SF~~B~HMW-P~2~~R. Shay ~Seasons~PRO~EOR
-8/01/2026~19~Ace of Aces Final~~C~SwEl~1~~M. Chesnut ~Chestnut~AOA~EOR
-8/01/2026~19~Acquire Final~~B~HMW-P~2~~C. Ackman ~Laurel~ACQ~EOR
-8/01/2026~19~Euphrat & Tigris Final~~B~HMW-P~2~~C. Moffit ~Seasons~E&T~EOR
-8/01/2026~19~Wooden Ships & Iron Men Final~~B~SwEl~2~~T. Hitchings ~Winterberry~WSM~EOR
+8/01/2026~19~Ace of Aces F~~C~SwEl~1~~M. Chesnut ~Chestnut~AOA~EOR
+8/01/2026~19~Acquire F~~B~HMW-P~2~~C. Ackman ~Laurel~ACQ~EOR
+8/01/2026~19~Euphrat & Tigris F~~B~HMW-P~2~~C. Moffit ~Seasons~E&T~EOR
+8/01/2026~19~Wooden Ships & Iron Men F~~B~SwEl~2~~T. Hitchings ~Winterberry~WSM~EOR
 8/01/2026~20~Lost Cities QF~~B~SwEl~1~~R. Pettis ~Sunburst~LST~EOR
-8/01/2026~20~Naval War Final~~B~HWO~3~~J. Kramer ~Laurel~NVW~EOR
+8/01/2026~20~Naval War F~~B~HWO~3~~J. Kramer ~Laurel~NVW~EOR
 8/01/2026~21~Facts In Five R1/1~~C~HWO~2~~J. Corrado ~Grand Ballroom~FI5~EOR
 8/01/2026~21~Lost Cities SF~~B~SwEl~1~~R. Pettis ~Sunburst~LST~EOR
 8/01/2026~21~Race for the Galaxy SF~~B~HMW-P~1~~E. Freeman ~Seasons~RFG~EOR
 8/01/2026~21~War of the Ring SF~~C~SEM~4~~J. Martin ~Fox Den~WOR~EOR
-8/01/2026~21~Orleans Final~~A~HMW-P~2~~A. Jiang ~Laurel~ORL~EOR
-8/01/2026~21~Puerto Rico Final~~B~HMW-P~2~~R. Shay ~Laurel~PRO~EOR
-8/01/2026~22~Lost Cities Final~~B~SwEl~1~~R. Pettis ~Sunburst~LST~EOR
-8/01/2026~22~Race for the Galaxy Final~~B~HMW-P~1~~E. Freeman ~Seasons~RFG~EOR
-8/01/2026~22~Washington's War Final~~B~SwEl~3~~B. Peeck ~Maple~WWR~EOR
+8/01/2026~21~Orleans F~~A~HMW-P~2~~A. Jiang ~Laurel~ORL~EOR
+8/01/2026~21~Puerto Rico F~~B~HMW-P~2~~R. Shay ~Laurel~PRO~EOR
+8/01/2026~22~Lost Cities F~~B~SwEl~1~~R. Pettis ~Sunburst~LST~EOR
+8/01/2026~22~Race for the Galaxy F~~B~HMW-P~1~~E. Freeman ~Seasons~RFG~EOR
+8/01/2026~22~Washington's War F~~B~SwEl~3~~B. Peeck ~Maple~WWR~EOR
 8/01/2026~23~Open Gaming Library Closes ~~--~--~--~~S. Buckwalter ~Exhibit Hall~--~EOR
 8/01/2026~24~Open Gaming Closes ~~--~--~--~~S. Buckwalter ~Exhibit Hall~--~EOR
 8/02/2026~4~Shuttle to Pittsburgh Airport ~~--~--~2~~ ~Hotel Lobby~--~EOR
@@ -1041,21 +1041,21 @@
 8/02/2026~9~Attack Sub H1/3~~A~SwEl~1~~A. Lewis ~Seasons~ATS~EOR
 8/02/2026~9~Egizia SF~~B~HMW-P~2~~A. Emerick ~Seasons~EGZ~EOR
 8/02/2026~9~Enemy in Sight SF~~B~HWO~3~~M. Evinger ~Grand Ballroom~EIS~EOR
-8/02/2026~9~Championship Formula Racing Final~~B~HMW-P~4~~C. Long ~Seasons~CFR~EOR
-8/02/2026~9~War of the Ring Final~~C~SEM~4~~J. Martin ~Seasons~WOR~EOR
+8/02/2026~9~Championship Formula Racing F~~B~HMW-P~4~~C. Long ~Seasons~CFR~EOR
+8/02/2026~9~War of the Ring F~~C~SEM~4~~J. Martin ~Seasons~WOR~EOR
 8/02/2026~10~Catholic Mass ~~--~--~1~~ ~Sunburst~--~EOR
 8/02/2026~10~Attack Sub H2/3~~A~SwEl~1~~A. Lewis ~Seasons~ATS~EOR
 8/02/2026~10~Transamerica H1/1~~B~HMW-P~1~~K. Breza ~Grand Ballroom~TAM~EOR
-8/02/2026~10~Automobile Final~~B~HMW-P~3~~D. Borton ~Seasons~AUT~EOR
+8/02/2026~10~Automobile F~~B~HMW-P~3~~D. Borton ~Seasons~AUT~EOR
 8/02/2026~11~Attack Sub H3/3~~A~SwEl~1~~A. Lewis ~Seasons~ATS~EOR
 8/02/2026~11~Transamerica SF~~B~HMW-P~1~~K. Breza ~Grand Ballroom~TAM~EOR
-8/02/2026~11~Egizia Final~~B~HMW-P~2~~A. Emerick ~Seasons~EGZ~EOR
-8/02/2026~11~Quacks Final~~B~HMW-P~2~~V. Hansen ~Seasons~QOQ~EOR
+8/02/2026~11~Egizia F~~B~HMW-P~2~~A. Emerick ~Seasons~EGZ~EOR
+8/02/2026~11~Quacks F~~B~HMW-P~2~~V. Hansen ~Seasons~QOQ~EOR
 8/02/2026~12~Attack Sub QF~~A~SwEl~1~~A. Lewis ~Seasons~ATS~EOR
-8/02/2026~12~Enemy in Sight Final~~B~HWO~3~~M. Evinger ~Grand Ballroom~EIS~EOR
+8/02/2026~12~Enemy in Sight F~~B~HWO~3~~M. Evinger ~Grand Ballroom~EIS~EOR
 8/02/2026~13~Shuttle to Pittsburgh Airport ~~--~--~2~~ ~Hotel Lobby~--~EOR
 8/02/2026~13~Attack Sub SF~~A~SwEl~1~~A. Lewis ~Seasons~ATS~EOR
-8/02/2026~13~Transamerica Final~~B~HMW-P~1~~K. Breza ~Grand Ballroom~TAM~EOR
-8/02/2026~14~Attack Sub Final~~A~SwEl~1~~A. Lewis ~Seasons~ATS~EOR
+8/02/2026~13~Transamerica F~~B~HMW-P~1~~K. Breza ~Grand Ballroom~TAM~EOR
+8/02/2026~14~Attack Sub F~~A~SwEl~1~~A. Lewis ~Seasons~ATS~EOR
 8/02/2026~22~Open Gaming Closes ~~--~--~--~~K. Gutermuth ~Seasons~--~EOR
 8/03/2026~11~Shuttle to Pittsburgh Airport ~~--~--~2~~ ~Hotel Lobby~--~EOR

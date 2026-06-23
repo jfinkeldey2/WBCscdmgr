@@ -425,6 +425,7 @@ public class SettingsActivity extends AppCompatActivity {
 				}
 			});
 
+            /*
 			Preference scheduleImport =
 					findPreference(getResources().getString(R.string.pref_key_schedule_import));
 			scheduleImport.setOnPreferenceClickListener(new Preference.OnPreferenceClickListener() {
@@ -446,6 +447,8 @@ public class SettingsActivity extends AppCompatActivity {
 				}
 			});
 
+            */
+            /* Removed delete JLF 6/22/26
 			scheduleDelete = findPreference(getResources().getString(R.string.pref_key_schedule_delete));
 			scheduleDelete.setOnPreferenceClickListener(new Preference.OnPreferenceClickListener() {
 				@Override
@@ -454,6 +457,7 @@ public class SettingsActivity extends AppCompatActivity {
 					return true;
 				}
 			});
+                */
             /* Removed share JLF 5/16/26
 
 			scheduleExport = findPreference(getResources().getString(R.string.pref_key_schedule_export));
