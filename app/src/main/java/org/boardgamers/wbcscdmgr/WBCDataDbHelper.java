@@ -317,8 +317,8 @@ class WBCDataDbHelper extends SQLiteOpenHelper {
 
 	List<Event> getEventsFromSearchString(long userId, String searchString) {
 		return getEvents(userId, true, true,
-				"(" + EventEntry.TABLE_NAME + "." + EventEntry.COLUMN_TITLE + " LIKE '%" + searchString + "%' OR " +
-						EventEntry.TABLE_NAME + "." + EventEntry.COLUMN_FORMAT + " LIKE '%" + searchString + "%')", null);
+				"(" + EventEntry.TABLE_NAME + "." + EventEntry.COLUMN_TITLE + " LIKE '%" + searchString.replace("'","''") + "%' OR " +
+						EventEntry.TABLE_NAME + "." + EventEntry.COLUMN_FORMAT + " LIKE '%" + searchString.replace("'","''") + "%')", null);
 	}
 
 	List<Event> getTournamentEvents(long userId, long tournamentId) {
